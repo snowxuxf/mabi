@@ -121,13 +121,6 @@
   "filterable":1 ,
   "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },
-            {
-      "key": "影探",
-      "name": "🍥宝盒4K-HDR",
-      "type": 3,
-      "api": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/lib/drpy2.min.js",
-      "ext": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/js/yt.js"
-    },
             { 
       "key": "csp_XYQHiker_‍dyx", 
       "name": "🚢电影磁力4k", 
@@ -5153,7 +5146,7 @@
       ]
     }
   ],
-   "lives":[{"name":"live","type":0,"url":"https://codeberg.org/snowxuxf/IPTV/raw/branch/master/ALL.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+   "lives":[{"name":"live","type":0,"url":"https://notabug.org/snowxuxf/IPTV/raw/master/ALL.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
    "rules":[
      {
