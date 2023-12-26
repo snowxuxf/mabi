@@ -92,7 +92,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.maolvys.com/",
-      "jar":https://notabug.org/snowxuxf/IPTV/raw/master/lib/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
+      "jar": "https://codeberg.org/jgfx/ALL1/raw/branch/master/jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
 {
   "key": "apv2_瑞丰",
@@ -406,7 +406,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/fgys.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/fgys.json"
 },
 {
   "key": "49zy",
@@ -438,7 +438,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/sc1080.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/sc1080.json"
 },
 {
   "key":"酷影",
@@ -458,7 +458,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/voflix.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/voflix.json"
 },
 {
   "key":"555影视",
@@ -468,7 +468,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/555.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/555.json"
 },
 {
   "key": "嘿嘿",
@@ -489,7 +489,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/cechi.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/cechi.json"
 },
 {
   "key": "迷你库",
@@ -647,7 +647,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/胖虎影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/胖虎影视.json"
 },
 {
   "key":"emoFun",
@@ -719,7 +719,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/xiaoxiao.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/xiaoxiao.json"
 },
 {
   "key":"Vidhub视频",
@@ -729,7 +729,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/Vidhub.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/Vidhub.json"
 },
 {
   "key": "车妹",
@@ -749,7 +749,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/cdd.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/cdd.json"
 },
 {
   "key":"csp_盒子",
@@ -759,7 +759,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/hezi.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/hezi.json"
 },
 {
   "key":"348影视",
@@ -769,7 +769,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/348.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/348.json"
 },
 {
   "key":"csp_七月",
@@ -779,7 +779,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/qiyue.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/qiyue.json"
 },
 {
   "key":"csp_好戏",
@@ -789,7 +789,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/haoxiys.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/haoxiys.json"
 },
 {
   "key":"csp_星辰",
@@ -799,7 +799,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/xcys.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/xcys.json"
 },
 {
   "key": "meowtv_yszj",
@@ -998,7 +998,7 @@
   "quickSearch":1,
   "filterable":1,
   "playerType": "1",
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/wandays.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/wandays.json"
 },
 {
   "key": "海星影视",
@@ -1008,7 +1008,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/haixingys.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/haixingys.json"
 },
 {
   "key": "03",
@@ -1017,7 +1017,7 @@
   "api": "csp_XBPQ",
   "jar": "http://小盒酷玩.fun:74/禁止贩卖",
   "playerType": "1",
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/03.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/03.json"
 },
 {
   "key": "csp_AucFox",
@@ -1025,7 +1025,7 @@
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "http://小盒酷玩.fun:74/禁止贩卖",
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/AucFox.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/AucFox.json"
 },
 {
   "key": "星奇",
@@ -1329,7 +1329,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/七月影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/七月影视.json"
 },
 {
   "key": "csp_觅知",
@@ -1339,7 +1339,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/觅知影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/觅知影视.json"
 },
 {
   "key":"飞鱼",
@@ -1371,7 +1371,7 @@
   "quickSearch":1,
   "filterable":1,
   "playerType": "1",
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/wandays.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/wandays.json"
 },
 {
   "key": "奈落",
@@ -1395,8 +1395,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/COKEMV影院.json",
-  "jar": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/COKEMV影院.json",
+  "jar": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
 },
 {
   "key": "csp_XYQHiker_锐行加速影院",
@@ -1406,8 +1406,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/锐行加速影院.json",
-  "jar": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/锐行加速影院.json",
+  "jar": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
 },
 {
   "key":"csp_biubiu_大米星球",
@@ -1478,7 +1478,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/五五影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/五五影视.json"
 },
 {
   "key": "csp_达龟",
@@ -1488,7 +1488,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/达达龟影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/达达龟影视.json"
 },
 {
   "key": "csp_xBPQ_奇优",
@@ -1498,7 +1498,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/奇优影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/奇优影视.json"
 },
 {
   "key": "csp_佳能",
@@ -1508,7 +1508,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/348影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/348影视.json"
 },
 {
   "key": "csp_蛋蛋",
@@ -1518,7 +1518,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/蛋蛋影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/蛋蛋影视.json"
 },
 {
   "key": "csp_不卡",
@@ -1528,7 +1528,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/真不卡影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/真不卡影视.json"
 },
 {
   "key": "csp_黑狐",
@@ -1538,7 +1538,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/heihu.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/heihu.json"
 },
 {
   "key": "骑骑",
@@ -1627,7 +1627,7 @@
   "quickSearch":1,
   "filterable":1,
   "playerType": "1",
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/qinian.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/qinian.json"
 },
 {
   "key": "csp_beijihu",
@@ -1647,7 +1647,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/liangzi.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/liangzi.json"
 },
 {
   "key":"非凡资源",
@@ -1657,7 +1657,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/ffzy.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/ffzy.json"
 },
 {"key":"橘子","name":"🍊橘子","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 {
@@ -1677,7 +1677,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/guangun.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/guangun.json"
 },
 {
   "key": "meowtv_nmys",
@@ -1707,7 +1707,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/kucha.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/kucha.json"
 },
 {
   "key":"王朝",
@@ -1791,7 +1791,7 @@
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,"ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/梧叶秋声.json"
+  "filterable": 1,"ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/梧叶秋声.json"
 },
 {
 	"key": "apv2_雪山",
@@ -1831,7 +1831,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/萌猫影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/萌猫影视.json"
 },
 {
   "key":"鸭奈飞",
@@ -1871,7 +1871,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/极速.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/极速.json"
 },
 {
   "key": "csp_XBPQ_lz",
@@ -1881,7 +1881,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/黑乎影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/黑乎影视.json"
 },
 {
   "key": "土豪影视",
@@ -1891,7 +1891,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/土豪影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/土豪影视.json"
 },
 {
   "key":"csp_345",
@@ -1901,7 +1901,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://notabug.org/snowxuxf/IPTV/raw/master/lib/345.json"
+  "ext":"https://codeberg.org/mabi/BH/raw/branch/tv/lib/345.json"
 },
 {
   "key": "O先生",
@@ -2118,7 +2118,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://notabug.org/snowxuxf/IPTV/raw/master/lib/威士影视.json"
+  "ext": "https://codeberg.org/mabi/BH/raw/branch/tv/lib/威士影视.json"
 },
 {
   "key":"圆周率",
@@ -5146,7 +5146,7 @@
       ]
     }
   ],
-   "lives":[{"name":"live","type":0,"url":"https://notabug.org/snowxuxf/IPTV/raw/master/ALL.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+   "lives":[{"name":"live","type":0,"url":"https://agit.ai/bnsgj/vip/raw/branch/master/ssc.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
    "rules":[
      {
