@@ -121,6 +121,17 @@
   "filterable":1 ,
   "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },
+{
+      "key": "csp_New6v",
+      "name": "🍥宝盒4KHDR",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "jar": "https://agit.ai/dlee2008/gh-ygbh/raw/branch/main/jar/XYQ1.jar;md5;B880BBAD2845D16CFB86CCA0331B2621"
+}, 
             { 
       "key": "csp_XYQHiker_‍dyx", 
       "name": "🚢电影磁力4k", 
