@@ -389,14 +389,38 @@
   {
     "key": "js_武享吧",
     "name": "格斗资源",
-    "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+    "api": "https://aosikazy.com/api.php/provide/vod/",
     "download": "",
-    "jiexiUrl": "http://qrh.yimkj.cn/ym/lib/武享吧.js",
+    "jiexiUrl": "",
     "group": "默认",
     "status": true,
     "isActive": true,
     "type": 1,
     "id": 33
+  },
+  {
+    "key": "猫猫资源",
+    "name": "猫猫资源",
+    "api": "https://www.mervod.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 34
+  },
+  {
+    "key": "飞飞资源",
+    "name": "飞飞资源",
+    "api": "https://ckzy.me/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 34
   }
                     
 ]},
