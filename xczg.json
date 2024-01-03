@@ -12,6 +12,16 @@
       "quickSearch": 0,
       "filterable": 0
     },
+{      
+        "key":"MV",
+        "name":"🤑啥都有",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://notabug.org/mabi/zbs/raw/master/lib/Bili.json"
+},
 {
   "key": "蝴蝶",
   "name": "🦋蝴蝶App",
@@ -2045,15 +2055,6 @@
   "ext": "http://yingszj.xn--654a.cc/api.php/app/"
 },
 {
-  "key": "優質资源网",
-  "name": "🍊优质资源",
-  "type": 0,
-  "api": "https://api.1080zyku.com/inc/api.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key":"csp_XBPQ_dudu30",
   "name":"🍹嘟嘟影视",
   "type":3,
@@ -2348,17 +2349,6 @@
       ]
 },
 {
-  "key": "高清资源网",
-  "name": "🎦️高清2K",
-  "type": 1,
-  "api": "https://api.1080zyku.com/inc/apijson.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-  "categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]
-},
-{
   "key":"csp_AppYsV2",
   "name":"🎦69美剧",
   "type":3,
@@ -2524,7 +2514,6 @@
 {"key":"金鹰资源","name":"🐝金鹰资源","api": "https://jyzyapi.com/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"42资源","name":"🐝42资源","api": "https://www.42.la/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"🐝非凡资源","api": "http://cj.ffzyapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
-{"key":"1080资源库","name":"🐝1080资源库","api": "https://api.1080zyku.com/inc/api_mac10.php","type":1,"playUrl":"","searchable":1,"quickSearch":1}, 
 {"key":"飞速资源","name":"🐝飞速资源","api": "https://www.feisuzy.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"🐝光速资源","api": "https://api.guangsuapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 { "key": "猫猫资源","name":"🐝猫猫资源","api": "https://www.mervod.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
