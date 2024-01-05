@@ -49,16 +49,17 @@
   "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
   "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
 },
-{
-  "key":"Xinsj",
-  "name":"👓┃新视觉┃视",
-  "type":3,
-  "api":"csp_Xinsj",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1,
-  "ext":"https://www.3ayy.com/"
-}, 
+    {
+      "key": "新视觉",
+      "name": "🐦┃视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://www.80yy3.com/",
+      "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+    }, 
 {
   "key": "南瓜",
   "name": "🎃南瓜App",
