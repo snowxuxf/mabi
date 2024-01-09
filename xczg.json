@@ -51,7 +51,7 @@
 },
     {
       "key": "新视觉",
-      "name": "🐦┃视觉┃影视",
+      "name": "👓┃视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -59,7 +59,7 @@
       "filterable": 1,
       "ext":"https://www.80yy3.com/",
       "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
-    }, 
+},
 {
   "key": "南瓜",
   "name": "🎃南瓜App",
@@ -145,7 +145,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1 ,
-  "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+      "jar":"https://gitea.com/mabi/zbs/raw/branch/master/lib/fan240110.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9"
 },
 {
   "key": "少泽影客（APP）",
@@ -2185,7 +2185,7 @@
   "key": "一起看 ",
   "name": "🍊一起看影视",
   "type": 3,
-  "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "jar":"https://gitea.com/mabi/zbs/raw/branch/master/lib/fan240110.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
   "api": "csp_YQKan",
   "searchable": 1,
   "quickSearch": 1,
@@ -2213,7 +2213,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy66.com/",
-"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74"
+     "jar":"https://gitea.com/mabi/zbs/raw/branch/master/lib/fan240110.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9"
     },
       {
       "key": "爱迪",
@@ -2552,7 +2552,7 @@
     "key": "csp_WoGG",
     "name": "🎯┃玩偶┃哥哥",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "jar":"https://gitea.com/mabi/zbs/raw/branch/master/lib/fan240110.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -2567,7 +2567,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://https://notabug.org/mabi/zbs/raw/master/lib/4khdr.js"
+            "ext": "https://notabug.org/mabi/zbs/raw/master/lib/4khdr.js"
         },
         {
       "key": "csp_New6v",
