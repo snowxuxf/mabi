@@ -61,17 +61,13 @@
       "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
 },
 {
-  "key": "南瓜",
-  "name": "🎃南瓜App",
-  "type": 3,
-  "api": "csp_NanGua",
-  "searchable": 1,
-  "quickSearch": 1,
-  "playerType": 2,
-  "filterable": 1,
-  "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
-  "ext": ""
-},
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
