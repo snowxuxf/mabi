@@ -535,7 +535,7 @@
             "type": 3,
             "api": "csp_XBPQ",
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/蜗牛.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/蜗牛.json"
         },
         {
             "key": "js_mogu",
@@ -546,17 +546,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/蘑菇.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/蘑菇.json"
         },
         {
             "key": "js_影探",
             "name": "🕵️┃侦探┃盒子",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/侦探.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/侦探.js"
         },
 		{
             "key": "XBPQ_九八",
@@ -567,17 +567,17 @@
             "quickSearch": 1,
             "filterable": 1,
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/98影视.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/98影视.json"
         },
         {
             "key": "js_555",
             "name": "🌟┃三五┃影视",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/555.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/555.js"
         },		
         {
             "key": "XBPQ_蚂蚁",
@@ -588,7 +588,7 @@
             "quickSearch": 1,
             "filterable": 1,
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/mayi.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/mayi.json"
         },		
         {
             "key": "csp_FreeOK",
@@ -599,17 +599,17 @@
             "quickSearch": 1,
             "filterable": 1,
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/free.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/free.json"
         },
         {
             "key": "js_bzys",
             "name": "🌋┃B站┃影视",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/bzys.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/bzys.js"
         },
         {
             "key": "csp_rbzj",
@@ -620,7 +620,7 @@
             "quickSearch": 1,
             "filterable": 1,
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/热播之家.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/热播之家.json"
         },
         {
             "key": "XBPQ_石榴",
@@ -631,7 +631,7 @@
             "quickSearch": 1,
             "filterable": 1,
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "http://qrh.yimkj.cn/ym/lib/shiliu.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/shiliu.json"
         },
         {
             "key": "csp_MeiJu69",
@@ -647,52 +647,52 @@
             "key": "js_大师兄",
             "name": "🐵┃师兄┃影视",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/大师兄影视.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/大师兄影视.js"
         },
         {
             "key": "js_电影先生",
             "name": "🤵┃电影┃先生",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/电影先生.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/电影先生.js"
         },
         {
             "key": "js_轰轰",
             "name": "💥‍┃轰轰┃影视",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
 			"searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/hoho.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/hoho.js"
         },
         {
             "key": "js_蛋蛋",
             "name": "🥚‍┃蛋蛋┃影视",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
 			"searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/蛋蛋.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/蛋蛋.js"
         },
 {"key":"drpy_js_鸭鸭[V2]","name":"影视 | 鸭鸭[V2][js]","type":3,"api":"https://raw.fgit.cf/yw88075/tvbox/main/dr/lib/drpy2.min.js","ext":"https://raw.fgit.cf/yw88075/tvbox/main/dr/js/鸭鸭[V2].js"},	
         {
             "key": "js_耐菲",
             "name": "🦆┃耐菲┃影视",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/鸭奈飞.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/鸭奈飞.js"
         },
         {
             "key": "csp_Btwtoo",
@@ -711,7 +711,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/达达龟.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/达达龟.json"
         },	
         {
             "key": "360_spider",
@@ -731,7 +731,7 @@
 			"quickSearch":1,
 			"filterable":1,
             "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/spider1.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",			
-			"ext":"http://qrh.yimkj.cn/ym/lib/Bili短剧.json"
+			"ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/Bili短剧.json"
 		},		
         {
             "key": "XBPQ_葡萄",
@@ -749,11 +749,11 @@
             "key": "js_DJ5",
             "name": "🎦┃短剧┃DJ5",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/短剧网.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/短剧网.js"
         },			
         {
 			"key":"csp_XYQHiker_VSYY",
@@ -764,7 +764,7 @@
 			"filterable":1,
             "api": "csp_XYQHiker",
             "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/spider1.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",			
-			"ext":"http://qrh.yimkj.cn/ym/lib/VS影院.json"
+			"ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/VS影院.json"
 		},		
         {   "key": "csp_XBPQ_aoaotv", 
 		    "name": "🎦┃短剧┃嗷嗷", 
@@ -792,11 +792,11 @@
             "key": "js58",
             "name": "👩‍🎨┃五八┃动漫",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/58动漫.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/58动漫.js"
         },
         {
             "key": "蓝猫动漫",
@@ -822,7 +822,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://qrh.yimkj.cn/ym/lib/动漫巴士.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/动漫巴士.json"
         },		
         {
             "key": "zy_新浪",
@@ -2313,7 +2313,7 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/spider1.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "http://qrh.yimkj.cn/ym/lib/jojo.json"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/jojo.json"
         },
 {
   "key": "低端",
@@ -2562,11 +2562,31 @@
             "key": "js_4KHDR",
             "name": "👩‍⚕️┃玩偶┃姐姐",
             "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://notabug.org/mabi/zbs/raw/master/lib/4khdr.js"
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/4khdr.js"
+        },
+        {
+            "key": "XYQH_电影港",
+            "name": "🧲┃港口┃磁力",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_XYQHiker",
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/港口.json",
+      "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/main.jar;md5;75fa3591d85e93f5e4bce0c739b72adb"
+        },
+        {
+            "key": "js_磁力熊",
+            "name": "🧲‍┃贝尔┃磁力",
+            "type": 3,
+            "api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/bear.js",
+      "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/main.jar;md5;75fa3591d85e93f5e4bce0c739b72adb"
         },
         {
       "key": "csp_New6v",
@@ -2599,37 +2619,12 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/新6v.json"
     },
-        {
-            "key": "js_6V",
-            "name": "🧲┃六维┃磁力",
-            "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/6V.js",
-           "jar": "http://qrh.yimkj.cn/ym/lib/main.jar;md5;75fa3591d85e93f5e4bce0c739b72adb"
-        },
-        {
-            "key": "js_酷吧",
-            "name": "🧲┃酷吧┃磁力",
-            "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/kuba.js",
-      "jar": "https://agit.ai/dlee2008/gh-ygbh/raw/branch/main/jar/XYQ1.jar;md5;f91ba72d2516a995da86b7321440c653"
-        },
-        {
-            "key": "XYQH_电影港",
-            "name": "🧲┃港口┃磁力",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_XYQHiker",
-      "jar": "https://agit.ai/dlee2008/gh-ygbh/raw/branch/main/jar/XYQ1.jar;md5;f91ba72d2516a995da86b7321440c653",
-            "ext": "http://qrh.yimkj.cn/ym/lib/港口.json"
-        },
+        {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
+
+        {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
+        {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
+
         {
       "key": "csp_Mp4Mov",
       "name": "🧲┃Mp4┃4k",
@@ -2698,17 +2693,6 @@
       "jar": "https://agit.ai/dlee2008/gh-ygbh/raw/branch/main/jar/XYQ1.jar;md5;f91ba72d2516a995da86b7321440c653"
         },
         {
-            "key": "js_磁力熊",
-            "name": "🧲‍┃贝尔┃磁力",
-            "type": 3,
-            "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://qrh.yimkj.cn/ym/lib/bear.js",
-      "jar": "https://agit.ai/dlee2008/gh-ygbh/raw/branch/main/jar/XYQ1.jar;md5;f91ba72d2516a995da86b7321440c653"
-        },
-        {
       "key": "csp_XYQHiker_极影网",
       "name": "🧲┃极影┃4k",
       "type": 3,
@@ -2754,7 +2738,7 @@
         "filterable":1,
         "ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/Bili.json"
 },
-{"key": "js_武享吧","name": "😈┃格斗┃直播","type": 3,"api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://qrh.yimkj.cn/ym/lib/武享吧.js"},
+{"key": "js_武享吧","name": "😈┃格斗┃直播","type": 3,"api": "https://bitbucket.org/chaoni/zbs/raw/master/lib/apiv15drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/武享吧.js"},
 {"key":"dr_88看球","name":"⚽88看球｜频道","type":3,"api":"https://agit.ai/l/ove/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/ove/raw/branch/master/js/88看球.js"},
 {"key": "csp_qiumi","name": "⚽ Jrs┃球迷","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://fanty.run.goorm.site/ext/jrk.js","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"csp_310直播","name":"⚽310┃看球","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
