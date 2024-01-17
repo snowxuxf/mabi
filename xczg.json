@@ -2963,7 +2963,7 @@
 ],
 //=========================解析嗅探====================================
    "parses": [
-       {
+    {
     "name": "Web聚合",
     "type": 3,
     "url": "Web"
@@ -2974,7 +2974,7 @@
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
 {
-      "name": "解析2",
+      "name": "xmflv",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
