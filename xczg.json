@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
+       "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/fty.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c",
       "ext": "https://www.ysgc1.cc/"
     },
     {
