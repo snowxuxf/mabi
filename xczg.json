@@ -12,7 +12,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
     {
       "key": "csp_Ysgc",
       "name": "🏭工场┃直连",
@@ -21,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/fty.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c",
+      "jar":"https://bitbucket.org/chaoni/zbs/raw/master/lib/fan240110.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "ext": "https://www.ysgc1.cc/"
     },
     {
@@ -465,50 +464,7 @@
   "filterable":1,
   "ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/fgys.json"
 },
-        {
-            "key": "js_菜狗",
-            "name": "✮爱优腾芒",
-            "type": 3,
-            "api": "http://jin.xn--kwra9540c.love/js/api.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://jin.xn--kwra9540c.love/sj/caigou"
-        },
-        {
-            "key": "csp_ee4345667",
-            "name": "✮齐心协力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://jin.xn--kwra9540c.love/sj/qixing"
-        },
-        {
-            "key": "csp_子子",
-            "name": "紫霞仙子",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://jin.xn--kwra9540c.love/sj/zizi"
-        },
-             {"key": "drpy_js_秋霞",
-           "name": " 🎑秋霞影院[DRPY]",
-           "type": 3,
-            "api": "http://jin.xn--kwra9540c.love/js/api.js",
-            "ext": "http://jin.xn--kwra9540c.love/sj/qiuxia"
-},
 {"key":"drpy_js_超前点播","name":"影视 | 超前点播[js]","type":3,"api":"https://raw.fgit.cf/yw88075/tvbox/main/dr/lib/drpy2.min.js","ext":"https://raw.fgit.cf/yw88075/tvbox/main/dr/js/超前点播.js"},
-        {
-            "key": "drpy_js_两个BT",
-            "name": "✮宝塔影视",
-            "type": 3,
-            "api": "http://jin.xn--kwra9540c.love/js/api.js",
-            "ext": "http://jin.xn--kwra9540c.love/sj/biti"
-        },
 {
   "key": "xgapp",
   "name": "🍉西瓜影视",
@@ -623,7 +579,6 @@
 			"jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/热播之家.json"
         },
-{"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;92ABED5A8CF3AC8868A8767F39E501F3","ext":"https://www.zxzj.pro/"},
 {"key":"csp_MYYS","name":"👻忍者","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
         {
             "key": "XBPQ_石榴",
