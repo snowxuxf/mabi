@@ -12,6 +12,21 @@
       "quickSearch": 0,
       "filterable": 0
     },
+        {"key":"csp_JianPian",
+    "name":"🐲️荐片",
+    "type":3,"api":"csp_JianPian",
+    "playerType":1,"searchable":1,
+    "quickSearch":1,"filterable":1,
+     "jar": "http://106.54.39.252/公众号欧歌APP/jar.php?id=ou;md5;bd5a661caa40607283feb87fe1265fb5",
+    "ext":"https://ownjpykxttjzuhy.jiesiwa.com"
+    },
+    {"key":"哔嘀",
+    "name":"📢欧歌推荐",
+    "type":3,"api":"csp_Bdys",
+    "searchable":1,"quickSearch":1,
+     "jar": "http://106.54.39.252/公众号欧歌APP/jar.php?id=ou;md5;bd5a661caa40607283feb87fe1265fb5",
+    "filterable":1
+    },
     {
       "key": "csp_Ysgc",
       "name": "🏭工场┃直连",
