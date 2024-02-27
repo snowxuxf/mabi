@@ -5,56 +5,13 @@
 	"sites":[
     {
       "key": "豆豆",
-      "name": "🎟┃豆瓣┃自用不得外传",
+      "name": "🎟🐲️┃豆瓣┃自用不得外传",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
-        {"key":"csp_JianPian",
-    "name":"🐲️荐片",
-    "type":3,"api":"csp_JianPian",
-    "playerType":1,"searchable":1,
-    "quickSearch":1,"filterable":1,
-     "jar": "http://106.54.39.252/公众号欧歌APP/jar.php?id=ou;md5;bd5a661caa40607283feb87fe1265fb5",
-    "ext":"https://ownjpykxttjzuhy.jiesiwa.com"
-    },
-    {"key":"哔嘀",
-    "name":"📢欧歌推荐",
-    "type":3,"api":"csp_Bdys",
-    "searchable":1,"quickSearch":1,
-     "jar": "http://106.54.39.252/公众号欧歌APP/jar.php?id=ou;md5;bd5a661caa40607283feb87fe1265fb5",
-    "filterable":1
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "🏭工场┃直连",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-       "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/fty.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c",
-      "ext": "https://www.ysgc1.cc/"
-    },
-    {
-      "key": "🌡csp_kpkuang",
-      "name": "🌡┃看片狂人┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/kpkuang.json"    },
-{"key":"宅腐影院",
- "name":"💑宅腐┃APP",
- "type":3,
- "api":"csp_AppYsV2",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 {
   "key": "蝴蝶",
   "name": "🦋蝴蝶App",
@@ -73,7 +30,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"https://www.80yy3.com/",
-     "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b"
+     "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709041575469/fan240127.txt;md5;82a31f7da5929da0af9159645b"
 },
         {
             "key":"南瓜",
@@ -83,7 +40,7 @@
             "playerType":2,
             "searchable":1,
             "quickSearch":1,
-           "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709041575469/fan240127.txt;md5;82a31f7da5929da0af9159645b",
             "changeable":1
         },
     {
@@ -247,6 +204,34 @@
   "filterable":1,
   "ext":"https://www.wxtv.net/api.php/app/"
 },
+    {
+      "key": "csp_Ysgc",
+      "name": "🏭工场┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/fty.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c",
+      "ext": "https://www.ysgc1.cc/"
+    },
+    {
+      "key": "🌡csp_kpkuang",
+      "name": "🌡┃看片狂人┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/kpkuang.json"    },
+{"key":"宅腐影院",
+ "name":"💑宅腐┃APP",
+ "type":3,
+ "api":"csp_AppYsV2",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 {
       "key": "csp_xml_ikun",
       "name": "🍊ikun影视",
