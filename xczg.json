@@ -1,5 +1,5 @@
 {
-	"spider": "https://notabug.org/mabi/zbs/raw/master/lib/Yoursmile.jar;md5;632adf6446656e28a9f31033f3c2f416",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713343053262/Yoursmile.jar;md5;632adf6446656e28a9f31033f3c2f416",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -63,17 +63,16 @@
   "changeable": 1,
   "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
 },
-{
-  "key": "AppYs_南瓜",
-  "name": "🍈南瓜影视",
-  "type": 3,
-  "playerType": 2,
-  "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-  "changeable": 0,
-  "searchable": 1,
-  "quickSearch": 1,
-  "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-},
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃无广",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709444025790/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806",
+      "changeable": 1
+    },
  {
       "key": "毛驴",
       "name": "🐴毛驴",
@@ -83,7 +82,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.maolvys.com/",
-      "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/fan.txt;md5;3A1219034ED657F925C606543689B8CF"
+      "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709444025790/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"
     },
 {
   "key": "陌陌",
@@ -93,12 +92,35 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
+   "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709444025790/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806",
   "ext": "https://www.kuin.one/api.php/app/"
 },
 { 
 "key":"drpy_js_素白白", "name":"🍧素白白", "type":3, 
 "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sbb.js" 
 },
+ {
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/"
+    },
+    {
+      "key": "农民",
+      "name": "🌾农民┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
 {
   "key":"csp_77",
   "name":"🥣酷云七七",
@@ -107,7 +129,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1 ,
-      "jar":"https://bitbucket.org/chaoni/zbs/raw/master/lib/fan240110.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9"
+   "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709444025790/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"
 },
 {
   "key": "少泽影客（APP）",
@@ -3127,7 +3149,7 @@
  
 //=========================直播地址====================================
 
-   "lives":[{"name":"live","type":0,"url":"https://agit.ai/bnsgj/vip/raw/branch/master/ssc.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+   "lives":[{"name":"live","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713357030246/ALL.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 
 //过滤
