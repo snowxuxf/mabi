@@ -120,16 +120,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709444025790/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806",
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
     },
 {
   "key":"csp_77",
   "name":"🥣酷云七七",
-  "type":3,
-  "api":"csp_Kunyu77",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1 ,
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
    "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709444025790/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"
 },
 {
