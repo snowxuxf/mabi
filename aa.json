@@ -5,7 +5,7 @@
  {"name": "🎯 自用MB线路 🎯","url": "https://bitbucket.org/chaoni/zbs/raw/master/xczg.json"},
  {"name": "🎯 壹梦主力线路 🎯","url": "http://qrh.yimkj.cn/ym/壹梦.json"},
  {"name": "🎯 影视车主线路 🎯","url": "https://weixine.net/ysc.json"},
- {"name": "🌈 月光宝盒线路 🌈","url": "https://agit.ai/grovin/ygbh/raw/branch/master/PRO.json"},
+ {"name": "🌈 月光宝盒线路 🌈","url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
         {
             "url": "http://饭太硬.top/tv",
             "name": "🍚饭太硬线路"
@@ -17,15 +17,7 @@
     {
       "url": "http://tv.nxog.top/m/",
       "name": "📛讴歌专线"
-    },                   
-        {
-      "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
-      "name": "➰YSTV线路"
-        }, 
-        {
-            "name":"🌪南风路线",
-            "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-        },                                                             
+    },                                                                               
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
@@ -43,16 +35,8 @@
             "name": "🚀Ray线路"
         },
     {
-      "url": "https://youdu.fan/tvbox/yd/svip.json",
-      "name": "🚀毒盒影视VIP线🚀"
-    },
-    {
-      "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/0826.json",
-      "name": "🚀高天流云 FTY"
-    },
-    {
-      "url": "http://jin.锦哥哥.love",
-      "name": "🚀一十线路"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🚀高山流云 FTY"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
@@ -63,20 +47,12 @@
       "name": "🚀小盒酷玩"
     },
     {
-      "url": "http://sinopacifichk.com/box/56.txt",
-      "name": "🚀万达影视"
-    },
-    {
-      "url": "http://52bsj.vip:98/wuai",
+      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
       "name": "🚀吾爱线路"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
       "name": "🚀业余打发"
-    },
-    {
-      "url": "https://la.kstore.space/download/2863/01.txt",
-      "name": "🚀潇洒线路"
     },
     {
       "url": "https://szyyds.cn/tv/x.json",
@@ -89,10 +65,6 @@
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备线路"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🚀菜妮丝线路"
         }
     ]
 }
