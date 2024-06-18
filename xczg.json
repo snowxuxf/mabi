@@ -86,6 +86,30 @@
     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"
 },
 
+    {
+      "key": "毛驴",
+      "name": "🦙┃毛驴┃影视",
+      "type": 3,
+      "api": "csp_MaoLv",
+       "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "兄弟",
+      "name": "👯┃兄弟┃影视",
+      "type": 3,
+      "api": "csp_Xdys",
+       "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+
 {"key": "rbys","name": "🔥热播┃影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"playerType": 2,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
    "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
 
@@ -512,18 +536,19 @@
             "filterable": 1,
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718687272702/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/mayi.json"
-        },		
-        {
-            "key": "csp_FreeOK",
-            "name": "💰️┃富瑞┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718687272702/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/free.json"
-        },
+        },	
+	
+    {
+      "key": "FreeOK",
+      "name": "️️👌┃Fre┃影视",
+      "type": 3,
+      "api": "csp_FreeOK",
+     "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
         {
             "key": "js_bzys",
             "name": "🌋┃B站┃影视",
@@ -785,36 +810,7 @@
         "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
       }
     },
-{
-  "key": "暴风采集",
-  "name": "🌪️暴风影音",
-  "type": 1,
-  "api": "https://app.bfzyapi.com/api.php/provide/vod/",
-  "playUrl": "",
-  "categories": [
-        "国产剧",
-        "国产动漫",
-        "动作片",
-        "科幻片",
-        "剧情片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "战争片",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
-        "日本动漫",
-        "综艺频道",
-        "大陆综艺",
-        "港台综艺",
-        "日本综艺",
-        "新马泰综艺",
-        "纪录片"
-      ]
-},
+
 {
   "key": "meowtv_phys",
   "name": "🐯胖虎影视",
@@ -1714,6 +1710,17 @@
             "filterable": 1,
             "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/4khdr.js"
         },
+    {
+            "key": "csp_Duopan",
+            "name": "🖍︎┃蜡笔┃多盘",
+            "type": 3,
+            "api": "csp_Duopan",
+            "playerType": 2,
+            "filterable": 1,
+             "jar": "https://bitbucket.org/chaoni/zbs/raw/master/lib/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+            "ext": "https://duopan.fun/"
+        },
+
         {
             "key": "XYQH_电影港",
             "name": "🧲┃港口┃磁力",
@@ -2366,7 +2373,7 @@
  
 //=========================直播地址====================================
 
-   "lives":[{"name":"live","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713627283933/ALL.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+   "lives":[{"name":"live","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718730142695/ALL.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 
 //过滤
