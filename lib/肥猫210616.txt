@@ -1,15 +1,10 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Tue, 18 Jun 2024 15:56:53 GMT
-Content-Type: application/octet-stream
-Content-Length: 16380
-Last-Modified: Mon, 17 Jun 2024 15:15:20 GMT
-Connection: keep-alive
-ETag: "66705308-3ffc"
-Accept-Ranges: bytes
 
+
+
+//https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718726578548/PandaQ240616.jar
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+  "spider": "https://bitbucket.org/chaoni/zbs/raw/master/lib/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo":"http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
