@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1综合,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
+
 CCTV1综合,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV2财经,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
 CCTV3综艺,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
@@ -144,8 +144,9 @@ CGTV,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227650/1.m3u8?HlsP
 
 港台,#genre#
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯1,http://hikvision.city:880/fhzx.m3u8
+凤凰资讯2,http://61.221.215.25:8800/hls/47/index.m3u8
+无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -1734,6 +1735,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 湖南电视剧,https://epg.pw/stream/b120df2d0fb5b5673337708c5554944f75b32425d7b685d47b53a5305dbee9a7.m3u8
 湖南经视,https://epg.pw/stream/4dd300e8a9a3c0064ef77c12b02385cd32a4b208c4413105fd92359c1d75a4dd.m3u8
 湖南都市,https://epg.pw/stream/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.m3u8
+金鹰纪实,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
 金鹰纪实,https://epg.pw/stream/b10c750735f19188427eea571dff4c77e5ebf052f11a81e41db4ed0957f4f9a2.m3u8
 新疆天山,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 新疆天山,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
@@ -2050,7 +2052,7 @@ iPanda怡然②(熊猫频道官方-1080P),http://gcalic.v.myalicdn.com/gc/xiongm
 
 IPv6央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2 v4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
