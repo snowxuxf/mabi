@@ -3,7 +3,7 @@
 {
     "urls": [
  {"name": "🎯 自用MB线路 🎯","url": "https://bitbucket.org/chaoni/zbs/raw/master/xczg.json"},
- {"name": "🎯 壹梦主力线路 🎯","url": "http://qrh.yimkj.cn/ym/壹梦.json"},
+ {"name": "🎯 南风主力线路 🎯","url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
  {"name": "🎯 影视车主线路 🎯","url": "https://weixine.net/ysc.json"},
  {"name": "🌈 月光宝盒线路 🌈","url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
         {
@@ -26,10 +26,6 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
         },  
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米线路"
-        },
         {
             "url": "https://xhdwc.tk/0",
             "name": "🚀Ray线路"
