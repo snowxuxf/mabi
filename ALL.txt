@@ -49,7 +49,7 @@ CCTV怀旧剧场,https://epg.pw/stream/2a3cb707b11a0e9fc735b97bc9f42bcfd9824ebb9
 CCTV怀旧剧场,https://epg.pw/stream/6c6274d39558ce249a0c06807cb22de4667d87352c911ddc73523ba9512000b4.m3u8
 CCTV怀旧剧场,https://epg.pw/stream/6d9064b5efa7998474072f1ba5037695e9488645e804a90cbd39836b3299a746.m3u8
 CGTN,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
-CCTV1综合,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227583/1.m3u8?HlsProfileId=
+
 CCTV2财经,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
 CCTV3综艺,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
 CCTV5体育,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227604/1.m3u8?HlsProfileId=
@@ -82,7 +82,6 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 美国CGTN (Opt-2),http://live.cgtn.com/1000/prog_index.m3u8
 拉丁美洲CGTN,http://livees.cgtn.com/1000e/prog_index.m3u8
-CCTV1综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
 CCTV2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV5+++,http://124.115.205.101:8888/newlive/live/hls/7/live.m3u8
 CCTV15音乐,http://124.115.205.101:8888/newlive/live/hls/17/live.m3u8
@@ -1523,6 +1522,8 @@ KAKU少儿,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227622/1.m3u
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+三台1,http://stream.smntv.cn/smtv1/sd/live.m3u8
+金鹰纪实,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227583/1.m3u8?HlsProfileId=
 地理杂志,#genre#
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
