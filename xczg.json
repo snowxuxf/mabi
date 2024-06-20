@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718880026538/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
       "ext": {
         "danmu": true
       },
@@ -167,7 +167,7 @@
     {"key": "pgys","name": "🍎苹果┃IJk","type": 3,"api": "csp_LiteApple"  ,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
     {"key": "atys","name": "🏝奥特┃影视","type": 3,"api": "csp_Auete"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"ext": "https://auete.pro/","jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
 
-   {"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar"},
+   {"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718880026538/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"},
 {"key":"csp_nkvlog","name":"💢┃NK┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/nkvlog.json"},
 {"key":"csp_lkvod","name":"💢┃来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/lkvod.json"},
 {"key":"csp_hanjulao","name":"🏵┃韩剧┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/hanjulao.json"},
