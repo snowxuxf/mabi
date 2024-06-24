@@ -1,0 +1,271 @@
+//一起看
+//https://m.533851.com/column/68
+//https://m.533851.com/filter?channelId=3&areaId=1&year=2024-2024&channelChildTypeId=8&sortType=2
+//https://m.173647.com/filter?channelId=3&areaId=1&year=2024-2024&channelChildTypeId=8&sortType=2
+
+    {
+    "主页url":"https://m.533851.com/",
+    "站名":"一起看",
+    "首页":"电视剧",
+    "请求头":"Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; AspiegelBot)",
+    "强制解析":"0",
+    "图片代理":"0",
+
+    "二次截取":"<div data-v-ba488ea8=\"\" class=\"flex-r-s-s moon-list col-3*>&&<div data-v-c287ce77=\"\" data-v-ba488ea8=\"\" class=\"no-data-box flex-c-c-c+<div data-v-ba488ea8=\"\" class=\"moon-list-item\">", 
+    "数组":"<div data-v-ba488ea8=\"\" class=\"moon-list-item\">&&<div data-v-ba488ea8=\"\" class=\"moon-list-item\">",
+    "标题":"name item-title ohv-ellipsis\">&&</p>",
+    "图片":"data-src=\"&&\"",
+    "链接":"href=\"&&\"",
+    "副标题":"rate ml-20\">&&</label>",//[不包含:未知#内详#]
+
+    "搜索模式":"1",
+    "搜索url":"https://m.533851.com/vodsearch/-------------/?wd={wd}",
+    //"搜索数组二次截取":"\"list\"*[&&]",
+    "搜索数组":"<i class=\"icon-play\"></i></a>&&<h3>",
+    "搜索图片":"data-src=\"&&\"",
+    "搜索标题":"alt=\"&&\"",
+    //"搜索标题":"alt=\"&&\"+href=\"&&\"",
+    "搜索链接":"href=\"&&\"", 
+	//https://haiwaikan.tv/voddetail/42987/
+	//立刻播放 https://haiwaikan.tv/vodplay/42987-1-1/
+
+    "影片类型":"tag-link\"><span class=\"slash\">/</span>&&</a>",
+    "影片年代":"year*>&&</a>",
+    "影片地区":"area*>&&</a>",
+	"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
+    "导演":"导演：</span>&&</a>",
+    "主演":"主演：</span>&&</div>",
+    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
+
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #]",
+    "线路标题":"🌸+<span>&&</small>",
+
+
+    //"播放二次截取": "",
+    "播放数组":"scroll-content\">&&</div>",
+    "播放列表":"<a&&</a>",
+    "播放标题":"<span>&&</span>[不包含:复制]",
+    //"播放链接":"href=\"&&\"",
+    //"跳转播放链接":"\"url\"*\"&&\"",
+
+    "分类url":"https://m.533851.com/filter?channelId={cateId}&areaId={area}&year={year}-{year}&channelChildTypeId={class}&sortType={by}",
+	////https://m.173647.com/filter?channelId={cateId}&areaId={area}&year={year}-{year}&channelChildTypeId={class}&sortType={by}
+    "分类":"动漫$8#电视剧$3#高清韩剧$56#电影$2#综艺$10#短剧$50#体育$5#",
+
+    "筛选":{
+    "34":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"电影","v":"1"},
+    {"n":"动作片","v":"6"},
+    {"n":"喜剧片","v":"7"},
+    {"n":"爱情片","v":"8"},
+    {"n":"科幻片","v":"9"},
+    {"n":"恐怖片","v":"10"},
+    {"n":"剧情片","v":"11"},
+    {"n":"战争片","v":"12"},
+    {"n":"纪录片","v":"20"}
+    ]
+    },
+    {"key":"cateId","name":"类型","value":[
+    {"n":"剧集","v":"2"},
+    {"n":"国产剧","v":"13"},
+    {"n":"港台剧","v":"14"},
+    {"n":"韩国剧","v":"15"},
+    {"n":"欧美剧","v":"16"},
+    {"n":"台湾剧","v":"21"},
+    {"n":"日本剧","v":"22"},
+    {"n":"海外剧","v":"23"},
+    {"n":"泰国剧","v":"24"}
+    ]
+    },
+    {"key":"cateId","name":"类型","value":[
+    {"n":"综艺","v":"3"},
+    {"n":"大陆综艺","v":"25"},
+    {"n":"港台综艺","v":"26"},
+    {"n":"日韩综艺","v":"27"},
+    {"n":"欧美综艺","v":"28"}
+    ]
+    },
+    {"key":"cateId","name":"类型","value":[
+    {"n":"动漫","v":"4"},
+    {"n":"国产动漫","v":"29"},
+    {"n":"日本动漫","v":"30"},
+    {"n":"欧美动漫","v":"31"},
+    {"n":"港台动漫","v":"32"},
+    {"n":"海外动漫","v":"33"}
+    ]
+    },
+    {"key":"cateId","name":"类型","value":[
+    {"n":"体育","v":"36"},
+    {"n":"足球","v":"37"},
+    {"n":"篮球","v":"38"},
+    {"n":"网球","v":"39"},
+    {"n":"斯诺克","v":"40"}
+    ]
+    },
+    {"key":"cateId","name":"类型","value":[
+    {"n":"电影解说","v":"35"}
+    ]
+    }
+    ],
+// <a class="library-item" href="/vodshow/21-----------/">惊悚</a>
+// <a class="library-item" href="/vodshow/55-----------/">纪录</a>
+// <a class="library-item" href="/vodshow/29-----------/">网络</a>
+// <a class="library-item" href="/vodshow/28-----------/">经典</a>
+// <a class="library-item" href="/vodshow/27-----------/">科幻</a>
+// <a class="library-item" href="/vodshow/26-----------/">犯罪</a>
+// <a class="library-item" href="/vodshow/25-----------/">爱情</a>
+// <a class="library-item" href="/vodshow/24-----------/">灾难</a>
+// <a class="library-item" href="/vodshow/23-----------/">歌舞</a>
+// <a class="library-item" href="/vodshow/22-----------/">战争</a>
+// <a class="library-item" href="/vodshow/20-----------/">悬疑</a>
+// <a class="library-item" href="/vodshow/56-----------/">剧情</a>
+// <a class="library-item" href="/vodshow/6-----------/">冒险</a>
+// <a class="library-item" href="/vodshow/7-----------/">动作</a>
+// <a class="library-item" href="/vodshow/8-----------/">动画</a>
+// <a class="library-item" href="/vodshow/9-----------/">同性</a>
+// <a class="library-item" href="/vodshow/10-----------/">喜剧</a>
+// <a class="library-item" href="/vodshow/11-----------/">奇幻</a>
+// <a class="library-item" href="/vodshow/12-----------/">恐怖</a>
+    "1":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"电影","v":"1"},
+    {"n":"动作片","v":"7"},
+    {"n":"喜剧片","v":"10"},
+    {"n":"爱情片","v":"25"},
+    {"n":"科幻片","v":"27"},
+    {"n":"恐怖片","v":"12"},
+    {"n":"剧情片","v":"56"},
+    {"n":"战争片","v":"22"},
+    {"n":"纪录片","v":"55"}
+    ]
+    }
+    ],
+
+// <a class="library-item" href="/vodshow/33 国产</a>
+// <a class="library-item" href="/vodshow/32 韩国</a>
+// <a class="library-item" href="/vodshow/30 欧美</a>
+// <a class="library-item" href="/vodshow/31 日本</a>
+// <a class="library-item" href="/vodshow/34 泰国</a>
+// <a class="library-item" href="/vodshow/35 香港</a>
+// <a class="library-item" href="/vodshow/36 台湾</a>
+// <a class="library-item" href="/vodshow/37 新马</a>
+// <a class="library-item" href="/vodshow/38 其他</a>
+
+"2":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"剧集","v":"2"},
+    {"n":"国产剧","v":"33"},
+    {"n":"韩国剧","v":"32"},
+    {"n":"香港剧","v":"35"},
+    {"n":"欧美剧","v":"30"},
+    {"n":"台湾剧","v":"36"},
+    {"n":"日本剧","v":"31"},
+    {"n":"新马剧","v":"37"},
+    {"n":"泰国剧","v":"34"},
+    {"n":"海外剧","v":"38"}
+    ]
+    }
+    ],
+
+  "33":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"剧集","v":"2"},
+    {"n":"国产剧","v":"33"},
+    {"n":"韩国剧","v":"32"},
+    {"n":"香港剧","v":"35"},
+    {"n":"欧美剧","v":"30"},
+    {"n":"台湾剧","v":"36"},
+    {"n":"日本剧","v":"31"},
+    {"n":"新马剧","v":"37"},
+    {"n":"泰国剧","v":"34"},
+    {"n":"海外剧","v":"38"}
+    ]
+    }
+    ],	
+
+  "32":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"剧集","v":"2"},
+    {"n":"国产剧","v":"33"},
+    {"n":"韩国剧","v":"32"},
+    {"n":"香港剧","v":"35"},
+    {"n":"欧美剧","v":"30"},
+    {"n":"台湾剧","v":"36"},
+    {"n":"日本剧","v":"31"},
+    {"n":"新马剧","v":"37"},
+    {"n":"泰国剧","v":"34"},
+    {"n":"海外剧","v":"38"}
+    ]
+    }
+    ],	
+// <a class="library-item" href="/vodshow/39-----------/">欧美</a>
+// <a class="library-item" href="/vodshow/40-----------/">日本</a>
+// <a class="library-item" href="/vodshow/41-----------/">韩国</a>
+// <a class="library-item" href="/vodshow/42-----------/">国产</a>
+// <a class="library-item" href="/vodshow/43-----------/">新马泰</a>
+// <a class="library-item" href="/vodshow/44-----------/">港台</a>
+// <a class="library-item" href="/vodshow/45-----------/">其他</a>
+// <a class="library-item" href="/vodshow/54-----------/">体育</a>
+  "3":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"综艺","v":"3"},
+    {"n":"大陆综艺","v":"42"},
+    {"n":"港台综艺","v":"44"},
+    {"n":"韩综艺","v":"41"},
+    {"n":"日综艺","v":"40"},
+    {"n":"欧美综艺","v":"39"},
+    {"n":"体育","v":"54"},
+    {"n":"其他","v":"45"}
+    ]
+    }
+    ],
+
+// <a class="library-item" href="/vodshow/50-----------/">国产</a>
+// <a class="library-item" href="/vodshow/47-----------/">欧美</a>
+// <a class="library-item" href="/vodshow/48-----------/">日本</a>
+// <a class="library-item" href="/vodshow/49-----------/">韩国</a>
+// <a class="library-item" href="/vodshow/51-----------/">新马泰</a>
+// <a class="library-item" href="/vodshow/52-----------/">港台</a>
+// <a class="library-item" href="/vodshow/53-----------/">其他</a>
+  "4":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"动漫","v":"4"},
+    {"n":"国产动漫","v":"50"},
+    {"n":"日本动漫","v":"48"},
+    {"n":"欧美动漫","v":"47"},
+    {"n":"港台动漫","v":"52"},
+    {"n":"海外动漫","v":"53"}
+    ]
+    }
+    ],
+
+    "50":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"动漫","v":"4"},
+    {"n":"国产动漫","v":"50"},
+    {"n":"日本动漫","v":"48"},
+    {"n":"欧美动漫","v":"47"},
+    {"n":"港台动漫","v":"52"},
+    {"n":"海外动漫","v":"53"}
+    ]
+    }
+    ],	
+
+    "36":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"体育","v":"36"},
+    {"n":"足球","v":"37"},
+    {"n":"篮球","v":"38"},
+    {"n":"网球","v":"39"},
+    {"n":"斯诺克","v":"40"}
+    ]
+    },
+    {"key":"cateId","name":"类型","value":[
+    {"n":"电影解说","v":"35"}
+    ]
+    }
+    ]
+    }
+
+}
