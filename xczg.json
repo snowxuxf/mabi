@@ -1,13 +1,7 @@
 
 {
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713343053262/Yoursmile.jar;md5;632adf6446656e28a9f31033f3c2f416",
-//旧
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22",
-//讴歌
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718840081774/Yoursmile240619.jar;md5;557e28611dc14e0c52e025068ffe2b3b",
-//自用
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806",
-//饭太硬
+
 "lives":[{"name":"live","type":0,"playerType":1,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719071739145/ALL.txt",
 "epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 	"sites":[
@@ -195,17 +189,18 @@
 
 {"key":"drjs_一起看","name":"👺一起看(DR)","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一起看.js"},
 
-{"key":"明日影视","name": "📛明日┃影视","type":3,"api":"csp_WexMingriys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"腐剧视频","name": "📛腐剧┃影视","type":3,"api":"csp_WexFujutv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"啾啾影视","name": "📛啾啾┃影视","type":3,"api":"csp_Wexjiohub","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"星辰影视","name": "📛星辰┃影视","type":3,"api":"csp_WexXingchen","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"愉悦影视","name": "📛愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"花蕊影视","name": "📛花蕊┃影视","type":3,"api":"csp_Wexhuaruitv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"甲子影视","name": "📛甲子┃影视","type":3,"api":"csp_Wexjiazitv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"暮暮动漫","name": "📛暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
-{"key":"文才影视","name":"📛文才┃影视","type":3,"api":"csp_Wexwencai","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;774a1d1c41442a76bf8d25593d35df1c","searchable":1,"changeable":1},
-{"key":"厂长资源","name":"🏭️厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;774a1d1c41442a76bf8d25593d35df1c","filterable":1,"ext":"https://czzy.top"},
-{"key":"看看影视","name":"📛看看┃影视","type":3,"api":"csp_WebIV","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;774a1d1c41442a76bf8d25593d35df1c","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"明日影视","name": "📛明日┃影视","type":3,"api":"csp_WexMingriys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"腐剧视频","name": "📛腐剧┃影视","type":3,"api":"csp_WexFujutv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"啾啾影视","name": "📛啾啾┃影视","type":3,"api":"csp_Wexjiohub","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"兄弟影视","name":"📛兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"星辰影视","name": "📛星辰┃影视","type":3,"api":"csp_WexXingchen","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"愉悦影视","name": "📛愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"花蕊影视","name": "📛花蕊┃影视","type":3,"api":"csp_Wexhuaruitv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"甲子影视","name": "📛甲子┃影视","type":3,"api":"csp_Wexjiazitv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"暮暮动漫","name": "📛暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
+{"key":"文才影视","name":"📛文才┃影视","type":3,"api":"csp_Wexwencai","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;774a1d1c41442a76bf8d25593d35df1c","searchable":1,"changeable":1},
+{"key":"厂长资源","name":"🏭️厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;774a1d1c41442a76bf8d25593d35df1c","filterable":1,"ext":"https://czzy.top"},
+{"key":"看看影视","name":"📛看看┃影视","type":3,"api":"csp_WebIV","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;774a1d1c41442a76bf8d25593d35df1c","searchable":1,"quickSearch":1,"filterable":0},
 
     {"key": "YGP","name": "🚀┃叨观┃新片","type": 3,"api": "csp_YGP","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b","searchable": 0,"quickSearch": 0,"changeable": 0
     },
@@ -2125,12 +2120,12 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718628150146/okpng.txt;md5;d71c791627413995a83d4e6c24f2c85b"
     },
 
-{"key":"秒播短剧","name":"☘️秒播┃短剧","type":3,"api":"csp_Wexduanjuvop","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"仙品短剧","name":"☘️仙品┃短剧","type":3,"api":"csp_Wexduanjuhema","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"极品短剧","name":"☘️极品┃短剧","type":3,"api":"csp_Wexduanjuvmp","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"良品短剧","name":"☘️良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},    
-{"key":"精品短剧","name":"☘️精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
-{"key":"星芽短剧","name":"☘️星芽┃短剧","type":3,"api":"csp_AppXY","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"秒播短剧","name":"☘️秒播┃短剧","type":3,"api":"csp_Wexduanjuvop","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"仙品短剧","name":"☘️仙品┃短剧","type":3,"api":"csp_Wexduanjuhema","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"极品短剧","name":"☘️极品┃短剧","type":3,"api":"csp_Wexduanjuvmp","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"良品短剧","name":"☘️良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},    
+{"key":"精品短剧","name":"☘️精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"星芽短剧","name":"☘️星芽┃短剧","type":3,"api":"csp_AppXY","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_XBPQ_VS短剧","name":"☘️影院┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
 {"key":"csp_XBPQ_胖嘟嘟","name":"☘️嘟嘟┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
 
