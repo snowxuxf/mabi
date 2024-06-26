@@ -93,6 +93,16 @@
       "ext":"https://www.80yy3.com/",
      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"
 },
+
+        {
+            "key": "WexShijuedy",
+            "name": "👓看看┃直连",
+            "type": 3,
+            "api": "csp_WexShijuedy",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"
+        },
     {
      "key": "ngys",
     "name": "🎃南瓜┃影视",
@@ -202,6 +212,516 @@
     {"key": "YGP","name": "🚀┃叨观┃新片","type": 3,"api": "csp_YGP","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b","searchable": 0,"quickSearch": 0,"changeable": 0
     },
 
+        {
+            "key": "csp_xBPQ_九八",
+            "name": "🎦九八影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ua": "okhttp/3.15",
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/98影视.json"
+        },
+        {
+            "key": "csp_五五",
+            "name": "🎦五五┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/55.json"
+        },
+        {
+            "key": "原创",
+            "name": "🎦原创┃无广",
+            "type": 3,
+            "api": "csp_YCyz",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "timeout": 15,
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "changeable": 1
+        },
+        {
+            "key": "神仙影视",
+            "name": "🎦神仙影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/神仙影视.json"
+        },
+        {
+            "key": "西屋影视",
+            "name": "🎦西屋影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/西屋影视.json"
+        },
+        {
+            "key": "茶狐杯",
+            "name": "🎦茶狐杯",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "searchable": 1,
+            "ua": "okhttp/3.15",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/茶狐杯.json"
+        },
+        {
+            "key": "三米ys",
+            "name": "🎦三米影视",
+            "ua": "okhttp/3.15",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ext": {
+                "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+                "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+            }
+        },
+        {
+            "key": "视觉",
+            "name": "🎦视觉┃直连",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "timeout": 15,
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "csp_视觉",
+            "name": "🎦视觉┃2K",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/xinshijue.json"
+        },
+        {
+            "key": "白嫖者",
+            "name": "🎦白嫖者联盟",
+            "type": 3,
+            "ua": "okhttp/3.15",
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ext": {
+                "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+                "副标题": "class=\"pic-text text-right\"&&</span>",
+                "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
+            }
+        },
+        {
+            "key": "老六影视",
+            "name": "🎦老六影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/老六影视.json"
+        },
+        {
+            "key": "凯奇追剧",
+            "name": "🎦凯奇┃追剧",
+            "type": 3,
+            "ua": "okhttp/3.15",
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ext": {
+                "简介": "+hl-content-text\">&&</span>",
+                "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
+            }
+        },
+        {
+            "key": "csp_xBPQ可可",
+            "name": "🎦可可影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/可可影视.json"
+        },
+        {
+            "key": "csp_xBPQ看客影视",
+            "name": "🎦看客影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/看客影视.json"
+        },
+        {
+            "key": "csp_黑狐",
+            "name": "🎦黑狐┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ua": "okhttp/3.15",
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/heihu.json"
+        },
+        {
+            "key": "csp_xBPQ_奇优",
+            "name": "🎦奇优┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/json/qiyou.json"
+        },
+        {
+            "key": "qimaoys",
+            "name": "🎦七猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ua": "okhttp/3.15",
+            "ext": {
+                "主页url": "http://www.qimaoym.com",
+                "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-text\">&&</div>",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "module-tab-item tab-item\"&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
+                "播放数组": "class=\"module-blocklist\">&&</div",
+                "播放列表": "<a&&</a",
+                "播放标题": "<span&&</span",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+                "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
+            "key": "可达影视",
+            "name": "🎦可达影视",
+            "ua": "okhttp/3.15",
+            "type": 3,
+            "playerType": 2,
+            "playUrl": "https://kedays.org/play/?url=",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://kedays.org",
+                "首页": "120",
+                "起始页": "1",
+                "数组": "pic\">&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-overflow\">&&</p >",
+                "链接": "href=\"&&\"",
+                "简介": "pb-10*>&&</p >",
+                "线路数组": "data-target=\"#ewave-playlist&&</li>",
+                "线路标题": ">&&<em>[不包含:线路1]",
+                "倒序": "0",
+                "播放数组": "ewave-playlist-content&&</ul>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "跳转解析": "默认$https://kedays.org/play/?url=",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                "搜索模式": "1",
+                "搜索url": "/so/{wd}----------{pg}---.html",
+                "搜索数组": "pic\">&&</li>",
+                "搜索副标题": "text-overflow\">&&</p >",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影&剧集&综艺&动漫&少儿&短剧",
+                "分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"
+            }
+        },
+        {
+            "key": "晨光电影",
+            "name": "🎦晨光电影",
+            "type": 3,
+            "ua": "okhttp/3.15",
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+            "ext": {
+                "简介": "剧情介绍: +white-space: initial;\">&&</div>",
+                "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
+                "副标题": "fed-text-white fed-text-center\">&&</span>",
+                "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
+                "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+            }
+        },
+
+
+
+
+        {
+            "key": "Wexhuaruitv",
+            "name": "🌺花蕊┃影视┃App",
+            "type": 3,
+            "api": "csp_Wexhuaruitv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexjiazitv",
+            "name": "🥁甲子┃影视┃App",
+            "type": 3,
+            "api": "csp_Wexjiazitv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexxiongdiys",
+            "name": "👬基友┃影视┃App",
+            "type": 3,
+            "api": "csp_Wexxiongdiys",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexyuyueys",
+            "name": "⛈️雨落┃影视┃App",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexxpgtv",
+            "name": "🍎红富士┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexxpgtv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexkukantv",
+            "name": "😁看呗┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexkukantv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexhanxiaoquan",
+            "name": "🇰🇷韩圈┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexhanxiaoquan",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexdiguatv",
+            "name": "⛷️追剧┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexdiguatv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexshandian",
+            "name": "⚡️闪电┃秒播┃直连",
+            "type": 3,
+            "api": "csp_Wexshandian",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WexTiantianys",
+            "name": "🌤️明天┃秒播┃直连",
+            "type": 3,
+            "api": "csp_WexTiantianys",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexjiohub",
+            "name": "🎉啾啾┃影视┃直连",
+            "type": 3,
+            "api": "csp_Wexjiohub",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexhanxiaoquan",
+            "name": "🇰🇷韩圈┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexhanxiaoquan",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexdiguatv",
+            "name": "⛷️追剧┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexdiguatv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexshandian",
+            "name": "⚡️闪电┃秒播┃直连",
+            "type": 3,
+            "api": "csp_Wexshandian",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WexTiantianys",
+            "name": "🌤️明天┃秒播┃直连",
+            "type": 3,
+            "api": "csp_WexTiantianys",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexjiohub",
+            "name": "🎉啾啾┃影视┃直连",
+            "type": 3,
+            "api": "csp_Wexjiohub",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Diduanys",
+            "name": "🙈深渊┃影视┃直连",
+            "type": 3,
+            "api": "csp_WexDiduanys",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "F4kvm",
+            "name": "🦑纯享┃影视┃直连",
+            "type": 3,
+            "api": "csp_WexF4kvm",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexbttwo",
+            "name": "🐸大鼻涕┃影视┃直连",
+            "type": 3,
+            "api": "csp_Wexbttwo",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "顶级4K",
+            "name": "🛩️顶级┃4K┃P2P",
+            "type": 3,
+            "api": "csp_Wexwo4k",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MP4电影",
+            "name": "🛩️MP4┃电影┃P2P",
+            "type": 3,
+            "api": "csp_WexMp4dy",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Twobt",
+            "name": "🛩️Twobt┃电影┃P2P",
+            "type": 3,
+            "api": "csp_WexTwobt",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Pandalivetv",
+            "name": "😍韩国┃美女┃直播",
+            "type": 3,
+            "api": "csp_WexPandalivetv",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "Wexwuxiang",
+            "name": "🌐格斗┃给力┃体育",
+            "type": 3,
+            "api": "csp_Wexwuxiang",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            }
+        },
 
 
 {
@@ -580,39 +1100,65 @@
             "ext": 
 			   "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
         },
-
+        {
+            "key": "Wexxifan",
+            "name": "🤡喜翻┃番剧",
+            "type": 3,
+            "api": "csp_Wexxifan",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "巴士",
+            "name": "🤡巴士┃动漫",
+            "type": 3,
+            "api": "csp_WexDm84",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexciyuancheng",
+            "name": "🤡元城┃番剧",
+            "type": 3,
+            "api": "csp_Wexciyuancheng",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
 
     {
             "key": "异世界",
-            "name": "动漫 | 异世界",
+            "name": "🤡动漫 | 异世界",
             "type": 3,
             "api": "https://www.yingm.cc/subscribe/js/lib/drpy.min.js",
             "ext": "https://www.yingm.cc/subscribe/js/异世界动漫.js"
     },
     {
       "key": "drpy_js_NT动漫",
-      "name": "动漫 | NT动漫",
+      "name": "🤡动漫 | NT动漫",
       "type": 3,
       "api": "https://www.yingm.cc/subscribe/js/lib/drpy2.min.js",
       "ext": "https://www.yingm.cc/subscribe/js/NT动漫.js"
     },
     {
       "key": "drpy_js_NyaFun",
-      "name": "动漫 | NyaFun",
+      "name": "🤡动漫 | NyaFun",
       "type": 3,
       "api": "https://www.yingm.cc/subscribe/js/lib/drpy2.min.js",
       "ext": "https://www.yingm.cc/subscribe/js/NyaFun.js"
     },
     {
       "key": "drpy_js_动漫岛",
-      "name": "动漫 | 动漫岛",
+      "name": "🤡动漫 | 动漫岛",
       "type": 3,
       "api": "https://www.yingm.cc/subscribe/js/lib/drpy2.min.js",
       "ext": "https://www.yingm.cc/subscribe/js/动漫岛.js"
     },
     {
       "key": "drpy_js_路漫漫",
-      "name": "动漫 | 路漫漫",
+      "name": "🤡动漫 | 路漫漫",
       "type": 3,
       "style": {
       "type": "rect",
@@ -622,21 +1168,21 @@
     },
     {
       "key": "drpy_js_奇米动漫",
-      "name": "动漫 | 奇米动漫",
+      "name": "🤡动漫 | 奇米动漫",
       "type": 3,
       "api": "https://www.yingm.cc/subscribe/js/lib/drpy2.min.js",
       "ext": "https://www.yingm.cc/subscribe/js/奇米动漫.js"
     },
     {
       "key": "drpy_js_去看吧",
-      "name": "动漫 | 去看吧",
+      "name": "🤡动漫 | 去看吧",
       "type": 3,
       "api": "https://www.yingm.cc/subscribe/js/lib/drpy2.min.js",
       "ext": "https://www.yingm.cc/subscribe/js/去看吧.js"
     },
     {
       "key": "drpy_js_怡萱动漫",
-      "name": "动漫 | 怡萱动漫",
+      "name": "🤡动漫 | 怡萱动漫",
       "type": 3,
       "api": "https://www.yingm.cc/subscribe/js/lib/drpy2.min.js",
       "ext": "https://www.yingm.cc/subscribe/js/怡萱动漫.js"
@@ -1022,6 +1568,7 @@
 {"key":"zy_新浪","name":"🏄🏻┃新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
 
 {"key":"高清资源网","name":"️🍊1080采集","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"https://vip.zykbf.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产剧","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","倫理片","福利"]},
+{"key":"360","name":"🐝360采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 {"key":"快车资源","name":"🐝快车采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod"},
 {"key":"飞速","name":"️🐝飞速采集","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","playUrl":"https://yun.ckmov.com/?url=","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产剧","综艺"]},
 {"key":"天空","name":"️🐝天空采集","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"https://yun.ckmov.com/?url=","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","直播","短片","国产剧","综艺","影片库","动漫"]},
@@ -1059,7 +1606,47 @@
 
 
 
-
+        {
+            "key": "Wexconfig",
+            "name": "🐮配置┃中心🐮",
+            "type": 3,
+            "api": "csp_Wexconfig",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
+            "key": "玩偶",
+            "name": "🥷玩偶┃网盘┃综合",
+            "type": 3,
+            "api": "csp_Wogg",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexyingchao",
+            "name": "🦜鸟巢┃网盘┃综合",
+            "type": 3,
+            "api": "csp_Wexyingchao",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexwanni",
+            "name": "🧑‍🏫玩你┃老哥┃阿里",
+            "type": 3,
+            "api": "csp_Wexwanni",
+           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
+            "searchable": 1,
+            "changeable": 1
+        },
 {
     "key": "csp_WoGG",
     "name": "🎯┃玩偶┃哥哥",
@@ -1182,17 +1769,18 @@
 
 
     {
-      "key": "88看球",
-      "name": "⚽88┃看球",
+      "key": "看球",
+      "name": "⚽88看球┃直播",
       "type": 3,
       "api": "csp_Kanqiu",
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718628150146/okpng.txt;md5;d71c791627413995a83d4e6c24f2c85b",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718809596591/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
+      "gridview": 3,
       "style": {
         "type": "list"
-      },
-      "timeout": 10
+      }
     },
  
      {
