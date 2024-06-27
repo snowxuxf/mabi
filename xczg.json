@@ -85,12 +85,16 @@
     },
 
     
+        {
+            "key": "WexShijuedy",
+            "name": "👓新视觉┃直连",
+            "type": 3,
+            "api": "csp_WexShijuedy",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"
+        },
 
-
-{"key":"新视觉 测试","name":"👓┃视觉┃测试",
-"type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
-"jar":"http://winniec.asuscomm.com/iptv/js/HCCX.jar",
-"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719451771944/新视觉.json"},
 
 
     {
@@ -324,15 +328,11 @@
       "ext":"https://www.80yy3.com/",
      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"
 },
-        {
-            "key": "WexShijuedy",
-            "name": "👓看看┃直连",
-            "type": 3,
-            "api": "csp_WexShijuedy",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"
-        },
+{"key":"新视觉 测试","name":"👓┃视觉┃测试",
+"type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
+"jar":"http://winniec.asuscomm.com/iptv/js/HCCX.jar",
+"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719451771944/新视觉.json"},
+
         {
             "key": "白嫖者",
             "name": "🎦白嫖者联盟",
