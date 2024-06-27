@@ -186,7 +186,7 @@
 {"key":"csp_nkvlog","name":"💢┃NK┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/nkvlog.json"},
 {"key":"csp_lkvod","name":"💢┃来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/lkvod.json"},
 {"key":"csp_hanjulao","name":"🏵┃韩剧┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/hanjulao.json"},
-    {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://sourcegraph.com/github.com/liu673cn/box/-/raw/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/素白白.json"},
+    {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719141480420/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "https://raw.liucn.cc/box/libs/xyq/素白白.json"},
 {"key":"一起看","name":"‍👩‍👧‍👦┃一起看┃影视|FongMi/蜂蜜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yqktv_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 {"key":"drjs_一起看[优]","name":"👺一起看[优](DR)","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一起看[优].js"},
@@ -1804,8 +1804,8 @@
       "key": "jrsjs",
       "name": "⚽Jrs┃球迷",
       "type": 3,
-      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/okjack/okk/raw/master/js/jrs.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js",
+      "ext": "https://bitbucket.org/chaoni/zbs/raw/master/js/jrs.js",
       "style": {
         "type": "list"
       },
@@ -1819,7 +1819,7 @@
       "name": "⚽310┃看球",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js",
-      "ext": "https://gitee.com/okjack/okk/raw/master/js/310.js",
+      "ext": "https://bitbucket.org/chaoni/zbs/raw/master/js/310.js",
       "style": {
         "type": "list"
       },
