@@ -84,17 +84,6 @@
       "timeout": 10
     },
 
-    
-        {
-            "key": "WexShijuedy",
-            "name": "👓新视觉┃直连",
-            "type": 3,
-            "api": "csp_WexShijuedy",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"
-        },
-
 
 
     {
@@ -130,7 +119,19 @@
    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104864467/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
     {"key": "kkys","name": "🐴可可┃影视","type": 3,"api": "csp_Keke","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
     {"key": "jqys","name": "💑剧圈┃影视","type": 3,"api": "csp_Juqq","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
-    {
+    
+        {
+            "key": "WexShijuedy",
+            "name": "👓新视觉┃直连",
+            "type": 3,
+            "api": "csp_WexShijuedy",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"
+        },
+
+  
+  {
       "key": "libvio_js",
       "name": "🐰利播┃在线",
       "type": 3,
@@ -183,7 +184,9 @@
 {"key":"csp_nkvlog","name":"💢┃NK┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/nkvlog.json"},
 {"key":"csp_lkvod","name":"💢┃来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/lkvod.json"},
 {"key":"csp_hanjulao","name":"🏵┃韩剧┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/hanjulao.json"},
-    {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719141480420/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "https://raw.liucn.cc/box/libs/xyq/素白白.json"},
+
+{"key":"subaibai","name":"‍⛈┃素白白┃影视","type":3,"api":"https://sourcegraph.com/github.com/gaotianliuyun/gao/-/raw/cat/js/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+
 {"key":"一起看","name":"‍👩‍👧‍👦┃一起看┃影视|FongMi/蜂蜜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yqktv_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 {"key":"drjs_一起看[优]","name":"👺一起看[优](DR)","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghproxy.net/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一起看[优].js"},
