@@ -141,7 +141,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js",
-      "ext": "https://gitee.com/okjack/okk/raw/master/js/libvio.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/libvio.js",
      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec",
       "timeout": 15
     },
