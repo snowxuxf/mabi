@@ -1738,8 +1738,8 @@
 //{"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js","ext":"https://gitee.com/okjack/okk/raw/master/js/jrs.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},{"key":"310js",
 //"name":"⚽310┃看球","type":3,"api":"https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js","ext":"https://gitee.com/okjack/okk/raw/master/js/310.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},
 
-//{"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/jrs.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},{"key":"310js",
-//"name":"⚽310┃看球","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/310.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},
+{"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/jrs.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},{"key":"310js",
+"name":"⚽310┃看球","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/310.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},
 
 
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
