@@ -37,6 +37,7 @@
                 "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
                 "分类": "电影&电视剧&综艺&动漫&短剧",
                 "分类值": "1&2&3&4&30"}},
+{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 
 
@@ -185,7 +186,7 @@
 {"key":"csp_lkvod","name":"💢┃来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/lkvod.json"},
 {"key":"csp_hanjulao","name":"🏵┃韩剧┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/hanjulao.json"},
 
-{"key":"subaibai","name":"‍⛈┃素白白┃影视","type":3,"api":"https://sourcegraph.com/github.com/gaotianliuyun/gao/-/raw/cat/js/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"subaibai","name":"‍⛈┃素白白┃影视","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 {"key":"一起看","name":"‍👩‍👧‍👦┃一起看┃影视|FongMi/蜂蜜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yqktv_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
@@ -328,7 +329,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://www.80yy3.com/",
+      //"ext":"https://www.80yy3.com/",
+      "ext":"https://www.hdmyy.com",
      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"
 },
 {"key":"新视觉 测试","name":"👓┃视觉┃测试",
@@ -511,10 +513,6 @@
                 "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
             }
         },
-
-
-
-
         {
             "key": "Wexhuaruitv",
             "name": "🌺花蕊┃影视┃App",
@@ -574,69 +572,6 @@
             "name": "🇰🇷韩圈┃TV┃App",
             "type": 3,
             "api": "csp_Wexhanxiaoquan",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexdiguatv",
-            "name": "⛷️追剧┃TV┃App",
-            "type": 3,
-            "api": "csp_Wexdiguatv",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexshandian",
-            "name": "⚡️闪电┃秒播┃直连",
-            "type": 3,
-            "api": "csp_Wexshandian",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexTiantianys",
-            "name": "🌤️明天┃秒播┃直连",
-            "type": 3,
-            "api": "csp_WexTiantianys",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexjiohub",
-            "name": "🎉啾啾┃影视┃直连",
-            "type": 3,
-            "api": "csp_Wexjiohub",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexhanxiaoquan",
-            "name": "🇰🇷韩圈┃TV┃App",
-            "type": 3,
-            "api": "csp_Wexhanxiaoquan",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexdiguatv",
-            "name": "⛷️追剧┃TV┃App",
-            "type": 3,
-            "api": "csp_Wexdiguatv",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexshandian",
-            "name": "⚡️闪电┃秒播┃直连",
-            "type": 3,
-            "api": "csp_Wexshandian",
            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
             "searchable": 1,
             "changeable": 1
@@ -735,6 +670,10 @@
                 "ratio": 2
             }
         },
+
+
+
+
 
 
 {
