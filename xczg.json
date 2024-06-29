@@ -37,10 +37,22 @@
                 "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
                 "分类": "电影&电视剧&综艺&动漫&短剧",
                 "分类值": "1&2&3&4&30"}},
-{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,
+//"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js",
+"api":"https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js",
+"searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
 
-
+    {
+      "key": "🌡csp_6080ysw",
+      "name": "🌡6080┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719674931147/6080yingshi.json"    },
 
         {
       "key": "天天弹幕版",
@@ -513,6 +525,7 @@
                 "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
             }
         },
+      
         {
             "key": "Wexhuaruitv",
             "name": "🌺花蕊┃影视┃App",
