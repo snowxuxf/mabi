@@ -1,4 +1,6 @@
-    {
+  //https://web.w1988.cc/index.php/vod/show/id/6.html
+
+  {
     
     "作者":"小橙子",
     
@@ -44,6 +46,8 @@
     
     "线路标题":"<span>&&</small>[替换:kuaiyun>>快云#</span><small>>>共]+集",
     
-    "分类url":"https://web.w1988.cc/index.php/vod/type/id/{cateId}.html;;ak",
+//"分类url":"https://web.w1988.cc/index.php/vod/type/id/{cateId}.html;;ak",
+    "分类url":"https://web.w1988.cc/index.php/vod/show/id/{cateId}.html;;ak",
+
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+    "分类":"电影片库$6#连续剧片库$2#综艺片库$7#动漫片库$3#解说片库$5#短剧片库$8#纪录片库$9"}
