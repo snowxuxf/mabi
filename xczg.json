@@ -26,6 +26,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+             "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
             "ext": {
                 "线路数组": "#playlist*\">&&</a>",
                 "线路标题": "✨专享✨+>&&<[替换:*集>>线路]",
@@ -34,21 +35,32 @@
                 "播放标题": "title=\"&&\"",
                 "播放链接": "href=\"&&\"",
                 "跳转播放链接": "varurlDecode(var player*url\":\"&&\")",
+                "主页url": "https://www.lxsgsy.com/search.php?searchtype=5&order=time",
                 "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
                 "分类": "电影&电视剧&综艺&动漫&短剧",
                 "分类值": "1&2&3&4&30"}},
-{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,
-"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js",
-//"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js",
-"searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+//{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
 
+{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext": {
+"主页url": "https://www.663tz.com/index.php/vod/type/id/20.html",
+"分类url": "https://www.663tz.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html",
+"分类": "电影$20#电视剧$21#综艺$22#动漫$23#其他$24",
+"搜索url": "https://www.663tz.com/index.php/vod/search.html?wd={wd}",
+"副标题": "class=\"typeset\"&&</i>",
+"起始页": 2,
+"倒序": 1,
+"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
+"播放列表":"<ul>&&</div>[包含:magnet]"
+}},
 
-{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/6080.json"},
+//{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/6080.json"},
 //{"key":"🌡csp_6080ysw","name":"‍🌡6080┃影视|FongMi/蜂蜜","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js"},
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js"},
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js"},
-{"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
 
 
 {
