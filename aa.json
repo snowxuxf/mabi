@@ -3,9 +3,9 @@
 {
     "urls": [
  {"name": "🎯 自用MB线路 🎯","url": "https://bitbucket.org/chaoni/zbs/raw/master/xczg.json"},
- {"name": "🎯 南风主力线路 🎯","url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+ {"name": "🎯 南风主力线路 🎯","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
  {"name": "🎯 影视车主线路 🎯","url": "https://weixine.net/ysc.json"},
- {"name": "🌈 月光宝盒线路 🌈","url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
+ {"name": "🌈 月光宝盒线路 🌈","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
         {
             "url": "http://饭太硬.com/tv",
             "name": "🍚饭太硬线路"
@@ -23,7 +23,7 @@
             "name": "🚀道长线路"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
         },  
         {
@@ -31,7 +31,7 @@
             "name": "🚀Ray线路"
         },
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🚀高山流云 FTY"
     },
     {
@@ -47,7 +47,7 @@
       "name": "🚀吾爱线路"
     },
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
       "name": "🚀业余打发"
     },
     {
@@ -59,15 +59,15 @@
       "name": "🚀挺好分享"
     },	
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
       "name": "🚀雷蒙影视"
     },	
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json",
       "name": "🚀王小二源"
     }, 
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/api.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/api.json",
       "name": "🚀天天开心"
     }, 
 
