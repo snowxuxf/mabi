@@ -42,7 +42,7 @@
                 "分类值": "1&2&3&4&30"}},
 {"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 //{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
-{"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
+{"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
 
 
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/6080.json"},
@@ -543,15 +543,6 @@
             "changeable": 1
         },
         {
-            "key": "Wexxpgtv",
-            "name": "🍎红富士┃TV┃App",
-            "type": 3,
-            "api": "csp_Wexxpgtv",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Wexkukantv",
             "name": "😁看呗┃TV┃App",
             "type": 3,
@@ -596,15 +587,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "F4kvm",
-            "name": "🦑纯享┃影视┃直连",
-            "type": 3,
-            "api": "csp_WexF4kvm",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
             "key": "Wexbttwo",
             "name": "🐸大鼻涕┃影视┃直连",
@@ -614,15 +597,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "顶级4K",
-            "name": "🛩️顶级┃4K┃P2P",
-            "type": 3,
-            "api": "csp_Wexwo4k",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 0
-        },
+
         {
             "key": "MP4电影",
             "name": "🛩️MP4┃电影┃P2P",
@@ -632,15 +607,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "Twobt",
-            "name": "🛩️Twobt┃电影┃P2P",
-            "type": 3,
-            "api": "csp_WexTwobt",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 0
-        },
+
         {
             "key": "Pandalivetv",
             "name": "😍韩国┃美女┃直播",
@@ -663,11 +630,6 @@
                 "ratio": 2
             }
         },
-
-
-
-
-
 
 {
   "key": "少泽影客（APP）",
