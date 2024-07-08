@@ -42,7 +42,7 @@
                 "分类值": "1&2&3&4&30"}},
 {"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 //{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
-{"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
+{"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/好恐怖.json"},//"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
 
 
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/6080.json"},
@@ -1010,15 +1010,6 @@
 			   "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
         },
         {
-            "key": "Wexxifan",
-            "name": "🤡喜翻┃番剧",
-            "type": 3,
-            "api": "csp_Wexxifan",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "巴士",
             "name": "🤡巴士┃动漫",
             "type": 3,
@@ -1027,16 +1018,6 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "Wexciyuancheng",
-            "name": "🤡元城┃番剧",
-            "type": 3,
-            "api": "csp_Wexciyuancheng",
-           "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a",
-            "searchable": 1,
-            "changeable": 1
-        },
-
     {
             "key": "异世界",
             "name": "🤡动漫 | 异世界",
@@ -1160,17 +1141,6 @@
   "filterable": 1,
   "ext": "https://bitbucket.org/chaoni/zbs/raw/master/lib/胖虎影视.json"
 },
-    {
-      "key": "csp_SP33",
-      "name": "📺三三┃解析",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-
 {
   "key":"笑笑影视",
   "name":"🍊笑笑2K",
@@ -1662,9 +1632,6 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718628150146/okpng.txt;md5;d71c791627413995a83d4e6c24f2c85b"
     },
 
-{"key":"秒播短剧","name":"☘️秒播┃短剧","type":3,"api":"csp_Wexduanjuvop","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a","searchable":1,"changeable":1},
-{"key":"仙品短剧","name":"☘️仙品┃短剧","type":3,"api":"csp_Wexduanjuhema","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a","searchable":1,"changeable":1},
-{"key":"极品短剧","name":"☘️极品┃短剧","type":3,"api":"csp_Wexduanjuvmp","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a","searchable":1,"changeable":1},
 
 {"key":"良品短剧","name":"☘️良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},    
 {"key":"精品短剧","name":"☘️精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718757622098/ouge.jar;md5;4faca299df1fcb258ca9128e620e5b22","searchable":1,"changeable":1},
@@ -1703,7 +1670,16 @@
     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
 
 //{"key":"drpy_js_360影视","name":"🐛┃360┃[官网]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext":"https://jihulab.com/zxj/zxj/-/raw/main/js/360影视.js"},
-
+    {
+      "key": "csp_SP33",
+      "name": "📺三三┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
         {
             "key": "csp_SP360",
             "name": "📺┃360┃官源",
