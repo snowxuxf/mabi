@@ -17,6 +17,11 @@
       "quickSearch": 0,
       "filterable": 0
     },
+{"key":"csp_XBPQ_ysg","name":"🍚影视狗(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.yingshi.dog/vodshow/id/{cateId}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$jilupian#今日更新$new"}},
+//https://www.yingshi.dog/vodshow/id/2.html
+
+
 
 	        {
             "key": " 一起看影院",
@@ -177,7 +182,8 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"},
     {"key": "phys","name": "🐯胖虎┃影视","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"ext": "https://physvod.com","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
     {"key": "rzys","name": "🐜忍者┃影视","type": 3,"api": "csp_AppRZ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://rzys.xyz/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
-    {"key": "tvys","name": "🐼TVB ┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/adminouyang/231006/master/tvbox/喵影视/lib/TVB云播.json",
+   //{"key": "tvys","name": "🐼TVB ┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/adminouyang/231006/master/tvbox/喵影视/lib/TVB云播.json",
+    {"key": "tvys","name": "🐼TVB ┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://bitbucket.org/chaoni/zbs/raw/master/json/TVB云播.json",
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"},
     {"key": "Shys","name": "🥚双黄┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/adminouyang/231006/master/tvbox/喵影视/lib/双黄影视.json","jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"},
     {"key": "wwys","name": "💘五五┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/adminouyang/231006/master/tvbox/喵影视/lib/五五影视.json",
@@ -1652,7 +1658,7 @@
 
 {"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/jrs.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},{"key":"310js",
 "name":"⚽310┃看球","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/310.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},
-{"key":"Wexwuxiang","name":"🌐格斗┃给力┃体育","type":3,"api":"csp_Wexwuxiang","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
+{"key":"Wexwuxiang","name":"🌐格斗┃体育","type":3,"api":"csp_Wexwuxiang","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
 
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
