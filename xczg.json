@@ -541,7 +541,7 @@
 //https://ainio.cn/voshow/1-----------2024.html
 
 {"key":"csp_XBPQ_mfdy","name":"🍚免费电影(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
-"ext":{"分类url":"http://www.pinshasha.net/pddys/{cateId}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$jilu#短剧$fuli"}},
+"ext":{"分类url":"http://www.pinshasha.net/pddys/{cateId}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$jilu#短剧$duanju"}},
 //http://www.pinshasha.net/pddys/4.html
 
 {"key":"csp_XBPQ_sgw","name":"🍚时光电影(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
