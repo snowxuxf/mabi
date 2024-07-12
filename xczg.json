@@ -50,7 +50,19 @@
                 "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
                 "分类": "电影&电视剧&综艺&动漫&短剧",
                 "分类值": "1&2&3&4&30"}},
-{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+
+        
+{"key":"csp_XBPQ_xinshijuezl","name":"👓新视觉┃直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$59#纪录片$63"}},
+//https://www.6080yy3.com/vodshow/2---爱情--------.html
+
+//{"key":"WexShijuedy","name":"👓新视觉┃直连","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"},
+//{"key":"视觉","name":"🎦视觉┃直连","type":3,"api":"csp_Xinsj","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3","timeout":15,"ua":"okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+//{"key":"新视觉","name":"👓┃视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"},
+//{"key":"新视觉","name":"👓┃视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"},
+
+ 
+//{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 //{"key":"xinshijue","name":"🐾丨视觉【📺️】","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/cat/js/xinshijue_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 {"key":"🌡csp_hkb","name":"🌡好恐怖┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/好恐怖.json"},//"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json"},
 
@@ -141,20 +153,7 @@
     {"key": "kkys","name": "🐴可可┃影视","type": 3,"api": "csp_Keke","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
     {"key": "jqys","name": "💑剧圈┃影视","type": 3,"api": "csp_Juqq","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
     
-        {
-            "key": "WexShijuedy",
-            "name": "👓新视觉┃直连",
-            "type": 3,
-            "api": "csp_WexShijuedy",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a"
-        },
-//{"key":"视觉","name":"🎦视觉┃直连","type":3,"api":"csp_Xinsj","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719360885520/spider.jar;md5;6d5b37f4e56155cc1e36b9af103db1a3","timeout":15,"ua":"okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1,"ext":"https://www.80yy3.com/"},
-//{"key":"新视觉","name":"👓┃视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"},
-//{"key":"新视觉","name":"👓┃视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718724153440/fan240303.txt;md5;b283549a522bd5a164524d7ae4781806"},
-
-  
+ 
   {
       "key": "libvio_js",
       "name": "🐰利播┃在线",
