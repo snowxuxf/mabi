@@ -30,13 +30,7 @@
 
 
 
-{"key":"drjs_一起看[优]","name":"👺一起看[优](DR)","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-"ext":"https://ghproxy.net/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一起看[优].js"},
-//https://www.cpldq.com/search.php?page=2&searchtype=5&order=&tid=1&area=&year=2024&letter=&yuyan=&state=&money=&ver=&jq=
 
-{"key":"drjs_一起看2[优]","name":"👺一起看2[优](DR)","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-"ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/一起看2[优].js"},
-//https://ruguojiaoyu.com/search.php?page=2&searchtype=5&order=&tid=1&area=&year=2024&letter=&yuyan=&state=&money=&ver=&jq=
 
 
 
@@ -215,6 +209,10 @@
 
 {"key":"一起看","name":"‍👩‍👧‍👦┃一起看┃影视|FongMi/蜂蜜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yqktv_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 
+{"key":"drjs_一起看[优]","name":"👺一起看[优](DR)","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+"ext":"https://ghproxy.net/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一起看[优].js"},
+//https://www.cpldq.com/search.php?page=2&searchtype=5&order=&tid=1&area=&year=2024&letter=&yuyan=&state=&money=&ver=&jq=
+//备用https://ruguojiaoyu.com/search.php?page=2&searchtype=5&order=&tid=1&area=&year=2024&letter=&yuyan=&state=&money=&ver=&jq=
 
 {"key":"csp_XBPQ_yiqikan","name":"👺一起看(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "线路数组":"#playlist*\">&&</a>","线路标题":"✨线路✨共+>&&<[替换:线路>>]","播放数组":"class=\"playlistlink&&</ul>","播放列表":"<li&&</li>","播放标题":"title=\"&&\"","播放链接":"href=\"&&\"","跳转播放链接":"varurlDecode(varplayer*url\":\"&&\")",
@@ -661,6 +659,10 @@
 "ext":{"分类url":"https://www.yebaotv.cc/list-select-id-{cateId}-type--area-{area}-year-{year}-star-{star}-state-{state}-order-addtime-p-{catePg}.html","分类":"电影$1#电视剧$2#美剧$19#韩剧$20"}},
 //第一页https://www.yebaotv.cc/type/1--内地-2024---addtime.html
 //第二页https://www.yebaotv.cc/list-select-id-1-type--area-内地-year-2024-star--state--order-addtime-p-2.html
+
+{"key":"csp_XBPQ_kanyikan","name":"🍚看一看(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/看一看.json"},
+//https://www.kykys.cc/index.php?m=vod-list-id-3-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html
 
 {"key":"csp_XBPQ_yingshidaquan","name":"🍚影视大全(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"http://clouds9mall.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#动画电影$29#短剧$31"}},
