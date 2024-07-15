@@ -1752,7 +1752,7 @@
 
 {"key": "BT天堂","name":"🧲‍┃BT天堂","type":3,"api":"csp_XBPQ","searchable":1,"timeout":60,"quickSearch":1,"filterable":1,"ext": "https://bitbucket.org/chaoni/zbs/raw/master/json/bt天堂.json","jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar"},
 
-{"key":"csp_XBPQ_xiaobaiw","name":"🧲‍小白bt网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/小白.json"},
+{"key":"csp_XBPQ_xiaobaiw","name":"🧲‍┃小白bt网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/小白.json"},
 
 {"key":"csp_Mp4Mov","name":"🧲┃Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 
