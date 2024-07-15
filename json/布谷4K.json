@@ -476,7 +476,6 @@
 
 
 
-//{"key":"csp_XBPQ_y91heiliao","name":"🍚91爆料(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":{"分类url":"https://agenda.itjromk.com/category/{cateId}/{catePg}/","分类":"今日爆料$jrcg1#热门大瓜$rgjx#网红揭秘$ylgx#校园热瓜$xyrg#八卦娱乐$whbg#反差$fcsj#社区$llzq#亲历$gysp#良性$lpzq#奇闻$qwys"}},//https://agenda.itjromk.com/category/jrcg1/2/
 
 
 //======================================XBPQ网页直连例子==1=====================================
@@ -1756,8 +1755,8 @@
 {"key":"csp_XBPQ_xiaobaiw","name":"🧲‍┃小白bt网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/小白.json"},
 
-{"key":"csp_XBPQ_bugu4k","name":"🧲┃布谷4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
-"ext": "https://bitbucket.org/chaoni/zbs/raw/master/json/布谷4K.json"},
+{"key":"csp_XBPQ_bugu4k","name":"🧲‍┃布谷4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/布谷4K.json"},
 
 {"key":"csp_Mp4Mov","name":"🧲┃Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 
