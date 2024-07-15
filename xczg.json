@@ -34,10 +34,6 @@
 
 
 
-
-
-
-
 //===============XBPQ==各引导解释：/{cateId}-{area}地区-{by}排序-{class}类型-{lang}语言----{catePg}页码---{year}年代.html==============
 
 	        {
@@ -150,7 +146,7 @@
 
 {"key": "rbys","name": "🔥热播┃影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"playerType": 2,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104864467/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
-{"key":"hundong","name":"🍇西夏┃影视┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ysjtv.yy365.vip/api.php/app/"},
+{"key":"hundong","name":"🍇西夏┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ysjtv.yy365.vip/api.php/app/"},
     {"key": "mmys","name": "🌮萌米┃影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104864467/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
     {"key": "kkys","name": "🐴可可┃影视","type": 3,"api": "csp_Keke","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
@@ -481,11 +477,18 @@
         },
 
 
+
+
+
 //======================================XBPQ网页直连例子==1=====================================
 
 {"key":"csp_XBPQ_ysg","name":"🍚影视狗(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.yingshi.dog/vodshow/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$jilupian#今日更新$new"}},
 //https://www.yingshi.dog/vodshow/id/2/page/2.html
+
+{"key":"csp_XBPQ_jumitt","name":"🍚剧迷天堂(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.itvs.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#美剧$14#韩剧$15#纪录片$23"}},
+//https://www.itvs.cc/index.php/vod/show/by/time/id/15/page/2/year/2024.html
 
 {"key":"csp_XBPQ_wuwu","name":"🍚五五影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"http://www.imtop5.com/ww/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
@@ -512,7 +515,7 @@
 //https://wangfei.la/vod-show-id-3-page-2.html
 
 {"key":"csp_XBPQ_jjdy","name":"🍚姐姐电影(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
-"ext":{"分类url":"https://www.jjysw.cc/jjdy/{cateId}-{catePg}.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
+"ext":{"分类url":"https://www.jjysw.cc/jjdy/{cateId}-{catePg}.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#纪录片$fuli美剧$oumei韩剧$hanguo"}},
 //https://www.jjysw.cc/jjdy/dianying-2.html
 
 {"key":"csp_XBPQ_xbyy","name":"🍚迅播影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
@@ -543,6 +546,9 @@
 "ext":{"分类url":"http://www.3456yy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$30#海外剧$33"}},
 //http://www.3456yy.com/index.php/vod/show/id/1/page/2.html
 
+{"key":"csp_XBPQ_hongniuyy","name":"🍚红牛影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"主页url": "https://hnxjmxmf.com/hns/donghua/by/time/","分类url":"https://hnxjmxmf.com/hns/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#美剧$oumei#韩剧$hanguo#教育$fuli#纪录片$jilu"}},
+//https://hnxjmxmf.com/hns/dianying/area/大陆/page/2/year/2024.html
 
 
 //有点卡{"key":"csp_XBPQ_huohutv","name":"🍚火狐TV(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":{"分类url":"https://www.huohutv.net/vod-show-id-{cateId}-page-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},//https://www.huohutv.net/vod-show-id-1-page-2.html
@@ -626,6 +632,15 @@
 {"key":"csp_XBPQ_pianmayy","name":"🍚片马影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.pianmax.com/tags/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$67#纪录片$22"}},
 //https://www.pianmax.com/tags/2--------2---2024.html
+
+{"key":"csp_XBPQ_bilfunys","name":"🍚bilfun影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.bilfun.cc/bilfunshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$22#纪录片$19"}},
+//https://www.bilfun.cc/bilfunshow/4--------2---2024.html
+
+{"key":"csp_XBPQ_quyyingshi","name":"🍚曲阜影视(XP优)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.qufuly.com/qfshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#美剧$oumei#韩剧$hanguo#教育$fuli#纪录片$jilu"}},
+//https://www.qufuly.com/qfshow/dianying-大陆-------2---2024.html
+
 
 
 
@@ -1629,7 +1644,7 @@
 {"key":"csp_xml-天空资源","name":"🐝天空资源2","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml-飞速资源","name":"🐝飞速资源2","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml-飞速资源2","name":"🐝飞速资源1","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
+{"key":"老张实验","name":"🐝老张实验","type":1,"api":"http://zhangqun66.serv00.net/158.php","searchable":1,"changeable":1,"categories":["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
 {"key":"csp_xml-U酷资源","name":"🐝U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"subo","name":"🐝[速博]","type": 1,"playUrl":"","searchable":1,"quickSearch":1,"api":"https://subocaiji.com/api.php/provide/vod/at/json"},
 {"key":"kuaikan-api","name":"🐝[快看]","type": 1,"playUrl":"","searchable":1,"quickSearch":1,"api":"https://kuaikan-api.com/api.php/provide/vod/at/json"},
