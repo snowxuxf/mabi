@@ -24,11 +24,6 @@
 
 
 
-
-
-
-
-
 //===============XBPQ==各引导解释：/{cateId}-{area}地区-{by}排序-{class}类型-{lang}语言----{catePg}页码---{year}年代.html==============
 
 	        {
@@ -213,6 +208,10 @@
 {"key":"csp_XBPQ_vsyingyuan","name":"👺VS影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.wuxinm.com/sanshisw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 //https://www.wuxinm.com/sanshisw/1--------2---2024.html
+
+{"key":"csp_XBPQ_yjujitv","name":"👺剧集TV(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://v.ijujitv.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"陆剧$1#港剧$7#台剧$8#美剧$3#日剧$2#韩剧$1#泰剧$4#短剧$9"}},
+//https://v.ijujitv.cc/show/1--------2---2024.html
 
 {"key":"明日影视","name": "📛明日┃影视","type":3,"api":"csp_WexMingriys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
 {"key":"腐剧视频","name": "📛腐剧┃影视","type":3,"api":"csp_WexFujutv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
@@ -554,6 +553,10 @@
 
 //======================================XBPQ网页直连例子==2=====================================
 
+{"key":"csp_XBPQ_116dyw","name":"🍚116电影网(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.yzzs116.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#教育$fuli#纪录片$jilu"}},
+//https://www.yzzs116.com/show/dianying-大陆-------2---2024/
+
 {"key":"csp_XBPQ_chabeihu","name":"🍚茶杯狐(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://cupfoxcc.com/chvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 //https://cupfoxcc.com/chvodshow/1--------2---.html
@@ -669,6 +672,12 @@
 "ext":{"分类url":"https://www.yebaotv.cc/list-select-id-{cateId}-type--area-{area}-year-{year}-star-{star}-state-{state}-order-addtime-p-{catePg}.html","分类":"电影$1#电视剧$2#美剧$19#韩剧$20"}},
 //第一页https://www.yebaotv.cc/type/1--内地-2024---addtime.html
 //第二页https://www.yebaotv.cc/list-select-id-1-type--area-内地-year-2024-star--state--order-addtime-p-2.html
+
+
+{"key":"csp_XBPQ_mifengyk","name":"🍚蜜蜂影库(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.mifengyingku.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area--lang-.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#美剧$15#日韩剧$14#港台剧$13"}},
+//https://www.mifengyingku.com/vod-list-id-1-pg-1-order--by--class-0-year-2023-letter--area--lang-.html
+
 
 {"key":"csp_XBPQ_kanyikan","name":"🍚看一看(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":"https://bitbucket.org/chaoni/zbs/raw/master/json/看一看.json"},
@@ -990,8 +999,9 @@
             "name": "⚡️┃碟调┃[js]",
             "type": 3,
             "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
-            "ext": "http://ztha.top/catjs/JS/js/碟调影视.js"
-        },
+            "ext": "http://ztha.top/catjs/JS/js/碟调影视.js"},
+
+//{"key":"csp_XBPQ_diediaoyy","name":"⚡️蝶调影院┃xp(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":{"分类url":"http://www.618648.com/dietiaoshow/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$a#电视剧$b#综艺$d#动漫$c#纪录片$f"}},//http://www.618648.com/dietiaoshow/a/page/2/year/2024.html
         {
             "key": "drpy_js_私人影院",
             "name": "🎪┃私人┃[js]",
