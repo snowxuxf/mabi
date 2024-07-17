@@ -32,6 +32,9 @@
 
 
 
+
+
+
 //===============XBPQ==各引导解释：/{cateId}-{area}地区-{by}排序-{class}类型-{lang}语言----{catePg}页码---{year}年代.html==============
 
 	        {
@@ -59,19 +62,10 @@
 
         
 
+{"key":"changmengyy畅梦影视","name":🎃"畅梦影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
+"ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/nangua.js"},
 
-
-    {
-     "key": "ngys",
-    "name": "🎃南瓜┃影视",
-    "type": 3,
-    "api": "csp_NanGua",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-    "playerType": 2,
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"
-},
+//{"key":"ngys","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"},
 
     {
       "key": "毛驴",
@@ -450,7 +444,8 @@
                 "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
             }
         },
-
+{"key":"changmengyy畅梦影视","name":🍚"畅梦影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
+"ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/changmeng.js"},
 
 
 
