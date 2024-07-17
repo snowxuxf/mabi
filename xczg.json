@@ -470,7 +470,7 @@
 //https://www.time-chicken.com/vod/show/id/3/page/2.html
       
 {"key":"csp_XBPQ_fnsp","name":"🍚蜂鸟视频(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
-"ext":{"分类url":"https://www.fnsptv.vip/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$5#今日更新$new"}},
+"ext":{"分类url":"https://www.fnsptv.vip/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#美剧$14#韩剧$15#港台剧$16#短剧$5#今日更新$new"}},
 //https://www.fnsptv.vip/vod/show/id/3/page/2.html
 
 {"key":"csp_XBPQ_wfdy","name":"🍚网飞电影(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
