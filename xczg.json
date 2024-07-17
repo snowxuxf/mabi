@@ -27,7 +27,6 @@
 
 
 
-
 //===============XBPQ==各引导解释：/{cateId}-{area}地区-{by}排序-{class}类型-{lang}语言----{catePg}页码---{year}年代.html==============
 
 	        {
@@ -124,7 +123,10 @@
 {"key": "pgys","name": "🍎苹果┃IJk","type": 3,"api": "csp_LiteApple"  ,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104864467/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
     {"key": "atys","name": "🏝奥特┃影视","type": 3,"api": "csp_Auete"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"ext": "https://auete.pro/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104864467/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
 
-   {"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718880026538/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"},
+{"key":"csp_XBPQ_aikandy","name":"🍚爱看电影(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://inkandy.com/vodshow/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#港台剧$14#日韩剧$15#欧美剧$16#日韩剧$21#短剧$32"}},
+//https://inkandy.com/vodshow/2/page/2/year/2024.html
+{"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718880026538/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375"},
 {"key":"csp_nkvlog","name":"💢┃NK┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/nkvlog.json"},
 
 {"key":"subaibai","name":"‍⛈┃素白白┃影视","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
