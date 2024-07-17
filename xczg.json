@@ -28,13 +28,6 @@
 
 
 
-
-
-
-
-
-
-
 //===============XBPQ==各引导解释：/{cateId}-{area}地区-{by}排序-{class}类型-{lang}语言----{catePg}页码---{year}年代.html==============
 
 	        {
@@ -62,7 +55,7 @@
 
         
 
-{"key":"nanguayingshi","name":🎃"南瓜影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
+{"key":"nanguayingshi","name":🎃南瓜┃影视,"type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
 "ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/nangua.js"},
 
 //{"key":"ngys","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"},
@@ -444,7 +437,7 @@
                 "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
             }
         },
-{"key":"changmengyy","name":🍚"畅梦影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
+{"key":"changmengyy","name":"🍚畅梦影视(XP)","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
 "ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/changmeng.js"},
 
 
@@ -529,6 +522,11 @@
 {"key":"csp_XBPQ_xiaoxiongyingshi","name":"🍚小熊影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.xxystv.top/vod/show/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#教育$5#纪录片$20#美剧$14#韩剧$15#港剧$16"}},
 //https://www.xxystv.top/vod/show/id/1/page/2/year/2024.html
+
+{"key":"csp_XBPQ_qingfengys","name":"🍚清风影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.qingfengys.com/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"}},
+//https://www.qingfengys.com/show/id/1/page/2/by/time/year/2024.html
+
 
 
 
@@ -683,6 +681,14 @@
 "ext":{"分类url":"https://csunion.cn/show/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#动画电影$22#日剧$18#韩剧$20#美剧$19#纪录片$13#电影解说$24#体育$23#教育$15#纪录片$13"}},
 //https://csunion.cn/show/dianshiju--------2---2024.html
 
+{"key":"csp_XBPQ_sanmiys","name":"🍚三米影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.lj72.com/3ms/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#美剧$18#韩剧$20#短剧$32#纪录片$15#教育$16"}},
+//https://www.lj72.com/3ms/2/by/time/page/2/year/2024/
+
+{"key":"csp_XBPQ_cechiyy","name":"🍚策驰影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"}},
+//https://www.cecidy.cc/vodshow/2--------2---2024/
+
 
 
 
@@ -703,11 +709,15 @@
 //https://www.bqg43.com/zb8ys/dianying/by/time/page/2.html
 
 
+
+
 //======================================XBPQ网页直连例子==4=（FongMi能翻页）====================================
 
 {"key":"csp_XBPQ_kany","name":"🍚看影网(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.kanying.org/so/{cateId}/{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 //https://www.kanying.org/so/movie/大陆-------2---2024.html
+
+
 
 
 
@@ -736,6 +746,7 @@
 {"key":"csp_XBPQ_jiaoziys","name":"🍚饺子影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.jiaozi.me/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}","分类":"电影$1#电视剧$2#综艺$3#动漫$41"}},
 //https://www.jiaozi.me/search.php?searchtype=5&tid=1&year=2024
+
 
 
 
