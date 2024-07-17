@@ -28,6 +28,10 @@
 
 
 
+
+
+
+
 //===============XBPQ==各引导解释：/{cateId}-{area}地区-{by}排序-{class}类型-{lang}语言----{catePg}页码---{year}年代.html==============
 
 	        {
@@ -50,46 +54,12 @@
                 "跳转播放链接": "varurlDecode(var player*url\":\"&&\")",
                 "主页url": "https://www.lxsgsy.com/search.php?searchtype=5&order=time",
                 "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
-                "分类": "电影&电视剧&综艺&动漫&短剧",
-                "分类值": "1&2&3&4&30"}},
+                "分类": "电影&电视剧&综艺&动漫&短剧&国产剧&美剧&韩剧&纪录片",
+                "分类值": "1&2&3&4&30&13&15&16&11"}},
 
         
 
 
-
-
-{
-      "key": "天天弹幕版",
-      "name": "⛅️天天┃弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec",
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-
-    {
-      "key": "️爱看Bot弹幕版",
-      "name": "⛅️爱看Bot|弹幕",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718880026538/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-
-//{"key":"JOJO弹幕版","name":"🍭JOJO┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec","ext":{"danmu":true},"timeout":10},
- 
 
     {
      "key": "ngys",
@@ -197,6 +167,10 @@
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"https://cors.isteed.cc/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js"},
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js"},
 //{"key":"🌡csp_6080ysw","name":"🌡6080┃影视","type":3,"api":"https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/6080ys.js"},
+
+{"key":"️爱看Bot弹幕版","name":"⛅️爱看Bot|弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718880026538/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375","ext":{"danmu":true},"timeout":10},
+//{"key":"JOJO弹幕版","name":"🍭JOJO┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec","ext":{"danmu":true},"timeout":10},
+//{"key":"天天弹幕版","name":"⛅️天天┃弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec","ext":{"danmu":true},"timeout":10},
 
 
 
@@ -557,6 +531,11 @@
 
 {"key":"csp_XBPQ_huohutv","name":"🍚火狐TV(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar","ext":{"分类url":"https://www.huohutv.net/vod-show-id-{cateId}-page-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$60#欧美剧$16#日韩剧$15#港台$14#纪录片$50"}},//https://www.huohutv.net/vod-show-id-1-page-2.html
 
+{"key":"csp_XBPQ_xiaoxiongyingshi","name":"🍚小熊影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.xxystv.top/vod/show/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#教育$5#纪录片$20#美剧$14#韩剧$15#港剧$16"}},
+//https://www.xxystv.top/vod/show/id/1/page/2/year/2024.html
+
+
 
 
 
@@ -697,12 +676,16 @@
 "ext":{"分类url":"http://www.xigua60.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}","分类":"电影$1#电视剧$3#综艺$33#动漫$31短剧$45美剧$15韩剧$16#纪录片$11"}},
 //http://www.xigua60.com/search.php?page=2&searchtype=5&tid=1&year=2024
 
-{"key":"csp_XBPQ_xiguayingy","name":"🍚西瓜影院XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+{"key":"csp_XBPQ_xiguayingyingyuan","name":"🍚西瓜影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.xigua1100.com/show/{cateId}---{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$34"}},
 //https://www.xigua1100.com/show/1--------2---2024.html
 
-{"key":"csp_XBPQ_xiongmaoys","name":"🍚熊猫影视XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
-"ext":{"分类url":"https://csunion.cn/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#动画电影$22#日剧$18#韩剧$20#美剧$19#纪录片$13#电影解说$24#体育$23#教育$15#纪录片$13"}},
+{"key":"csp_XBPQ_xiguayingyingyuan2","name":"🍚西瓜影院2(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.xigua1100.com/show/{cateId}---{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"}},
+//https://www.xigua2024.com/vodshow/1-大陆----------2023.html
+
+{"key":"csp_XBPQ_xiongmaoyins","name":"🍚熊猫影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://csunion.cn/show/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#动画电影$22#日剧$18#韩剧$20#美剧$19#纪录片$13#电影解说$24#体育$23#教育$15#纪录片$13"}},
 //https://csunion.cn/show/dianshiju--------2---2024.html
 
 
