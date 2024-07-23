@@ -10,7 +10,7 @@
 	"sites":[
     {
       "key": "豆豆",
-      "name": "🎟🐲️┃豆瓣┃自用不得外传",
+      "name": "🎟🐲️┃豆瓣┃自用不得外传",jian
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -22,7 +22,6 @@
 {"key":"csp_XBPQ_jqq","name":"🍚剧圈圈(XP)","type":3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman#短剧$shuangju#纪录片$jilupian#今日更新$new#日韩剧$rihanju#欧美剧$oumeiju"}},
 //https://jqqzx.cc/vodshow/id/dongman/page/2.html
-
 
 
 
@@ -53,10 +52,10 @@
                 "分类": "电影&电视剧&综艺&动漫&短剧&国产剧&美剧&韩剧&纪录片",
                 "分类值": "1&2&3&4&30&13&15&16&11"}},
 
-        
-
-{"key":"nanguayingshi","name":🎃南瓜┃影视,"type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/ng_open.js"},
-//{"key":"ngys","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"},
+//{"key":"nanguayingshi","name":🎃南瓜┃影视,"type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},        
+//{"key":"nanguayingshi","name":🎃南瓜┃影视,"type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/nangua.js"},
+//备用{"key":"nanguayingshi","name":🎃南瓜┃影视,"type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/ng_open.js"},
+{"key":"ngys","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718613021405/meow240617.jar;md5;d1115d99527d75948d095085b1407add"},
 
     {
       "key": "毛驴",
@@ -79,19 +78,10 @@
    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104864467/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
     //{"key": "jqys","name": "💑剧圈┃影视","type": 3,"api": "csp_Juqq","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719104995956/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"},
     
- 
-  {
-      "key": "libvio_js",
-      "name": "🐰利播┃在线",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/chaoni/zbs/raw/master/js/libvio.js",
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec",
-      "timeout": 15
-    },
+{"key":"libvio_js","name":"🐰利播┃直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#日韩$15#欧美$16#今日更新$20"}},
+//https://www.libvio.cc/show/1--------2---2024.html 
+//{"key":"libvio_js","name":"🐰利播┃在线","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bitbucket.org/chaoni/zbs/raw/master/js/drpy2.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/js/libvio.js","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718631539195/okjpg.txt;md5;1e4073ef273b22d2ce24258bc43153ec","timeout":15},
 {"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719664469036/fan240629.txt;md5;39536019b1427f62b535f028d161d43a","api":"http://ztha.top/catjs/JS/lib/drpy2.min.js","ext":"https://bitbucket.org/chaoni/zbs/raw/master/lib/jp.js"},
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718809828152/fan240619.txt;md5;c75cf198357a3a77f2189ab0764f2a8c","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718809828152/fan240619.txt;md5;c75cf198357a3a77f2189ab0764f2a8c","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
