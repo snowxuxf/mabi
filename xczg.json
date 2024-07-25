@@ -3,14 +3,14 @@
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713343053262/Yoursmile.jar;md5;632adf6446656e28a9f31033f3c2f416",
 
 "lives":[
-{"name":"live","type":0,"playerType":1,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719071739145/ALL.txt",
+{"name":"live","type":0,"playerType":1,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721837324712/ALL.txt",
 "epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live2","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/lives/live.txt","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}"}
 ],
 	"sites":[
     {
       "key": "豆豆",
-      "name": "🎟🐲️┃豆瓣┃自用不得外传",jian
+      "name": "🎟🐲️┃豆瓣┃自用不得外传",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
