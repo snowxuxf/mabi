@@ -49,7 +49,6 @@ CCTV怀旧剧场,https://epg.pw/stream/2a3cb707b11a0e9fc735b97bc9f42bcfd9824ebb9
 CCTV怀旧剧场,https://epg.pw/stream/6c6274d39558ce249a0c06807cb22de4667d87352c911ddc73523ba9512000b4.m3u8
 CCTV怀旧剧场,https://epg.pw/stream/6d9064b5efa7998474072f1ba5037695e9488645e804a90cbd39836b3299a746.m3u8
 CGTN,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
-
 CCTV2财经,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
 CCTV3综艺,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
 CCTV5体育,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227604/1.m3u8?HlsProfileId=
@@ -100,42 +99,6 @@ CETV2,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227633/1.m3u8?Hls
 CETV3,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227603/1.m3u8?HlsProfileId=
 CETV4,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227640/1.m3u8?HlsProfileId=
 CGTV,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227650/1.m3u8?HlsProfileId=
-
-CCTV1综合,http://60.6.255.8:2180/live/cctv1/index.m3u8$中国IPTV
-CCTV2财经,http://60.6.255.8:2180/live/cctv2/index.m3u8$中国IPTV
-CCTV3综艺,http://60.6.255.8:2180/live/cctv3/index.m3u8$中国IPTV
-CCTV4国际,http://60.6.255.8:2180/live/cctv4/index.m3u8$中国IPTV
-CCTV5体育,http://60.6.255.8:2180/live/cctv5/index.m3u8$中国IPTV
-CCTV5+++,http://60.6.255.8:2180/live/cctv5q/index.m3u8$中国IPTV
-CCTV6电影,http://60.6.255.8:2180/live/cctv6/index.m3u8$中国IPTV
-CCTV7军事,http://60.6.255.8:2180/live/cctv7/index.m3u8$中国IPTV
-CCTV8剧场,http://60.6.255.8:2180/live/cctv8/index.m3u8$中国IPTV
-CCTV9纪录,http://60.6.255.8:2180/live/cctv9/index.m3u8$中国IPTV
-CCTV10科教,http://60.6.255.8:2180/live/cctv10/index.m3u8$中国IPTV
-CCTV11戏曲,http://60.6.255.8:2180/live/cctv11/index.m3u8$中国IPTV
-CCTV12社法,http://60.6.255.8:2180/live/cctv12/index.m3u8$中国IPTV
-CCTV13新闻,http://60.6.255.8:2180/live/cctv13/index.m3u8$中国IPTV
-CCTV14少儿,http://60.6.255.8:2180/live/cctv14/index.m3u8$中国IPTV
-CCTV15音乐,http://60.6.255.8:2180/live/cctv15/index.m3u8$中国IPTV
-CCTV17农业,http://60.6.255.8:2180/live/cctv17/index.m3u8$中国IPTV
-
-CCTV1综合,http://222.223.118.222:2180/live/cctv1/index.m3u8$中国IPTV
-CCTV2财经,http://222.223.118.222:2180/live/cctv2/index.m3u8$中国IPTV
-CCTV3综艺,http://222.223.118.222:2180/live/cctv3/index.m3u8$中国IPTV
-CCTV4国际,http://222.223.118.222:2180/live/cctv4/index.m3u8$中国IPTV
-CCTV5体育,http://222.223.118.222:2180/live/cctv5/index.m3u8$中国IPTV
-CCTV5+++,http://222.223.118.222:2180/live/cctv5q/index.m3u8$中国IPTV
-CCTV6电影,http://222.223.118.222:2180/live/cctv6/index.m3u8$中国IPTV
-CCTV7军事,http://222.223.118.222:2180/live/cctv7/index.m3u8$中国IPTV
-CCTV8剧场,http://222.223.118.222:2180/live/cctv8/index.m3u8$中国IPTV
-CCTV9纪录,http://222.223.118.222:2180/live/cctv9/index.m3u8$中国IPTV
-CCTV10科教,http://222.223.118.222:2180/live/cctv10/index.m3u8$中国IPTV
-CCTV11戏曲,http://222.223.118.222:2180/live/cctv11/index.m3u8$中国IPTV
-CCTV12社法,http://222.223.118.222:2180/live/cctv12/index.m3u8$中国IPTV
-CCTV13新闻,http://222.223.118.222:2180/live/cctv13/index.m3u8$中国IPTV
-CCTV14少儿,http://222.223.118.222:2180/live/cctv14/index.m3u8$中国IPTV
-CCTV15音乐,http://222.223.118.222:2180/live/cctv15/index.m3u8$中国IPTV
-
 CCTV1综合,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0$标清IPTV
 CCTV2财经,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0$标清IPTV
 CCTV3综艺,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0$标清IPTV
@@ -155,18 +118,104 @@ CCTV15音乐,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv&play
 CCTV16奥体,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0$标清IPTV
 CCTV17农业,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$标清IPTV
 CCTV17农业,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0$标清IPTV
-
 港台,#genre#
-凤凰资讯1,http://hikvision.city:880/fhzx.m3u8
-凤凰资讯2,http://61.221.215.25:8800/hls/47/index.m3u8
-无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰卫视资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
+凤凰中文,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8
+凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
+星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
+星空国际,http://13457610200.8866.org:2018/live/星空国际/index.m3u8
+私人影院,http://13457610200.8866.org:2018/live/影视频道HD/index.m3u8
+中国电影,http://13457610200.8866.org:2018/live/中国电影/index.m3u8
+TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+无线新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+NHK,http://61.221.215.25:8800/hls/51/index.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
+寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+EYE戏剧,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+爱尔达影剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+卡通,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+EYE旅游台,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+民视,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+台视财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
+年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
+三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
+三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
+三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
+龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
+纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
+纬来精彩,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
+纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
+纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
+纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
+纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
+东风37,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
+民视第一,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
+靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8
+SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+天下卫视,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
+东森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
+ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
+东森美洲戏剧,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚太第一卫视,http://play2.one-tv.com/live/onetv.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
@@ -195,8 +244,6 @@ Thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-中国环球,http://live.cgtn.com/500/prog_index.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 花花公子蒙古,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
@@ -206,7 +253,6 @@ Thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 波兰TV Kujawy (Opt-1),http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 波兰TV Torun,http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 新西兰Three,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-喀麦隆 Vision 4,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 哥斯达黎加 Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 捷克Retro (Opt-1),http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 拉脱维亚RETV,http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
@@ -218,12 +264,10 @@ Thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 东森超视34.5 标清,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-緯來體育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 HBO WEST,https://epg.pw/stream/0d49d9be7e86d3def1afddb64b22227a5048cd31fc4f15916f7412cf402e2d0a.ctv
 HBO WEST,https://epg.pw/stream/4e80b4452792f736b3f185c8122600e968fffc3fbd8067af05e1dab6b5247c98.ctv
 HBO WEST,https://epg.pw/stream/6086733b5f7045eb5ac3f5b3d99f147fb99e715976a69d647fe21d291f0bc888.ctv
@@ -231,7 +275,6 @@ hbo,https://epg.pw/stream/9016d08da7eb828b053bb9863bf74799f30354c7e05fdaf488abb5
 hbo2*,https://epg.pw/stream/b55e548ed34239f35f054d5d41b5c17d2cce1da7d596252e33e544855cdea106.ctv
 越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 韩国Arirang (Opt-1),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 美国July.12.2018,http://stream.srg-ssr.ch/m/rsc_de/mp3_128
@@ -371,7 +414,6 @@ hbo2*,https://epg.pw/stream/b55e548ed34239f35f054d5d41b5c17d2cce1da7d596252e33e5
 北京卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 北京体育休闲,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
 山东教育卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226701/1.m3u8
 山东教育卫视,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227591/1.m3u8?HlsProfileId=
 舟山东极岛,http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
@@ -427,7 +469,6 @@ hbo2*,https://epg.pw/stream/b55e548ed34239f35f054d5d41b5c17d2cce1da7d596252e33e5
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
-新罗电视二套,http://stream.lyxltv.com/xinluotv/sd/live.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 阜城综合频道,http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
@@ -445,7 +486,6 @@ hbo2*,https://epg.pw/stream/b55e548ed34239f35f054d5d41b5c17d2cce1da7d596252e33e5
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 张家港社会生活,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 泰兴新闻频道,http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
@@ -542,12 +582,6 @@ BRTV纪实科教,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227569
 BRTV纪实科教,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574/1.m3u8?HlsProfileId=
 不知卫视,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227609/1.m3u8?HlsProfileId=
 不知卫视,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227617/1.m3u8?HlsProfileId=
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
-滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
-滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
-滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
 河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
@@ -630,7 +664,6 @@ BRTV纪实科教,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
-南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
@@ -641,7 +674,6 @@ BRTV纪实科教,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
 张家港民生频道,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
-滨海新闻综合,http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8?zjiangsd
 如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 溧水影院娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
@@ -660,8 +692,6 @@ BRTV纪实科教,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
-BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
@@ -774,14 +804,11 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 会东综合,http://112.45.133.129:90/live/xwzh.m3u8?zsicd
 会东综合,http://live.schdxww.com:90/live/xwzh.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
-固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
 六安新闻综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
 六安新闻综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
 六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 霍山综合,http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
@@ -820,10 +847,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
 三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
-石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
@@ -845,10 +868,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
@@ -861,7 +880,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 西双版纳1,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 西双版纳2,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 砚山频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
-镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
@@ -915,14 +933,11 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 六师五家渠综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 七师胡杨河综合,http://klmysjtzb.rcsxzx.com/hls/qishi1.m3u8
 十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
-十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 乌鲁木齐综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
 乌鲁木齐维语综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/wy.m3u8
 卡拉玛依汉语综合,http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
 卡拉玛依维语综合,http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 卡拉玛依影视,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
-哈密二套,http://stream.hmgbtv.com/hm2/hd/live.m3u8
-哈密三套,http://stream.hmgbtv.com/hm3/hd/live.m3u8
 新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
@@ -939,10 +954,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 宁波象山综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
 嵊州新闻综合,https://epg.pw/stream/ef74d8c6fb28e86adc1144bccb3e9cb4981c609d36dbeecae2bfb93a646daa4f.m3u8
 平湖新闻综合,https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8
-杭州导视,https://epg.pw/stream/d901e2646d263d1df1b951c3650aa42bebcf5cc634262fb9572bba0134dc55d9.ctv
-杭州明珠,https://epg.pw/stream/f4d3cf07fef647405506f59e802ffec1fa076cdb1b03535bdb398588a6af6fc8.ctv
-杭州生活,https://epg.pw/stream/612c148cb9395dfc3d60bfcb37ca7de7180ae4bc53d91447643dc83bf1589e2e.ctv
-杭州综合,https://epg.pw/stream/6fb28b3f31cd927a048f858d9a53b12e1c272472810709bca2056941286c9cd4.ctv
 绍兴公共,https://epg.pw/stream/3eeb4fe5f491d32e4c14b1c49ec7feb3f3c3f9be4f88e797f7d3fd05d66d9ecd.m3u8
 绍兴公共频道,https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8
 绍兴文化影院,https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
@@ -950,7 +961,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
 兵团八师石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
-兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 兵团四师可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
 延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
@@ -968,7 +978,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 靖宇综合频道,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
-潜山新闻综合,http://60.171.171.101:8278/rtmp_export/video22.m3u8
 BTV纪实科教,https://epg.pw/stream/d073f804942782ba0c6588d8af5464c9539555ed8a6d2928f17f40166bab3432.m3u8
 三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 建宁综合频道,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
@@ -989,7 +998,6 @@ BTV纪实科教,https://epg.pw/stream/d073f804942782ba0c6588d8af5464c9539555ed8a
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 永清影视频道,http://60.10.203.69:8000/4.m3u8
-永清综合频道,http://60.10.203.69:8000/0.m3u8
 海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
 海安新闻综合,https://epg.pw/stream/e12fc750b8094b8cde970ed847fa1563cc259ccd485f94cc640e50c84b508df8.m3u8
 海安新闻综合频道,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
@@ -1014,7 +1022,6 @@ BTV纪实科教,https://epg.pw/stream/d073f804942782ba0c6588d8af5464c9539555ed8a
 鹿泉二套,https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 富裕综合,http://221.209.44.174:1980/hls/1001.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 上蔡综合,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
 上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
@@ -1034,7 +1041,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 内黄新闻综合频道,https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
 内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 南乐综合频道,http://tvpull.dxhmt.cn:9081/tv/10923-1.m3u8
 南乐综合频道,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 南京新闻综合,https://epg.pw/stream/b91a2f184d4562d381e6fee45b5bcdb6e90bdda92a8ab18bd0546b77456fdeff.m3u8
@@ -1061,7 +1067,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 宜阳综合频道,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 宝丰综合频道,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-宣汉新闻综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
 封丘新闻综合,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
 封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 尉氏综合频道,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
@@ -1162,7 +1167,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 确山综合,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
 确山综合,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 福建漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-红河州新闻综合,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 罗山综合频道,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
 罗江新闻综合,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 舞钢新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
@@ -1201,7 +1205,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 邓州新闻,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 郏县综合频道,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-郫都新闻综合,http://vod.pdrmtzx.com:80/pd/live.m3u8
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 鄢陵综合频道,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
@@ -1282,25 +1285,20 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 青神综合频道,http://lmt.scqstv.com:80/live1/live1.m3u8
 马尔康综合,https://epg.pw/stream/730624d47482fed3331196e40e506833a98c72142af419b50c098c0fdedb850b.m3u8
 马尔康综合频道,http://live.zmmek.com:90/live/zhxw.m3u8
-个旧综合,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
-德宏公共频道,https://ali-play.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
 北海新闻综合频道,https://epg.pw/stream/de95a5cf7a56dc053f066366644364fcb6bbd9a08399fa7f25445d559d16516b.m3u8
 南宁公共频道,https://epg.pw/stream/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8
 南宁新闻综合频道,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活频道,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活频道,https://epg.pw/stream/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8
-桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林新闻综合,https://epg.pw/stream/51b73b5ccce499befe8974842ba690b10f195922e05ccccb5fef6f20a22fae44.m3u8
 隆安电视台,https://hls.nntv.cn/nnlive/LATV_24.m3u8
 武汉教育,https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
 襄城综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 襄城综合频道,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
-1905电影,http://xxw.me0.cn/1905dy.php?id=1905b
 乌克兰影院,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 垫江综合频道,http://125.62.24.185:80/1.m3u8
-开州综合频道,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 扬州综合,https://cm-wshls.homecdn.com/live/8bb.m3u8
 赣州综合,http://wb.jxgztv.com/live/gztv1.m3u8
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
@@ -1322,8 +1320,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
 风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
 宁波鄞州一套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
-新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8
-新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
 梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 大厂一套,http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
 张家口一套新闻综合频道,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
@@ -1377,7 +1373,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 吉林延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 吉林延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
-云南绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
 云南麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 云南文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 云南少儿,https://epg.pw/stream/0408f1b5711a3f586ae7a6d8bd809950795878c727c614b9822ccb4ba1ccbfa1.m3u8
@@ -1394,14 +1389,10 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 安徽综艺体育,https://epg.pw/stream/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f89c6b9607514.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
--8K北京科教台,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京-水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 北京-水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
 北京-水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
-北京房山无线,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
-北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 北京新闻,https://epg.pw/stream/786605619dffc1b19504dca761e9e922a7c9f005336579c733ccda56b3e2aa16.m3u8
-北京新闻频道BTV9,https://live.funhillrm.com/5/sd/live.m3u8
 厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 广东-梅州梅江,http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 广东体育,https://epg.pw/stream/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8
@@ -1455,10 +1446,8 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 山西晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
 山西灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
 山西定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
-山西襄垣电视,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
 山西长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-山西黄河,http://live.cooltv.top/tv/cutv.php?id=sxhh
 江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
 江苏城市,https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
@@ -1484,7 +1473,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 山东齐鲁,https://epg.pw/stream/39855823c03804715a09a0edbb2274a5a73f776010ecd22551bc45159cb5f4e2.m3u8
 广西影视,https://epg.pw/stream/397ad4626ff6079e13990bc6474d9a855c149a7fdf3c827d83bd1277547dc025.m3u8
 广西新闻,https://epg.pw/stream/5a63df536f2a1772e2dc5847f58a13b84f3c0ba095d266fc9f27c1e392eaf2d4.m3u8
-广西桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 广西综艺,https://epg.pw/stream/a4b4f68ce7c6d859538a85ef14d38f2123e370799943ed95fd21f7c6d2e37463.m3u8
@@ -1535,7 +1523,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 叶县一套,http://ls.qingting.fm/live/345.m3u8
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
-哈密一套,http://stream.hmgbtv.com/hm1/hd/live.m3u8
 河北经济,http://hbfc.chinashadt.com:2036/live/6.stream/playlist.m3u8
 河北经济,http://ls.qingting.fm/live/4546579.m3u8
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
@@ -1958,196 +1945,78 @@ IPv6卡通,#genre#
 动画片,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000422/index.m3u8?IASHttpSessionId=OTT155220231119225243001097
 电信专用,#genre#
 CCTV1,http://tv.sd.cn/sichuan?id=239.93.0.184:5140$四川电信
-CCTV1,http://mail.petzhu.top:7000/rtp/239.254.200.45:8008$河北电信
 CCTV2,http://tv.sd.cn/sichuan?id=239.93.1.23:6000$四川电信
-CCTV2,http://mail.petzhu.top:7000/rtp/239.254.200.158:6000$河北电信
 CCTV3,http://tv.sd.cn/sichuan?id=239.93.1.11:2223$四川电信
-CCTV3,http://mail.petzhu.top:7000/rtp/239.254.201.152:7205$河北电信
 CCTV4,http://tv.sd.cn/sichuan?id=239.93.1.105:5140$四川电信
-CCTV4,http://mail.petzhu.top:7000/rtp/239.254.200.190:6307$河北电信
 CCTV5,http://tv.sd.cn/sichuan?id=239.93.42.37:5140$四川电信
-CCTV5,http://mail.petzhu.top:7000/rtp/239.254.201.153:7206$河北电信
 CCTV6,http://tv.sd.cn/sichuan?id=239.93.1.13:2226$四川电信
-CCTV6,http://mail.petzhu.top:7000/rtp/239.254.201.154:7207$河北电信
 CCTV7,http://tv.sd.cn/sichuan?id=239.93.1.67:5140$四川电信
-CCTV7,http://mail.petzhu.top:7000/rtp/239.254.200.159:6000$河北电信
 CCTV8,http://tv.sd.cn/sichuan?id=239.93.42.39:5140$四川电信
-CCTV8,http://mail.petzhu.top:7000/rtp/239.254.201.155:7208$河北电信
 CCTV9,http://tv.sd.cn/sichuan?id=239.93.1.24:5140$四川电信
-CCTV9,http://mail.petzhu.top:7000/rtp/239.254.200.59:8112$河北电信
 CCTV10,http://tv.sd.cn/sichuan?id=239.93.1.28:5140$四川电信
-CCTV10,http://mail.petzhu.top:7000/rtp/239.254.200.160:6000$河北电信
-CCTV10,http://112.44.6.47:4022/udp/239.11.0.112:5140$四川移动
 CCTV11,http://tv.sd.cn/sichuan?id=239.93.0.102:5140$四川电信
-CCTV11,http://mail.petzhu.top:7000/rtp/239.254.201.123:8120$河北电信
 CCTV12,http://tv.sd.cn/sichuan?id=239.93.1.30:8124$四川电信
-CCTV12,http://mail.petzhu.top:7000/rtp/239.254.200.161:6000$河北电信
-CCTV12,http://112.44.6.47:4022/udp/239.11.0.113:5140$四川移动
 CCTV13,http://tv.sd.cn/sichuan?id=239.93.0.66:5140$四川电信
-CCTV13,http://mail.petzhu.top:7000/rtp/239.254.200.9:8264$河北电信
 CCTV14,http://tv.sd.cn/sichuan?id=239.93.1.29:6000$四川电信
-CCTV14,http://mail.petzhu.top:7000/rtp/239.254.200.162:6000$河北电信
 CCTV15,http://tv.sd.cn/sichuan?id=239.93.0.103:5140$四川电信
-CCTV15,http://mail.petzhu.top:7000/rtp/239.254.201.124:8136$河北电信
-CCTV15,http://112.44.6.47:4022/udp/239.11.0.26:5140$四川移动
-CCTV16,http://mail.petzhu.top:7000/rtp/239.254.201.150:6345$河北电信
 CCTV17,http://tv.sd.cn/sichuan?id=239.93.0.92:5140$四川电信
-CCTV17,http://mail.petzhu.top:7000/rtp/239.254.201.120:8144$河北电信
 CCTV5,http://tv.sd.cn/sichuan?id=239.93.1.36:8004$四川电信
-CCTV5,http://mail.petzhu.top:7000/rtp/239.254.200.46:8004$河北电信
 北京卫视,http://tv.sd.cn/sichuan?id=239.93.0.180:5140$四川电信
-北京卫视,http://mail.petzhu.top:7000/rtp/239.254.200.47:8024$河北电信
-北京卫视,http://112.44.6.47:4022/udp/239.11.0.121:5140$四川移动
 天津卫视,http://tv.sd.cn/sichuan?id=239.93.0.167:5140$四川电信
-天津卫视,http://mail.petzhu.top:7000/rtp/239.254.200.54:1234$河北电信
 浙江卫视,http://tv.sd.cn/sichuan?id=239.93.0.124:5140$四川电信
-浙江卫视,http://mail.petzhu.top:7000/rtp/239.254.200.53:8036$河北电信
 湖南卫视,http://tv.sd.cn/sichuan?id=239.93.0.88:5140$四川电信
-湖南卫视,http://mail.petzhu.top:7000/rtp/239.254.200.48:8012$河北电信
 江苏卫视,http://tv.sd.cn/sichuan?id=239.93.0.89:5140$四川电信
-江苏卫视,http://mail.petzhu.top:7000/rtp/239.254.200.51:8028$河北电信
 东方卫视,http://tv.sd.cn/sichuan?id=239.93.0.123:5140$四川电信
-东方卫视,http://mail.petzhu.top:7000/rtp/239.254.200.52:8032$河北电信
 山西卫视,http://tv.sd.cn/sichuan?id=239.93.0.6:5140$四川电信
-山西卫视,http://mail.petzhu.top:7000/rtp/239.254.200.83:8172$河北电信
 河北卫视,http://tv.sd.cn/sichuan?id=239.93.0.132:5140$四川电信
-河北卫视,http://mail.petzhu.top:7000/rtp/239.254.200.174:6000$河北电信
 山东卫视,http://tv.sd.cn/sichuan?id=239.93.0.168:5140$四川电信
-山东卫视,http://mail.petzhu.top:7000/rtp/239.254.200.55:8052$河北电信
 安徽卫视,http://tv.sd.cn/sichuan?id=239.93.1.106:5140$四川电信
-安徽卫视,http://mail.petzhu.top:7000/rtp/239.254.200.163:6000$河北电信
 河南卫视,http://tv.sd.cn/sichuan?id=239.93.42.45:5140$四川电信
-河南卫视,http://mail.petzhu.top:7000/rtp/239.254.201.16:7174$河北电信
-河南卫视,http://112.44.6.47:4022/udp/239.11.0.44:5140$四川移动
 湖北卫视,http://tv.sd.cn/sichuan?id=239.93.0.250:5140$四川电信
-湖北卫视,http://mail.petzhu.top:7000/rtp/239.254.200.164:6000$河北电信
-湖北卫视,http://112.44.6.47:4022/udp/239.11.0.74:5140$四川移动
 江西卫视,http://tv.sd.cn/sichuan?id=239.93.0.134:5140$四川电信
-江西卫视,http://mail.petzhu.top:7000/rtp/239.254.201.12:6290$河北电信
-江西卫视,http://112.44.6.47:4022/udp/239.11.0.42:5140$四川移动
 东南卫视,http://tv.sd.cn/sichuan?id=239.93.0.42:5140$四川电信
-东南卫视,http://mail.petzhu.top:7000/rtp/239.254.201.13:6291$河北电信
 广东卫视,http://tv.sd.cn/sichuan?id=239.93.0.181:5140$四川电信
-广东卫视,http://mail.petzhu.top:7000/rtp/239.254.200.56:8048$河北电信
-广东卫视,http://112.44.6.47:4022/udp/239.11.0.115:5140$四川移动
 深圳卫视,http://tv.sd.cn/sichuan?id=239.93.0.182:5140$四川电信
-深圳卫视,http://mail.petzhu.top:7000/rtp/239.254.200.50:8020$河北电信
 海南卫视,http://tv.sd.cn/sichuan?id=239.93.0.80:5140$四川电信
-海南卫视,http://mail.petzhu.top:7000/rtp/239.254.201.125:6288$河北电信
 广西卫视,http://tv.sd.cn/sichuan?id=239.93.42.46:5140$四川电信
-广西卫视,http://mail.petzhu.top:7000/rtp/239.254.200.80:8300$河北电信
 云南卫视,http://tv.sd.cn/sichuan?id=239.93.1.174:5140$四川电信
-云南卫视,http://mail.petzhu.top:7000/rtp/239.254.200.68:8108$河北电信
 贵州卫视,http://tv.sd.cn/sichuan?id=239.93.0.131:5140$四川电信
-贵州卫视,http://mail.petzhu.top:7000/rtp/239.254.201.20:6315$河北电信
-贵州卫视,http://112.44.6.47:4022/udp/239.11.0.51:5140$四川移动
 重庆卫视,http://tv.sd.cn/sichuan?id=239.93.1.107:5140$四川电信
-重庆卫视,http://mail.petzhu.top:7000/rtp/239.254.200.203:6323$河北电信
-重庆卫视,http://112.44.6.47:4022/udp/239.11.0.116:5140$四川移动
 四川卫视,http://tv.sd.cn/sichuan?id=239.93.0.20:1235$四川电信
-四川卫视,http://mail.petzhu.top:7000/rtp/239.254.200.202:6325$河北电信
 陕西卫视,http://tv.sd.cn/sichuan?id=239.93.0.176:5140$四川电信
-陕西卫视,http://mail.petzhu.top:7000/rtp/239.254.200.82:8140$河北电信
 宁夏卫视,http://tv.sd.cn/sichuan?id=239.93.0.247:5140$四川电信
-宁夏卫视,http://mail.petzhu.top:7000/rtp/239.254.200.87:8124$河北电信
-宁夏卫视,http://112.44.6.47:4022/udp/239.11.0.57:5140$四川移动
 甘肃卫视,http://tv.sd.cn/sichuan?id=239.93.0.81:5140$四川电信
-甘肃卫视,http://mail.petzhu.top:7000/rtp/239.254.200.90:8188$河北电信
 青海卫视,http://tv.sd.cn/sichuan?id=239.93.0.192:5140$四川电信
-青海卫视,http://mail.petzhu.top:7000/rtp/239.254.200.85:8184$河北电信
 西藏卫视,http://tv.sd.cn/sichuan?id=239.93.0.175:5140$四川电信
-西藏卫视,http://mail.petzhu.top:7000/rtp/239.254.200.88:8164$河北电信
 新疆卫视,http://tv.sd.cn/sichuan?id=239.93.0.194:5140$四川电信
-新疆卫视,http://mail.petzhu.top:7000/rtp/239.254.200.89:8160$河北电信
 兵团卫视,http://tv.sd.cn/sichuan?id=239.93.42.43:5140$四川电信
-兵团卫视,http://112.44.6.47:4022/udp/239.11.0.204:5140$四川移动
 吉林卫视,http://tv.sd.cn/sichuan?id=239.93.0.248:5140$四川电信
-吉林卫视,http://mail.petzhu.top:7000/rtp/239.254.201.15:6339$河北电信
-吉林卫视,http://112.44.6.47:4022/udp/239.11.0.35:5140$四川移动
 辽宁卫视,http://tv.sd.cn/sichuan?id=239.93.1.108:5140$四川电信
-辽宁卫视,http://mail.petzhu.top:7000/rtp/239.254.200.57:8056$河北电信
-辽宁卫视,http://112.44.6.47:4022/udp/239.11.0.118:5140$四川移动
 厦门卫视,http://tv.sd.cn/sichuan?id=239.93.42.57:5140$四川电信
 三沙卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 内蒙卫视,http://tv.sd.cn/sichuan?id=239.93.0.8:5140$四川电信
-内蒙卫视,http://mail.petzhu.top:7000/rtp/239.254.200.84:8176$河北电信
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://tv.sd.cn/sichuan?id=239.93.0.162:2192$四川电信
 凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-上海卫视,http://61.54.14.232:9801/tsfile/live/1021_1.m3u8
-CETV1,http://61.54.14.232:9801/tsfile/live/1044_1.m3u8
-经典电影,http://61.54.14.232:9801/tsfile/live/1048_1.m3u8
 欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-星光台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 1989成都小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 睛彩中原,http://wan.wlzsyw.cn:885/hls/26/index.m3u8
 移动戏曲,http://wan.wlzsyw.cn:885/hls/27/index.m3u8
 收藏天下,http://wan.wlzsyw.cn:885/hls/28/index.m3u8
 中华功夫,http://wan.wlzsyw.cn:885/hls/30/index.m3u8
 调解剧场,http://wan.wlzsyw.cn:885/hls/33/index.m3u8
-无线娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 大爱二,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 4K南国都市台,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-4K爱上高清台,http://www.8700956.top:18888/rtp/239.81.0.123:4056?Cf=cfss.cc
 4K爱上高清台,http://www.furymax.top:85/rtp/239.69.1.141:10482?Cf=cfss.cc
 4K放大镜全网,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 4K美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 黑龙江台,http://tv.sd.cn/sichuan?id=239.93.0.183:5140$四川电信
-黑龙江台,http://mail.petzhu.top:7000/rtp/239.254.200.49:8016$河北电信
 凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.0.118:2191$四川电信
 凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191$四川电信
-凤凰资讯,http://mail.petzhu.top:7000/rtp/239.254.201.3:5227$河北电信
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://171.223.215.229:4000/udp/239.93.1.4:2191
 香港台,http://[2409:8087:2001:20:2800:0:df6e:eb22]/PLTV/1/224/3221231041/index.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-CCTV1,http://61.54.14.232:9801/tsfile/live/1001_1.m3u8
-CCTV2,http://61.54.14.232:9801/tsfile/live/1002_1.m3u8
-CCTV3,http://61.54.14.232:9801/tsfile/live/1003_1.m3u8
-CCTV4,http://61.54.14.232:9801/tsfile/live/1004_1.m3u8
-CCTV5,http://61.54.14.232:9801/tsfile/live/1005_1.m3u8
-CCTV6,http://61.54.14.232:9801/tsfile/live/1006_1.m3u8
-CCTV7,http://61.54.14.232:9801/tsfile/live/1007_1.m3u8
-CCTV8,http://61.54.14.232:9801/tsfile/live/1008_1.m3u8
-CCTV9,http://61.54.14.232:9801/tsfile/live/1009_1.m3u8
-CCTV10,http://61.54.14.232:9801/tsfile/live/1010_1.m3u8
-CCTV11,http://61.54.14.232:9801/tsfile/live/1011_1.m3u8
-CCTV12,http://61.54.14.232:9801/tsfile/live/1012_1.m3u8
-CCTV13,http://61.54.14.232:9801/tsfile/live/1013_1.m3u8
-CCTV14,http://61.54.14.232:9801/tsfile/live/1014_1.m3u8
-CCTV15,http://61.54.14.232:9801/tsfile/live/1015_1.m3u8
-河南卫视,http://61.54.14.232:9801/tsfile/live/1016_1.m3u8
-湖南卫视,http://61.54.14.232:9801/tsfile/live/1017_1.m3u8
-江苏卫视,http://61.54.14.232:9801/tsfile/live/1018_1.m3u8
-浙江卫视,http://61.54.14.232:9801/tsfile/live/1019_1.m3u8
-北京卫视,http://61.54.14.232:9801/tsfile/live/1020_1.m3u8
-天津卫视,http://61.54.14.232:9801/tsfile/live/1022_1.m3u8
-山东卫视,http://61.54.14.232:9801/tsfile/live/1023_1.m3u8
-安徽卫视,http://61.54.14.232:9801/tsfile/live/1024_1.m3u8
-深圳卫视,http://61.54.14.232:9801/tsfile/live/1025_1.m3u8
-江西卫视,http://61.54.14.232:9801/tsfile/live/1026_1.m3u8
-湖北卫视,http://61.54.14.232:9801/tsfile/live/1027_1.m3u8
-四川卫视,http://61.54.14.232:9801/tsfile/live/1028_1.m3u8
-云南卫视,http://61.54.14.232:9801/tsfile/live/1029_1.m3u8
-贵州卫视,http://61.54.14.232:9801/tsfile/live/1030_1.m3u8
-辽宁卫视,http://61.54.14.232:9801/tsfile/live/1031_1.m3u8
-东南卫视,http://61.54.14.232:9801/tsfile/live/1032_1.m3u8
-重庆卫视,http://61.54.14.232:9801/tsfile/live/1033_1.m3u8
-广东卫视,http://61.54.14.232:9801/tsfile/live/1034_1.m3u8
-广西卫视,http://61.54.14.232:9801/tsfile/live/1035_1.m3u8
-河北卫视,http://61.54.14.232:9801/tsfile/live/1036_1.m3u8
-吉林卫视,http://61.54.14.232:9801/tsfile/live/1037_1.m3u8
-山西卫视,http://61.54.14.232:9801/tsfile/live/1038_1.m3u8
-陕西卫视,http://61.54.14.232:9801/tsfile/live/1039_1.m3u8
-甘肃卫视,http://61.54.14.232:9801/tsfile/live/1040_1.m3u8
-宁夏卫视,http://61.54.14.232:9801/tsfile/live/1041_1.m3u8
-青海卫视,http://61.54.14.232:9801/tsfile/live/1042_1.m3u8
-内蒙古卫视,http://61.54.14.232:9801/tsfile/live/1043_1.m3u8
-新疆卫视,http://61.54.14.232:9801/tsfile/live/1045_1.m3u8
-厦门卫视,http://61.54.14.232:9801/tsfile/live/1046_1.m3u8
-兵团卫视,http://61.54.14.232:9801/tsfile/live/1047_1.m3u8
 卡酷动画,http://mtkd.com.cn:10080/hls/50/index.m3u8
 金鹰卡通,http://mtkd.com.cn:10080/hls/51/index.m3u8
 湖南卫视,http://mtkd.com.cn:10080/hls/60/index.m3u8
@@ -2224,28 +2093,9 @@ CGTN Espa?ol,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 厦门卫视,http://124.128.73.58:9901/tsfile/live/0129_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-CCTV1,http://opdf.top:8088/rtp/239.81.0.102:4056
-CCTV2,http://opdf.top:8088/rtp/239.81.0.115:4056
-CCTV3,http://opdf.top:8088/rtp/239.81.0.231:4056
-CCTV4,http://opdf.top:8088/rtp/239.81.0.96:4056
-CCTV5,http://opdf.top:8088/rtp/239.81.0.232:4056
-CCTV6,http://opdf.top:8088/rtp/239.81.0.233:4056
-CCTV7,http://opdf.top:8088/rtp/239.81.0.116:4056
-CCTV8,http://opdf.top:8088/rtp/239.81.0.234:4056
-CCTV9,http://opdf.top:8088/rtp/239.81.0.117:4056
-CCTV10,http://opdf.top:8088/rtp/239.81.0.118:4056
-CCTV11,http://opdf.top:8088/rtp/239.81.0.229:4056
-CCTV12,http://opdf.top:8088/rtp/239.81.0.119:4056
-CCTV13,http://opdf.top:8088/rtp/239.81.0.206:4056
-CCTV14,http://opdf.top:8088/rtp/239.81.0.120:4056
-CCTV15,http://opdf.top:8088/rtp/239.81.0.230:4056
-CCTV5,http://opdf.top:8088/rtp/239.81.0.101:4056
-CCTV16,http://opdf.top:8088/rtp/239.81.0.142:4056
-CCTV17,http://opdf.top:8088/rtp/239.81.0.228:4056
 瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
 怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
 小黛兮影㊣版,http://159.75.85.63:35455/douyu/11553944
-8K北京纪实台,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
 春晚,#genre#
@@ -2277,6 +2127,8 @@ CCTV17,http://opdf.top:8088/rtp/239.81.0.228:4056
 春晚2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
 春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 电台,#genre#
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 楚天音乐广播 FM105.8 (Opt-1)[0*,http://ls.qingting.fm/live/1289.m3u8
@@ -2404,50 +2256,14 @@ CCTV17,http://opdf.top:8088/rtp/239.81.0.228:4056
 龙广交通广播 FM99.8[0*0],http://ls.qingting.fm/live/4973.m3u8
 龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
 龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
-
-
-
 🐉备用央视频道,#genre#
 CCTV1,http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
-CCTV1,http://120.87.97.246:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVJJZNDYjNTYW0xrj2atp5krmovGfhet3wgtKVBhIbxM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141158688&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e96acf29ccb8a&FvSeid=88fe5578aee15bbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4298&Fsv_chan_hls_se_idx=60&Fsv_TBt=8468056&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
-CCTV2,http://221.4.143.69:8114/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141587490&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9a069bf67e38&FvSeid=88fe5578aee2f1ef&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9874&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466752&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-2-CQ&Fsv_CMSID=GD_CUCC
-CCTV3,http://221.4.143.70:8114/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141713143&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9b01de7422d3&FvSeid=88fe5578aee4ebd2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9873&Fsv_chan_hls_se_idx=59&Fsv_TBt=8465136&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-3-CQ&Fsv_CMSID=GD_CUCC
-CCTV4,http://58.248.112.229:8114/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141890962&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9c65870a689b&FvSeid=88fe5578aeeccb46&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18136&Fsv_chan_hls_se_idx=59&Fsv_TBt=8467576&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-4-CQ&Fsv_CMSID=GD_CUCC
 CCTV5,http://58.248.112.230:8114/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141993662&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9d32fa20cc6a&FvSeid=88fe5578aeee6593&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18135&Fsv_chan_hls_se_idx=58&Fsv_TBt=8468304&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5-CQ&Fsv_CMSID=GD_CUCC
 CCTV6,http://58.248.112.230:8114/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142154017&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9e73ad37b261&FvSeid=88fe5578aef0e784&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18133&Fsv_chan_hls_se_idx=57&Fsv_TBt=8464824&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-6-CQ&Fsv_CMSID=GD_CUCC
-CCTV7,http://120.87.97.245:8114/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142251011&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9f359e8a15a7&FvSeid=88fe5578aef26916&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4291&Fsv_chan_hls_se_idx=57&Fsv_TBt=8467648&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-7-CQ&Fsv_CMSID=GD_CUCC
 CCTV8,http://58.248.112.230:8114/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142312998&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9fb1a10697de&FvSeid=88fe5578aef360be&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18131&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466856&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-8-CQ&Fsv_CMSID=GD_CUCC
-CCTV9,http://221.4.143.69:8114/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142362100&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea013cefbd9a1&FvSeid=88fe5578aeef086a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9866&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466328&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-9-CQ&Fsv_CMSID=GD_CUCC
-CCTV10,http://120.87.97.246:8114/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
-CCTV11,http://58.248.112.229:8114/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142503836&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea12f4d9ddde5&FvSeid=88fe5578aef65e1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18128&Fsv_chan_hls_se_idx=55&Fsv_TBt=4356104&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-11-CQ&Fsv_CMSID=GD_CUCC
-CCTV12,http://58.248.112.230:8114/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRtFGgShYCQQqFHAFhzmleoLMq0KIThiOUWH4ztNrd0k&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142580867&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea1c95f2a805f&FvSeid=88fe5578aef792b7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18127&Fsv_chan_hls_se_idx=54&Fsv_TBt=8466896&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-12-CQ&Fsv_CMSID=GD_CUCC
-CCTV13,http://58.248.112.229:8114/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142684111&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea297dbe86391&FvSeid=88fe5578aef92c0e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18126&Fsv_chan_hls_se_idx=54&Fsv_TBt=8467928&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-13-CQ&Fsv_CMSID=GD_CUCC
-CCTV14,http://120.87.97.246:8114/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142761082&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea331cc7525f8&FvSeid=88fe5578aefa65da&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4284&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467848&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-14-CQ&Fsv_CMSID=GD_CUCC
 CCTV15,http://27.40.16.69:8114/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142830484&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea3bca60188e9&FvSeid=88fe5578aefb7ba7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4261&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-15-CQ&Fsv_CMSID=GD_CUCC
-CCTV16,http://221.4.143.70:8114/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142879377&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea41e722a0a58&FvSeid=88fe5578aef71f1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9859&Fsv_chan_hls_se_idx=52&Fsv_TBt=8468280&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-16-CQ&Fsv_CMSID=GD_CUCC
-CCTV17,http://58.248.112.229:8114/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142953661&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea4b3041d0be6&FvSeid=88fe5578aefd65ce&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18122&Fsv_chan_hls_se_idx=52&Fsv_TBt=8466808&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-17-CQ&Fsv_CMSID=GD_CUCC
-CCTV5,http://58.248.112.229:8114/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142067736&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9dc7161f6f45&FvSeid=88fe5578aeef8e53&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18140&Fsv_chan_hls_se_idx=58&Fsv_TBt=8466448&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5PLUS-CQ&Fsv_CMSID=GD_CUCC
-CCTV1,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
-CCTV2,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
-CCTV3,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
-CCTV4,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
-CCTV5,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
-CCTV5,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
 CCTV6,http://103.1.169.56/sx.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
-CCTV7,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
-CCTV8,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
-CCTV9,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
-CCTV10,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573001.m3u8
-CCTV11,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
-CCTV12,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-CCTV13,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-CCTV14,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
-CCTV15,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
-CCTV16,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
-CCTV16,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
-CCTV17,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
-CCTV4,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 CCTV8,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV1,http://annaxi.lw-home.com:11111/udp/239.253.254.77:8000
 CCTV2,http://annaxi.lw-home.com:11111/udp/239.253.254.232:8000
@@ -2502,41 +2318,6 @@ CCTV14,http://124.205.11.246:91/live/CCTV14hd-8M/live.m3u8
 CCTV15,http://124.205.11.246:91/live/CCTV15hd-8M/live.m3u8
 CCTV16,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV17,http://124.205.11.246:91/live/CCTV17hd-8M/live.m3u8
-CCTV1,http://110.179.80.171:8082/udp/239.1.1.7:8007
-CCTV2,http://110.179.80.171:8082/udp/239.1.1.8:8008
-CCTV3,http://110.179.80.171:8082/udp/239.1.1.9:8009
-CCTV4,http://110.179.80.171:8082/udp/239.1.1.10:8010
-CCTV5,http://110.179.80.171:8082/udp/239.1.1.11:8011
-CCTV5,http://110.179.80.171:8082/udp/239.1.1.12:8012
-CCTV6,http://110.179.80.171:8082/udp/239.1.1.13:8013
-CCTV7,http://110.179.80.171:8082/udp/239.1.1.14:8014
-CCTV8,http://110.179.80.171:8082/udp/239.1.1.15:8015
-CCTV9,http://110.179.80.171:8082/udp/239.1.1.16:8016
-CCTV10,http://110.179.80.171:8082/udp/239.1.1.17:8017
-CCTV11,http://110.179.80.171:8082/udp/239.1.1.18:8018
-CCTV12,http://110.179.80.171:8082/udp/239.1.1.19:8019
-CCTV13,http://110.179.80.171:8082/udp/239.1.1.20:8020
-CCTV14,http://110.179.80.171:8082/udp/239.1.1.21:8021
-CCTV15,http://110.179.80.171:8082/udp/239.1.1.22:8022
-CCTV16,http://110.179.80.171:8082/udp/239.1.1.122:8122
-CCTV17,http://110.179.80.171:8082/udp/239.1.1.23:8023
-CCTV1,http://60.4.9.246:8888/udp/239.254.200.45:8008
-CCTV2,http://60.4.9.246:8888/udp/239.254.200.158:6000
-CCTV3,http://60.4.9.246:8888/udp/239.254.201.152:7205
-CCTV4,http://60.4.9.246:8888/udp/239.254.200.190:6307
-CCTV5,http://60.4.9.246:8888/udp/239.254.201.153:7206
-CCTV6,http://60.4.9.246:8888/udp/239.254.201.154:7207
-CCTV7,http://60.4.9.246:8888/udp/239.254.200.159:6000
-CCTV8,http://60.4.9.246:8888/udp/239.254.201.155:7208
-CCTV9,http://60.4.9.246:8888/udp/239.254.200.59:8112
-CCTV10,http://60.4.9.246:8888/udp/239.254.200.160:6000
-CCTV11,http://60.4.9.246:8888/udp/239.254.201.123:8120
-CCTV12,http://60.4.9.246:8888/udp/239.254.200.161:6000
-CCTV13,http://60.4.9.246:8888/udp/239.254.200.9:8264
-CCTV14,http://60.4.9.246:8888/udp/239.254.200.162:6000
-CCTV15,http://60.4.9.246:8888/udp/239.254.201.124:8136
-CCTV17,http://60.4.9.246:8888/udp/239.254.201.120:8144
-CCTV5,http://60.4.9.246:8888/udp/239.254.200.46:8004
 CCTV1,http://39.135.133.177:80/wh7f454c46tw1338203950-2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://39.135.133.177:80/wh7f454c46tw1338203950-2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?
 CCTV3,http://39.135.133.180:80/wh7f454c46tw3059626507-1115377051/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -2558,15 +2339,6 @@ CCTV5,http://39.135.133.160:80/wh7f454c46tw815825316-1869660779/ottrrs.hl.chinam
 CCTV4,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4,http://159.75.85.63:5679/cctv4k.php
 CCTV4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
-CCTV1,http://23.237.196.98:680/live/CCTV1HD/hls.m3u8
-CCTV2,http://23.237.196.98:680/live/CCTV2HD/hls.m3u8
-CCTV5,http://23.237.196.98:680/live/CCTV5HD/hls.m3u8
-CCTV5,http://23.237.196.98:680/live/CCTV5PHD/hls.m3u8
-CCTV6,http://23.237.196.98:680/live/CCTV6HD/hls.m3u8
-CCTV8,http://23.237.196.98:680/live/CCTV8HD/hls.m3u8
-CCTV9,http://23.237.196.98:680/live/CCTV9HD/hls.m3u8
-CCTV13,http://23.237.196.98:680/live/CCTV13HD/hls.m3u8
-CCTV16,http://23.237.196.98:680/live/CCTV16HD/hls.m3u8
 CCTV1,http://122.138.218.254:50085/hls/1/index.m3u8
 CCTV2,http://122.138.218.254:50085/hls/2/index.m3u8
 CCTV3,http://122.138.218.254:50085/hls/3/index.m3u8
@@ -2584,23 +2356,6 @@ CCTV14,http://122.138.218.254:50085/hls/14/index.m3u8
 CCTV15,http://122.138.218.254:50085/hls/15/index.m3u8
 CCTV16,http://122.138.218.254:50085/hls/16/index.m3u8
 CCTV17,http://122.138.218.254:50085/hls/17/index.m3u8
-CCTV1,http://222.223.118.222:2180/live/cctv1/index.m3u8
-CCTV2,http://222.223.118.222:2180/live/cctv2/index.m3u8
-CCTV3,http://222.223.118.222:2180/live/cctv3/index.m3u8
-CCTV4,http://222.223.118.222:2180/live/cctv4/index.m3u8
-CCTV5,http://222.223.118.222:2180/live/cctv5/index.m3u8
-CCTV5,http://222.223.118.222:2180/live/cctv5q/index.m3u8
-CCTV6,http://222.223.118.222:2180/live/cctv6/index.m3u8
-CCTV7,http://222.223.118.222:2180/live/cctv7/index.m3u8
-CCTV8,http://222.223.118.222:2180/live/cctv8/index.m3u8
-CCTV9,http://222.223.118.222:2180/live/cctv9/index.m3u8
-CCTV10,http://222.223.118.222:2180/live/cctv10/index.m3u8
-CCTV11,http://222.223.118.222:2180/live/cctv11/index.m3u8
-CCTV12,http://222.223.118.222:2180/live/cctv12/index.m3u8
-CCTV13,http://222.223.118.222:2180/live/cctv13/index.m3u8
-CCTV14,http://222.223.118.222:2180/live/cctv14/index.m3u8
-CCTV15,http://222.223.118.222:2180/live/cctv15/index.m3u8
-CCTV17,http://222.223.118.222:2180/live/cctv17/index.m3u8
 CCTV1,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://fangke.blueswords.com:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2617,56 +2372,8 @@ CCTV12,http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8?key=txiptv&play
 CCTV13,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://fangke.blueswords.com:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://111.11.98.205:9900/hls/1/index.m3u8
-CCTV2,http://111.11.98.205:9900/hls/2/index.m3u8
-CCTV3,http://111.11.98.205:9900/hls/3/index.m3u8
-CCTV4,http://111.11.98.205:9900/hls/4/index.m3u8
-CCTV5,http://111.11.98.205:9900/hls/5/index.m3u8
-CCTV6,http://111.11.98.205:9900/hls/6/index.m3u8
-CCTV7,http://111.11.98.205:9900/hls/7/index.m3u8
-CCTV8,http://111.11.98.205:9900/hls/8/index.m3u8
-CCTV9,http://111.11.98.205:9900/hls/9/index.m3u8
-CCTV10,http://111.11.98.205:9900/hls/10/index.m3u8
-CCTV11,http://111.11.98.205:9900/hls/11/index.m3u8
-CCTV12,http://111.11.98.205:9900/hls/12/index.m3u8
-CCTV13,http://111.11.98.205:9900/hls/13/index.m3u8
-CCTV14,http://111.11.98.205:9900/hls/14/index.m3u8
-CCTV15,http://111.11.98.205:9900/hls/15/index.m3u8
-CCTV5,http://111.11.98.205:9900/hls/17/index.m3u8
-CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctv
-CCTV1,http://dsm.imcl.vip:8888/udp/239.49.8.19:9614
-CCTV2,http://dsm.imcl.vip:8888/udp/239.49.8.50:9802
-CCTV4,http://dsm.imcl.vip:8888/udp/239.49.8.51:9806
-CCTV7,http://dsm.imcl.vip:8888/udp/239.49.0.126:8000
-CCTV10,http://dsm.imcl.vip:8888/udp/239.49.8.54:9818
-CCTV11,http://dsm.imcl.vip:8888/udp/239.49.0.127:8000
-CCTV12,http://dsm.imcl.vip:8888/udp/239.49.8.55:9822
-CCTV13,http://dsm.imcl.vip:8888/udp/239.49.8.109:8000
-CCTV14,http://dsm.imcl.vip:8888/udp/239.49.8.56:9826
-CCTV15,http://dsm.imcl.vip:8888/udp/239.49.0.128:8000
-CCTV16,http://dsm.imcl.vip:8888/udp/239.49.8.31:8000
-CCTV17,http://dsm.imcl.vip:8888/udp/239.49.8.52:9810
-CCTV5,http://dsm.imcl.vip:8888/udp/239.49.8.18:9610
-CCTV1,http://115.171.80.59:8888/udp/225.1.8.1:8008
-CCTV2,http://115.171.80.59:8888/udp/225.1.8.2:8084
-CCTV3,http://115.171.80.59:8888/udp/225.1.8.88:8000
-CCTV4,http://115.171.80.59:8888/udp/225.1.8.4:8092
-CCTV5,http://115.171.80.59:8888/udp/225.1.8.89:8000
-CCTV5,http://115.171.80.59:8888/udp/225.1.8.20:8004
-CCTV6,http://115.171.80.59:8888/udp/225.1.8.84:8000
-CCTV7,http://115.171.80.59:8888/udp/225.1.8.7:8104
-CCTV8,http://115.171.80.59:8888/udp/225.1.8.85:8000
-CCTV9,http://115.171.80.59:8888/udp/225.1.8.9:8112
-CCTV10,http://115.171.80.59:8888/udp/225.1.8.10:8116
-CCTV11,http://115.171.80.59:8888/udp/225.1.8.73:8120
-CCTV12,http://115.171.80.59:8888/udp/225.1.8.12:8124
-CCTV13,http://115.171.80.59:8888/udp/225.1.8.168:8130
-CCTV14,http://115.171.80.59:8888/udp/225.1.8.14:8132
-CCTV15,http://115.171.80.59:8888/udp/225.1.8.74:8136
-CCTV17,http://115.171.80.59:8888/udp/225.1.8.17:8144
 CCTV1,http://suntao.asia:18888/udp/239.21.1.120:5002
 CCTV2,http://suntao.asia:18888/udp/239.21.1.151:5002
 CCTV3,http://suntao.asia:18888/udp/239.21.2.45:5002
@@ -2743,23 +2450,6 @@ CCTV15,http://itms.xznet.org:41097/rtp/239.254.201.124:8136
 CCTV16,http://itms.xznet.org:41097/rtp/239.254.201.150:6345
 CCTV17,http://itms.xznet.org:41097/rtp/239.254.201.120:8144
 CCTV5,http://itms.xznet.org:41097/rtp/239.254.200.46:8004
-CCTV1,http://wh.bh3bbb.com:40000/rtp/239.253.230.77:8000$山东威海 联通
-CCTV2,http://wh.bh3bbb.com:40000/rtp/239.253.230.234:8000$山东威海 联通
-CCTV3,http://wh.bh3bbb.com:40000/rtp/239.253.230.4:8000$山东威海 联通
-CCTV4,http://wh.bh3bbb.com:40000/rtp/239.253.230.111:8000$山东威海 联通
-CCTV5,http://wh.bh3bbb.com:40000/rtp/239.253.230.6:8000$山东威海 联通
-CCTV5,http://wh.bh3bbb.com:40000/rtp/239.253.230.80:8000$山东威海 联通
-CCTV6,http://wh.bh3bbb.com:40000/rtp/239.253.230.7:8000$山东威海 联通
-CCTV7,http://wh.bh3bbb.com:40000/rtp/239.253.230.235:8000$山东威海 联通
-CCTV8,http://wh.bh3bbb.com:40000/rtp/239.253.230.9:8000$山东威海 联通
-CCTV9,http://wh.bh3bbb.com:40000/rtp/239.253.230.79:8000$山东威海 联通
-CCTV10,http://wh.bh3bbb.com:40000/rtp/239.253.230.236:8000$山东威海 联通
-CCTV11,http://wh.bh3bbb.com:40000/rtp/239.253.230.12:8000$山东威海 联通
-CCTV12,http://wh.bh3bbb.com:40000/rtp/239.253.230.237:8000$山东威海 联通
-CCTV13,http://wh.bh3bbb.com:40000/rtp/239.253.230.14:8000$山东威海 联通
-CCTV14,http://wh.bh3bbb.com:40000/rtp/239.253.230.238:8000$山东威海 联通
-CCTV15,http://wh.bh3bbb.com:40000/rtp/239.253.230.16:8000$山东威海 联通
-CCTV17,http://wh.bh3bbb.com:40000/rtp/239.253.230.168:8000$山东威海 联通
 CCTV1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 CCTV2,http://218.241.192.50:8808/rtp/239.3.1.60:8084
 CCTV3,http://218.241.192.50:8808/rtp/239.3.1.172:8001
@@ -2796,71 +2486,7 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV1,http://ygbh.live/migu.php?id=cctv1
-CCTV2,http://ygbh.live/migu.php?id=cctv2
-CCTV3,http://ygbh.live/migu.php?id=cctv3
-CCTV4,http://ygbh.live/migu.php?id=cctv4
-CCTV6,http://ygbh.live/migu.php?id=cctv6
-CCTV7,http://ygbh.live/migu.php?id=cctv7
-CCTV8,http://ygbh.live/migu.php?id=cctv8
-CCTV9,http://ygbh.live/migu.php?id=cctv9
-CCTV10,http://ygbh.live/migu.php?id=cctv10
-CCTV12,http://ygbh.live/migu.php?id=cctv12
-CCTV13,http://ygbh.live/migu.php?id=cctv13
-CCTV14,http://ygbh.live/migu.php?id=cctv14
-CCTV15,http://ygbh.live/migu.php?id=cctv15
-CCTV17,http://ygbh.live/migu.php?id=cctv17
-CCTV1,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
-CCTV2,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/1300.m3u8
-CCTV3,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/1300.m3u8
-CCTV4,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
-CCTV5,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
-CCTV5,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
-CCTV6,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8
-CCTV7,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
-CCTV8,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel8/1300.m3u8
-CCTV9,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
-CCTV10,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/1300.m3u8
-CCTV11,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/1300.m3u8
-CCTV12,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
-CCTV13,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/1300.m3u8
-CCTV14,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
-CCTV15,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
-CCTV17,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/1300.m3u8
-CCTV兵器科技,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV第一剧场,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-CCTV怀旧剧场,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV风云剧场,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV风云音乐,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 CCTV风云足球,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV电视指南,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV女性时尚,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV文化精品,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV世界地理,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV高尔夫网球,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV央视台球,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV卫生健康,http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CCTV第一剧场,http://60.4.9.246:8888/udp/239.254.201.218:7258
-CCTV风云剧场,http://60.4.9.246:8888/udp/239.254.201.219:7257
-CCTV怀旧剧场,http://60.4.9.246:8888/udp/239.254.201.220:7256
-CCTV风云音乐,http://60.4.9.246:8888/udp/239.254.201.221:7259
-CCTV风云足球,http://60.4.9.246:8888/udp/239.254.201.222:7251
-CCTV高尔夫网球,http://60.4.9.246:8888/udp/239.254.201.223:7252
-CCTV央视台球,http://60.4.9.246:8888/udp/239.254.201.171:7176
-CCTV兵器科技,http://60.4.9.246:8888/udp/239.254.201.225:7249
-CCTV世界地理,http://60.4.9.246:8888/udp/239.254.201.226:7254
-CCTV女性时尚,http://60.4.9.246:8888/udp/239.254.201.228:7255
-CCTV文化精品,http://60.4.9.246:8888/udp/239.254.201.229:7260
-CCTV早期教育,http://60.4.9.246:8888/udp/239.254.201.230:7253
-CCTV电视指南,http://60.4.9.246:8888/udp/239.254.201.217:7250
-CCTV兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
-CCTV第一剧场,http://222.223.118.222:2180/live/dyjc/index.m3u8
-CCTV风云音乐,http://222.223.118.222:2180/live/fyyy/index.m3u8
-CCTV风云剧场,http://222.223.118.222:2180/live/fyjc/index.m3u8
-CCTV怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
-CCTV女性时尚,http://222.223.118.222:2180/live/nxss/index.m3u8
-CCTV文化精品,http://222.223.118.222:2180/live/whjp/index.m3u8
-CCTV世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
 CCTV文化精品,http://lede.medahl.com:10098/udp/239.76.254.56:9000
 CCTV文化精品,http://lede.medahl.com:10098/udp/239.76.247.56:1234
 CCTV央视台球,http://lede.medahl.com:10098/udp/239.76.254.58:9000
@@ -2884,17 +2510,6 @@ CCTV电视指南,http://lede.medahl.com:10098/udp/239.76.247.61:1234
 CCTV第一剧场,http://lede.medahl.com:10098/udp/239.76.254.49:9000
 CCTV兵器科技,http://lede.medahl.com:10098/udp/239.76.254.59:9000
 CCTV兵器科技,http://lede.medahl.com:10098/udp/239.76.247.59:1234
-CCTV电视指南,http://dsm.imcl.vip:8888/udp/239.49.8.84:8000
-CCTV风云足球,http://dsm.imcl.vip:8888/udp/239.49.8.85:8000
-CCTV高尔夫网球,http://dsm.imcl.vip:8888/udp/239.49.8.86:8000
-CCTV世界地理,http://dsm.imcl.vip:8888/udp/239.49.8.87:8000
-CCTV兵器科技,http://dsm.imcl.vip:8888/udp/239.49.8.88:8000
-CCTV风云剧场,http://dsm.imcl.vip:8888/udp/239.49.8.89:8000
-CCTV央视精品,http://dsm.imcl.vip:8888/udp/239.49.8.90:8000
-CCTV怀旧剧场,http://dsm.imcl.vip:8888/udp/239.49.8.91:8000
-CCTV风云音乐,http://dsm.imcl.vip:8888/udp/239.49.8.92:8000
-CCTV女性时尚,http://dsm.imcl.vip:8888/udp/239.49.8.93:8000
-CCTV央视台球,http://dsm.imcl.vip:8888/udp/239.49.8.32:8000
 CCTV电视指南,http://ilove.f3322.org:8888/udp/239.49.8.84:8000
 CCTV风云足球,http://ilove.f3322.org:8888/udp/239.49.8.85:8000
 CCTV高尔夫网球,http://ilove.f3322.org:8888/udp/239.49.8.86:8000
@@ -2906,52 +2521,13 @@ CCTV怀旧剧场,http://ilove.f3322.org:8888/udp/239.49.8.91:8000
 CCTV风云音乐,http://ilove.f3322.org:8888/udp/239.49.8.92:8000
 CCTV女性时尚,http://ilove.f3322.org:8888/udp/239.49.8.93:8000
 CCTV央视台球,http://ilove.f3322.org:8888/udp/239.49.8.32:8000
-CETV1,http://120.87.97.245:8114/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBfBTjPwd8%2BrlHZirjuzwIZ3c%2FLcithSTKnjnOtChNvhn&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144702523&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb25cd44a30ef&FvSeid=88fe5578af18baa5&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3164&Fsv_chan_hls_se_idx=30&Fsv_TBt=4356296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-1-HQ&Fsv_CMSID=GD_CUCC
-CETV2,http://58.248.112.229:8114/GD_CUCC/G_CETV-2.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc3sw9AwrFjSEJqnW8KPGQ1YblxXjWGyWNYlV8Ke1XCi&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144765785&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb2db5ae8b1b5&FvSeid=88fe5578af19b634&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16982&Fsv_chan_hls_se_idx=31&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-2&Fsv_CMSID=GD_CUCC
-CETV3,http://120.87.97.245:8114/GD_CUCC/G_CETV-3.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdCgYq44OS2lGGP%2F2VZkWJKdWicrKJxf2lL%2Fth7XAZsl&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144818786&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb34558dff2a8&FvSeid=88fe5578af1a8bf0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3172&Fsv_chan_hls_se_idx=34&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-3&Fsv_CMSID=GD_CUCC
-CETV4,http://58.248.112.230:8114/GD_CUCC/G_CETV-4.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBcsynmDALf0bE3mWTCF%2BkOAfEgm2hiuMCAmcskI95wEM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714144866752&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb3a5992b1382&FvSeid=88fe5578af1b4ae2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16987&Fsv_chan_hls_se_idx=33&Fsv_TBt=2286984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-4&Fsv_CMSID=GD_CUCC
-CETV早期教育,http://27.40.16.69:8114/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZgEcPJzku%2FK%2BhOejG8m3LLDzTKwBfpzpjpJgpyYO6Z%2F&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714145054552&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb51ce8e2b668&FvSeid=88fe5578af1e3b0b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4280&Fsv_chan_hls_se_idx=62&Fsv_TBt=8000472&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CETV-ZQJY-CQ&Fsv_CMSID=GD_CUCC
 CETV1,http://xyt.186738613.xyz/lngd.php?id=135&Cf.m3u8\r\n
 CETV2,http://xyt.186738613.xyz/lngd.php?id=492&Cf.m3u8\r\n
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 📺卫视频道,#genre#
-河北卫视,http://120.87.97.246:8114/GD_CUCC/G_HEBEI-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKhpKSI6s6OLBtormwyqxqXAWWbd7WiLqjR4vnvi9bRwf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182193047&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5ae354947b12&FvSeid=77fd5578ee69c553&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4265&Fsv_chan_hls_se_idx=44&Fsv_TBt=8455624&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEBEI-CQ&Fsv_CMSID=GD_CUCC
-北京卫视,http://58.248.112.229:8114/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn6pFJlsKFX2elUkY7G9Wuaj1MVb5sXKFIg1u28lIJn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178807747&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4070b83a8b8c&FvSeid=77fd5578ee34e2cf&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18116&Fsv_chan_hls_se_idx=49&Fsv_TBt=8466128&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_BEIJING-CQ&Fsv_CMSID=GD_CUCC
-天津卫视,http://221.4.143.69:8114/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqessbbY33u5MnZnHCFZZTKedVHdYk5kh2CdQP7Xn4%2B6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179130392&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42f60faa9dd1&FvSeid=77fd5578ee39ecbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9847&Fsv_chan_hls_se_idx=46&Fsv_TBt=8468032&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_TIANJIN-CQ&Fsv_CMSID=GD_CUCC
 东方卫视,http://27.40.16.70:8114/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvFI8ayEeoekFD8P08%2F7EXHQHvoSr2x4xkdtxQfHt6cg&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178761860&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4014f3eb28dc&FvSeid=77fd5578ee342bde&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4254&Fsv_chan_hls_se_idx=49&Fsv_TBt=8467904&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_DONGFANG-CQ&Fsv_CMSID=GD_CUCC
-重庆卫视,http://120.87.97.246:8114/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC
-湖南卫视,http://27.40.16.69:8114/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn6FShWeUnbW0LuGMY6sAL8C%2BfCULxR%2FAC5HDljJd9K3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178682174&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3f7588ed2416&FvSeid=77fd5578ee32eac5&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4255&Fsv_chan_hls_se_idx=50&Fsv_TBt=8472328&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HUNAN-CQ&Fsv_CMSID=GD_CUCC
-江苏卫视,http://58.248.112.229:8114/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178500503&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3e0a43cf17e8&FvSeid=77fd5578ee3014e1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18120&Fsv_chan_hls_se_idx=51&Fsv_TBt=8465688&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JIANGSU-CQ&Fsv_CMSID=GD_CUCC
 浙江卫视,http://221.4.143.70:8114/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtr3tmmw%2BL49D6e6Yw0TfYxu1Rs%2FVoWmP1ObIwtTG9QM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178633727&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3f14af0e6062&FvSeid=77fd5578ee322b51&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9855&Fsv_chan_hls_se_idx=50&Fsv_TBt=8466712&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_ZHEJIANG-CQ&Fsv_CMSID=GD_CUCC
-山东卫视,http://120.87.97.245:8114/GD_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKo%2BfIJoJ9xhIZtB7lTaNNRKhgu973cupNzXqrFaHpa4m&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179016159&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e421184ec77bb&FvSeid=77fd5578ee382291&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4271&Fsv_chan_hls_se_idx=47&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHANDONG-CQ&Fsv_CMSID=GD_CUCC
-河南卫视,http://221.4.143.69:8114/GD_CUCC/G_HENAN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKpdyyWmwPpo0%2BOlJpyKTryJEbtG%2Bests7yU1uk2fPQyg&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182227040&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5b2758477c9d&FvSeid=77fd5578ee6a4d8f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9841&Fsv_chan_hls_se_idx=44&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HENAN-CQ&Fsv_CMSID=GD_CUCC
-辽宁卫视,http://27.40.16.69:8114/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkRqeVO49Tnq6K%2BWCd0TWOv%2FGe21maMcczv29zbhzU5i&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178917390&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e414c0b1d923b&FvSeid=77fd5578ee3699e0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4251&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_LIAONING-CQ&Fsv_CMSID=GD_CUCC
-吉林卫视,http://27.40.16.69:8114/GD_CUCC/G_JILIN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqq%2B26rAMzWWYsNVrLLNbHmaARITnQlrumEMUf7cXEvC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182300069&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5bb964898020&FvSeid=77fd5578ee6b7111&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4240&Fsv_chan_hls_se_idx=43&Fsv_TBt=8467304&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JILIN-CQ&Fsv_CMSID=GD_CUCC
-黑龙江卫视,http://27.40.16.70:8114/GD_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKoGO4sBlEXR27vS0rpENy%2BC90wzLcBzAblH7tEMBexot&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179089553&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42a45c04fbd0&FvSeid=77fd5578ee3948ee&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4247&Fsv_chan_hls_se_idx=46&Fsv_TBt=8467816&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEILONGJIANG-CQ&Fsv_CMSID=GD_CUCC
-安徽卫视,http://221.4.143.70:8114/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKpi6kJCQCoMejZ%2FjmEq59ETBeFztV3v%2BtvhPvprhMbo3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178966803&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e41aed47214b9&FvSeid=77fd5578ee375ce2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9849&Fsv_chan_hls_se_idx=47&Fsv_TBt=8467952&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_ANHUI-CQ&Fsv_CMSID=GD_CUCC
 四川卫视,http://58.248.112.230:8114/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKihysHnFVsdNiy%2FnVMuA%2F2uEYXiVeRF%2BucKv3Z40C7o4&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182969797&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e60f4e1f02053&FvSeid=77fd5578ee75ea0c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18102&Fsv_chan_hls_se_idx=42&Fsv_TBt=8468784&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SICHUAN-CQ&Fsv_CMSID=GD_CUCC
-广东卫视,http://120.87.97.246:8114/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvgbSbSCTYnboG1IAsnN%2B8SqEfgQMFPe4ummH0FzRlHZ&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715177814221&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e38ada34b4c42&FvSeid=77fd5578ee255a62&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4280&Fsv_chan_hls_se_idx=51&Fsv_TBt=8467184&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUANGDONG-CQ&Fsv_CMSID=GD_CUCC
 深圳卫视,http://27.40.16.70:8114/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtBPUZJQRNJB5bOiIhhUc3e2OqQ5ejG4cfAiuU8Ka%2FSr&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178863654&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e40e08c51af02&FvSeid=77fd5578ee35c10a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4252&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHENZHEN-CQ&Fsv_CMSID=GD_CUCC
-东南卫视,http://58.248.112.230:8114/GD_CUCC/G_DONGNAN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKg3sVbVN1ZTQKUpnK8xcf7x%2FCQE0V52YypyihQhUfLY5&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179246299&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e43ddc7fdc49c&FvSeid=77fd5578ee3bb97c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18108&Fsv_chan_hls_se_idx=45&Fsv_TBt=4356280&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_DONGNAN-CQ&Fsv_CMSID=GD_CUCC
-甘肃卫视,http://120.87.97.245:8114/GD_CUCC/G_GANSU-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu8%2BHz6yr4RTNfYc5PxP2EiHpodLfG71p5gfWMpex5u%2B&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179903515&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e49004ccec872&FvSeid=77fd5578ee460191&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1041&Fsv_chan_hls_se_idx=19&Fsv_TBt=4355528&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GANSU-HQ&Fsv_CMSID=GD_CUCC
-贵州卫视,http://58.248.112.229:8114/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKms5lc8HFQLTI9VPV%2F62TTvoUIVS7GXMM5XnqjLoqMGn&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715180048627&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4a2287e30f84&FvSeid=77fd5578ee48469c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18107&Fsv_chan_hls_se_idx=45&Fsv_TBt=8466792&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUIZHOU-CQ&Fsv_CMSID=GD_CUCC
-海南卫视,http://58.248.112.229:8114/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKuHFzyLGvmSMltQzCpEgABbzTx6xqsUWMTeDo0%2FrycmR&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182081651&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5a049b2f5521&FvSeid=77fd5578ee68091a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4380&Fsv_chan_hls_se_idx=20&Fsv_TBt=4357088&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HAINAN-HQ&Fsv_CMSID=GD_CUCC
-湖北卫视,http://58.248.112.230:8114/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKrg071ENwYSAZcO2GiGH9lI2lGOSb3j5CN1iPWx2HIq9&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182267095&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5b7775947e97&FvSeid=77fd5578ee6aec3c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18104&Fsv_chan_hls_se_idx=43&Fsv_TBt=8467728&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HUBEI-CQ&Fsv_CMSID=GD_CUCC
-江西卫视,http://120.87.97.245:8114/GD_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKiFtNLUdun4aiq6hb34UOKdnmvR2PbgsfQI1rMAHU0ky&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182357590&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5c2c769d42ff&FvSeid=77fd5578ee6c5a9f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3156&Fsv_chan_hls_se_idx=1&Fsv_TBt=8478384&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JIANGXI-CQ&Fsv_CMSID=GD_CUCC
-广西卫视,http://120.87.97.245:8114/GD_CUCC/G_GUANGXI-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkIecLjXoLUiOhb4XqRrxOuvJ2bhovth1ZiNfRiDsRl0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179210822&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4396f49e6225&FvSeid=77fd5578ee3b2d07&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1039&Fsv_chan_hls_se_idx=18&Fsv_TBt=4356480&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUANGXI-HQ&Fsv_CMSID=GD_CUCC
-陕西卫视,http://120.87.97.245:8114/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvTKKoI90D6zih8EBEVuISOoNd58%2BpeLvDCVqfR%2Bz2zC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182821604&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5fcc899b5974&FvSeid=77fd5578ee739987&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3141&Fsv_chan_hls_se_idx=28&Fsv_TBt=4357096&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHANXI-HQ&Fsv_CMSID=GD_CUCC
-云南卫视,http://120.87.97.245:8114/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKsw5gpVWcejjhE1KHstDaBG5txDdXzjGOGT72Bx9wXfe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183112723&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e6212b9f22693&FvSeid=77fd5578ee78247b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4260&Fsv_chan_hls_se_idx=42&Fsv_TBt=4356528&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_YUNNAN-CQ&Fsv_CMSID=GD_CUCC
-青海卫视,http://58.248.112.229:8114/GD_CUCC/G_QINGHAI.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtPONYs6QtaHPseT96s%2FID0CJK8A3PYAgbxQETLpGrgj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183368940&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e641325baf208&FvSeid=77fd5578ee7c278e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18141&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287408&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_QINGHAI&Fsv_CMSID=GD_CUCC
-西藏卫视,http://120.87.97.246:8114/GD_CUCC/G_XIZANG.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKmxx5kvhKVtAPfH0qKl14uc0OofWCn8X%2F8yyIACfIeA3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183009371&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61441141c1fd&FvSeid=77fd5578ee768a7f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3143&Fsv_chan_hls_se_idx=28&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XIZANG&Fsv_CMSID=GD_CUCC
-新疆卫视,http://58.248.112.230:8114/GD_CUCC/G_XINJIANG.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi6FcStVNDiOP%2F2OqxiETIMcXVZrQaEXpNcm6hl5lagk&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183048966&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61932f7943b8&FvSeid=77fd5578ee77266d&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16959&Fsv_chan_hls_se_idx=28&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XINJIANG&Fsv_CMSID=GD_CUCC
-内蒙古卫视,http://120.87.97.246:8114/GD_CUCC/G_NEIMENGGU.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtadjOJg8CbeqsqTgzJiG7FM7k1u027nYSb3VMtNVHOm&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182669897&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5e9d43853283&FvSeid=77fd5578ee7139f9&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3106&Fsv_chan_hls_se_idx=24&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NEIMENGGU&Fsv_CMSID=GD_CUCC
-宁夏卫视,http://120.87.97.246:8114/GD_CUCC/G_NINGXIA.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKrEoOVZkTXPRpyu8Fec9vdCdoyO018NO14G7CqFI6mAm&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182701912&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5edd129ab3fd&FvSeid=77fd5578ee71bb73&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3108&Fsv_chan_hls_se_idx=25&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NINGXIA&Fsv_CMSID=GD_CUCC
-厦门卫视,http://58.248.112.230:8114/GD_CUCC/G_XIAMEN.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqGN1tBE%2F%2B5MsxIjF3XUVlNwwU2%2BP7Se%2BeLJsHpsPerh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183457815&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e64c4e841b5c2&FvSeid=77fd5578ee7d88ff&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18142&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XIAMEN&Fsv_CMSID=GD_CUCC
-三沙卫视,http://221.4.143.70:8114/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn28G%2BWQkLi7Q1Mh845gzlZpk5pTBlduEA6C0mU%2FOMOo&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182782124&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5f7d8db637b1&FvSeid=77fd5578ee72f88e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=8693&Fsv_chan_hls_se_idx=26&Fsv_TBt=4355976&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SANSHA-HQ&Fsv_CMSID=GD_CUCC
-兵团卫视,http://58.248.112.229:8114/GD_CUCC/G_BINGTUAN.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKg%2BHicnPfeizG3y0NUSJ2dRq2eA%2FYw6jIuuTgXuLMwo%2B&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182594140&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5e05840acf03&FvSeid=77fd5578ee7008c3&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4391&Fsv_chan_hls_se_idx=24&Fsv_TBt=2284520&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_BINGTUAN&Fsv_CMSID=GD_CUCC
-延边卫视,http://58.248.112.230:8114/GD_CUCC/G_YANBIAN.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKsDHE1G9dncbxrpdCy9LpiOqFDsEdX4qrobuTeLEDWHs&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183083445&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61d8353d2539&FvSeid=77fd5578ee77b3ef&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16969&Fsv_chan_hls_se_idx=10&Fsv_TBt=2284640&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_YANBIAN&Fsv_CMSID=GD_CUCC
-教育卫视,http://221.4.143.70:8114/GD_CUCC/G_SDETV.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBaQqiYldAFlp5I0WQQhgJ51s5W4F7ztB6oWlesQ6UA8i&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714145196406&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515eb638a644b87a&FvSeid=88fe5578af1b4eed&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9882&Fsv_chan_hls_se_idx=63&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SDETV&Fsv_CMSID=GD_CUCC
 河北卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.112:8000
 北京卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.85:8000
 天津卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.89:8000
@@ -3023,52 +2599,6 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 河南卫视,http://123.182.60.29:9002/hls/34/index.m3u8
 四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8
 深圳卫视,http://123.182.60.29:9002/hls/39/index.m3u8
-广东卫视,http://110.179.80.171:8082/udp/239.1.1.49:8049
-浙江卫视,http://110.179.80.171:8082/udp/239.1.1.38:8038
-湖南卫视,http://110.179.80.171:8082/udp/239.1.1.28:8028
-江苏卫视,http://110.179.80.171:8082/udp/239.1.1.35:8035
-北京卫视,http://110.179.80.171:8082/udp/239.1.1.41:8041
-深圳卫视,http://110.179.80.171:8082/udp/239.1.1.39:8039
-湖北卫视,http://110.179.80.171:8082/udp/239.1.1.32:8032
-天津卫视,http://110.179.80.171:8082/udp/239.1.1.46:8046
-黑龙江卫视,http://110.179.80.171:8082/udp/239.1.1.37:8037
-东方卫视,http://110.179.80.171:8082/udp/239.1.1.31:8031
-山东卫视,http://110.179.80.171:8082/udp/239.1.1.47:8047
-辽宁卫视,http://110.179.80.171:8082/udp/239.1.1.42:8042
-四川卫视,http://110.179.80.171:8082/udp/239.1.1.29:8029
-贵州卫视,http://110.179.80.171:8082/udp/239.1.1.43:8043
-重庆卫视,http://110.179.80.171:8082/udp/239.1.1.36:8036
-安徽卫视,http://110.179.80.171:8082/udp/239.1.1.44:8044
-东南卫视,http://110.179.80.171:8082/udp/239.1.1.33:8033
-江西卫视,http://110.179.80.171:8082/udp/239.1.1.52:8052
-广西卫视,http://110.179.80.171:8082/udp/239.1.1.40:8040
-吉林卫视,http://110.179.80.171:8082/udp/239.1.1.30:8030
-河南卫视,http://110.179.80.171:8082/udp/239.1.1.34:8034
-河北卫视,http://110.179.80.171:8082/udp/239.1.1.48:8048
-湖南卫视,http://60.4.9.246:8888/udp/239.254.200.48:8012
-浙江卫视,http://60.4.9.246:8888/udp/239.254.200.53:8036
-江苏卫视,http://60.4.9.246:8888/udp/239.254.200.51:8028
-安徽卫视,http://60.4.9.246:8888/udp/239.254.200.163:6000
-东南卫视,http://60.4.9.246:8888/udp/239.254.201.13:6291
-北京卫视,http://60.4.9.246:8888/udp/239.254.200.47:8024
-天津卫视,http://60.4.9.246:8888/udp/239.254.200.54:1234
-辽宁卫视,http://60.4.9.246:8888/udp/239.254.200.57:8056
-山东卫视,http://60.4.9.246:8888/udp/239.254.200.55:8052
-河南卫视,http://60.4.9.246:8888/udp/239.254.201.16:7174
-河北卫视,http://60.4.9.246:8888/udp/239.254.200.174:6000
-黑龙江卫视,http://60.4.9.246:8888/udp/239.254.200.49:8016
-四川卫视,http://60.4.9.246:8888/udp/239.254.200.202:6325
-江西卫视,http://60.4.9.246:8888/udp/239.254.201.12:6290
-贵州卫视,http://60.4.9.246:8888/udp/239.254.201.20:6315
-深圳卫视,http://60.4.9.246:8888/udp/239.254.200.50:8020
-湖北卫视,http://60.4.9.246:8888/udp/239.254.200.164:6000
-东方卫视,http://60.4.9.246:8888/udp/239.254.200.52:8032
-重庆卫视,http://60.4.9.246:8888/udp/239.254.200.203:6323
-广东卫视,http://60.4.9.246:8888/udp/239.254.200.56:8048
-广西卫视,http://60.4.9.246:8888/udp/239.254.200.80:8300
-吉林卫视,http://60.4.9.246:8888/udp/239.254.201.15:6339
-海南卫视,http://60.4.9.246:8888/udp/239.254.201.125:6288
-甘肃卫视,http://60.4.9.246:8888/udp/239.254.200.17:8180
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -3183,45 +2713,16 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 湖南卫视,http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://ygbh.live/js.php?id=jsws
-安徽卫视,http://159.75.166.157/php/ah.php?id=ahws
-山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?/1.m3u8=ba357f031594546763
-青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 教育卫视,http://182.46.8.161:8018/hls/16/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-湖南卫视,http://222.223.118.222:2180/live/hunws/index.m3u8
-浙江卫视,http://222.223.118.222:2180/live/zjws/index.m3u8
-江苏卫视,http://222.223.118.222:2180/live/jsws/index.m3u8
-安徽卫视,http://222.223.118.222:2180/live/ahws/index.m3u8
-北京卫视,http://222.223.118.222:2180/live/bjws/index.m3u8
-天津卫视,http://222.223.118.222:2180/live/tjws/index.m3u8
-辽宁卫视,http://222.223.118.222:2180/live/lnws/index.m3u8
-山东卫视,http://222.223.118.222:2180/live/sdws/index.m3u8
-河南卫视,http://222.223.118.222:2180/live/henws/index.m3u8
-黑龙江卫视,http://222.223.118.222:2180/live/hljws/index.m3u8
-四川卫视,http://222.223.118.222:2180/live/scws/index.m3u8
-江西卫视,http://222.223.118.222:2180/live/jxws/index.m3u8
-贵州卫视,http://222.223.118.222:2180/live/gzws/index.m3u8
-深圳卫视,http://222.223.118.222:2180/live/szws/index.m3u8
-湖北卫视,http://222.223.118.222:2180/live/hubws/index.m3u8
-东方卫视,http://222.223.118.222:2180/live/dfws/index.m3u8
-重庆卫视,http://222.223.118.222:2180/live/cqws/index.m3u8
-东南卫视,http://222.223.118.222:2180/live/dnws/index.m3u8
-广东卫视,http://222.223.118.222:2180/live/gdws/index.m3u8
-广西卫视,http://222.223.118.222:2180/live/gxws/index.m3u8
-吉林卫视,http://222.223.118.222:2180/live/jlws/index.m3u8
-海南卫视,http://222.223.118.222:2180/live/lyws/index.m3u8
 河北卫视,http://122.138.218.254:50085/hls/40/index.m3u8
 北京卫视,http://122.138.218.254:50085/hls/27/index.m3u8
 天津卫视,http://122.138.218.254:50085/hls/33/index.m3u8
@@ -3244,37 +2745,8 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 广西卫视,http://122.138.218.254:50085/hls/52/index.m3u8
 海南卫视,http://122.138.218.254:50085/hls/45/index.m3u8
 江西卫视,http://122.138.218.254:50085/hls/51/index.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?-upt=63cf437e1591689484
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-江苏卫视,http://dsm.imcl.vip:8888/udp/239.49.8.16:9602
-广西卫视,http://dsm.imcl.vip:8888/udp/239.49.8.10:8000
-天津卫视,http://dsm.imcl.vip:8888/udp/239.49.8.35:8620
-浙江卫视,http://dsm.imcl.vip:8888/udp/239.49.8.20:9618
-重庆卫视,http://dsm.imcl.vip:8888/udp/239.49.8.57:9830
-辽宁卫视,http://dsm.imcl.vip:8888/udp/239.49.8.48:8000
-海南卫视,http://dsm.imcl.vip:8888/udp/239.49.8.83:8000
-四川卫视,http://dsm.imcl.vip:8888/udp/239.49.8.110:8000
-江西卫视,http://dsm.imcl.vip:8888/udp/239.49.8.111:8000
-东南卫视,http://dsm.imcl.vip:8888/udp/239.49.8.112:8000
-吉林卫视,http://dsm.imcl.vip:8888/udp/239.49.8.113:8000
-河北卫视,http://dsm.imcl.vip:8888/udp/239.49.8.114:8000
-东方卫视,http://dsm.imcl.vip:8888/udp/239.49.8.17:9606
-北京卫视,http://dsm.imcl.vip:8888/udp/239.49.8.11:9414
-湖南卫视,http://dsm.imcl.vip:8888/udp/239.49.8.12:9418
-广东卫视,http://dsm.imcl.vip:8888/udp/239.49.8.13:9422
-黑龙江卫视,http://dsm.imcl.vip:8888/udp/239.49.8.14:9426
-深圳卫视,http://dsm.imcl.vip:8888/udp/239.49.8.15:9430
-云南卫视,http://dsm.imcl.vip:8888/udp/239.49.0.177:8000
-山东卫视,http://dsm.imcl.vip:8888/udp/239.49.8.7:9306
-贵州卫视,http://dsm.imcl.vip:8888/udp/239.49.8.49:8000
-安徽卫视,http://dsm.imcl.vip:8888/udp/239.49.8.80:8000
-湖北卫视,http://dsm.imcl.vip:8888/udp/239.49.8.8:9632
-河南卫视,http://dsm.imcl.vip:8888/udp/239.49.8.29:8000
-三沙卫视,http://dsm.imcl.vip:8888/udp/239.49.0.167:8000
 江苏卫视,http://ilove.f3322.org:8888/udp/239.49.8.16:9602
 广西卫视,http://ilove.f3322.org:8888/udp/239.49.8.10:8000
 天津卫视,http://ilove.f3322.org:8888/udp/239.49.8.35:8620
@@ -3401,33 +2873,6 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 甘肃卫视,http://suntao.asia:18888/udp/239.21.2.22:5002
 海南卫视,http://suntao.asia:18888/udp/239.21.2.14:5002
 教育卫视,http://suntao.asia:18888/udp/239.21.1.169:5002
-山东卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.78:8000$山东威海 联通
-湖南卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.82:8000$山东威海 联通
-江苏卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.83:8000$山东威海 联通
-浙江卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.84:8000$山东威海 联通
-北京卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.85:8000$山东威海 联通
-东方卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.86:8000$山东威海 联通
-安徽卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.87:8000$山东威海 联通
-湖北卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.88:8000$山东威海 联通
-天津卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.89:8000$山东威海 联通
-广东卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.90:8000$山东威海 联通
-深圳卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.91:8000$山东威海 联通
-辽宁卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.92:8000$山东威海 联通
-黑龙江卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.93:8000$山东威海 联通
-东南卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.105:8000$山东威海 联通
-海南卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.35:8000$山东威海 联通
-重庆卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.38:8000$山东威海 联通
-广西卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.40:8000$山东威海 联通
-云南卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.42:8000$山东威海 联通
-河南卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.44:8000$山东威海 联通
-吉林卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.46:8000$山东威海 联通
-江西卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.47:8000$山东威海 联通
-陕西卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.49:8000$山东威海 联通
-四川卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.50:8000$山东威海 联通
-青海卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.54:8000$山东威海 联通
-教育卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.59:8000$山东威海 联通
-河北卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.112:8000$山东威海 联通
-贵州卫视,http://wh.bh3bbb.com:40000/rtp/239.253.230.113:8000$山东威海 联通
 河北卫视,http://router.bingyu.in:40000/rtp/239.253.252.112:8000$山东淄博 联通
 北京卫视,http://kui.i234.me:4022/udp/232.0.0.117:1234
 天津卫视,http://kui.i234.me:4022/udp/232.0.0.125:1234
@@ -3487,40 +2932,6 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 贵州卫视,http://218.241.192.50:8808/rtp/239.3.1.149:8076
 东南卫视,http://218.241.192.50:8808/rtp/239.3.1.156:8148
 江西卫视,http://218.241.192.50:8808/rtp/239.3.1.123:8164
-湖南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/1300.m3u8
-河南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel78/1300.m3u8
-安徽卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/1300.m3u8
-北京卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/1300.m3u8
-兵团卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel67/1300.m3u8
-重庆卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel56/1300.m3u8
-东方卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
-东南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/1300.m3u8
-甘肃卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel57/1300.m3u8
-广东卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
-广西卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel59/1300.m3u8
-贵州卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel30/2300.m3u8
-海南卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel62/2300.m3u8
-河北卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel79/1300.m3u8
-黑龙江卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel27/1300.m3u8
-湖北卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
-吉林卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
-江苏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
-江西卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
-辽宁卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/1300.m3u8
-内蒙古卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel93/1300.m3u8
-宁夏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel69/1300.m3u8
-青海卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel60/1300.m3u8
-山东卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel29/1300.m3u8
-山西卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel54/1300.m3u8
-陕西卫视,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/1300.m3u8
-深圳卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
-四川卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
-天津卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/1300.m3u8
-西藏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
-西藏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/2300.m3u8
-新疆卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8
-云南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/1300.m3u8
-浙江卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel19/1300.m3u8
 河北卫视,http://39.134.65.70:80/wh7f454c46tw2408451422-1767751653/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
 北京卫视,http://39.135.135.11:80/wh7f454c46tw1614955021--2080436109/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 天津卫视,http://39.135.135.14:80/wh7f454c46tw2183431869--601389287/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -3557,38 +2968,11 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 河北科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee
-河北卫视,http://222.223.118.222:2180/live/hebws/index.m3u8
-河北经济,http://222.223.118.222:2180/live/hebjj/index.m3u8
-河北都市,http://222.223.118.222:2180/live/hebds/index.m3u8
-河北影视,http://222.223.118.222:2180/live/hebys/index.m3u8
-河北科教,http://222.223.118.222:2180/live/hebse/index.m3u8
-河北公共,http://222.223.118.222:2180/live/hebsgg/index.m3u8
-河北农民,http://222.223.118.222:2180/live/hebnm/index.m3u8
-河北经济,http://60.4.9.246:8888/udp/239.254.200.18:6000
-河北都市,http://60.4.9.246:8888/udp/239.254.200.19:6000
-河北影视,http://60.4.9.246:8888/udp/239.254.200.20:6000
-河北公共,http://60.4.9.246:8888/udp/239.254.200.22:6000
-河北农民,http://60.4.9.246:8888/udp/239.254.200.23:6000
-河北科教,http://60.4.9.246:8888/udp/239.254.200.21:6000
-石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-邢台综合,http://111.11.98.205:9900/hls/27/index.m3u8
-邢台生活,http://111.11.98.205:9900/hls/29/index.m3u8
-邢台综合,http://222.223.118.222:2180/live/hbxtzh/index.m3u8
-邢台生活,http://222.223.118.222:2180/live/hbxtgg/index.m3u8
 清河综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8?$云播
 清河综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8?$云播
-清河综合,https://jwliveqxzb.hebyun.com.cn/qinghe/qinghe.m3u8
-清河综艺,https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
 💯北京频道,#genre#
-北京科教,http://zy.otioi.cn/cs/cqyx.php?token=&id=bjjskj
-北京卡酷,http://zy.otioi.cn/cs/cqyx.php?token=&id=bjkk
-北京卫视,http://zy.otioi.cn/cs/cqyx.php?token=&id=bjws
 北京卫视,http://www.omnix.cn:4000/udp/225.1.8.21:8002
 北京文艺,http://www.omnix.cn:4000/udp/225.1.8.22:8002
 北京科教,http://www.omnix.cn:4000/udp/225.1.8.105:8002
@@ -3634,7 +3018,6 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 北京IPTV淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
 北京IPTV淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 北京IPTV淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
-房山有线,http://live.funhillrm.com/5/sd/live.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 🌸上海频道,#genre#
 上海纪实,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
@@ -3673,27 +3056,10 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 天津体育,http://nas.hssvm.com:8888/udp/225.1.1.122:5002?$天津联通组播
 天津少儿,http://nas.hssvm.com:8888/udp/225.1.1.125:5002?$天津联通组播
 天津IPTV,http://nas.hssvm.com:8888/udp/225.1.1.132:5002?$天津联通组播
-天津滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
-天津滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
-天津滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 天津津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-天津滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
-天津滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-天津滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 天津津南一套,http://play.jinnantv.top/live/JNTV1.m3u8
 🎬凤凰影视,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰中文,http://103.40.13.71:12390/mytv/live.php?id=1
-凤凰资讯,http://103.40.13.71:12390/mytv/live.php?id=2
-凤凰香港,http://103.40.13.71:12390/mytv/live.php?id=3
-凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
-香港环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
@@ -3709,19 +3075,8 @@ CHC动作电影,http://lede.medahl.com:10098/udp/239.76.252.243:9000
 CHC动作电影,http://lede.medahl.com:10098/udp/239.76.245.243:1234
 CHC家庭影院,http://lede.medahl.com:10098/udp/239.76.252.241:9000
 CHC家庭影院,http://lede.medahl.com:10098/udp/239.76.245.241:1234
-CHC影迷电影,http://www.jflying0505.top:8888/udp/239.45.0.42:5140
-CHC家庭影院,http://www.jflying0505.top:8888/udp/239.45.0.40:5140
-CHC动作电影,http://www.jflying0505.top:8888/udp/239.45.0.41:5140
-CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
 CHC影迷电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
-CHC动作电影,http://annaxi.yifinal.com:11111/udp/239.253.254.153:8000
-CHC影迷电影,http://annaxi.yifinal.com:11111/udp/239.253.254.154:8000
-CHC家庭影院,http://annaxi.yifinal.com:11111/udp/239.253.254.152:8000
-CHC影迷电影,http://111.178.99.38:9999/udp/239.69.1.241:11088
-CHC动作电影,http://111.178.99.38:9999/udp/239.69.1.242:11094
-CHC家庭影院,http://111.178.99.38:9999/udp/239.69.1.243:11100
-4K超高清电影,http://58.216.99.148:80/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 1905国内电影,http://live.dxms.top/dwy/hyyy.php
 1905国内电影,http://ygbh.live/1905.php?id=1905a
@@ -3729,84 +3084,6 @@ CHC家庭影院,http://111.178.99.38:9999/udp/239.69.1.243:11100
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
-电影-星爷,http://cfss.cc/cdn/hy/11342412.flv
-电影-英叔,http://cfss.cc/cdn/hy/11342421.flv
-电影-发哥,http://cfss.cc/cdn/hy/11342387.flv
-电影-成龙,http://cfss.cc/cdn/hy/11342386.flv
-电影-王晶,http://cfss.cc/cdn/hy/11602058.flv
-电影-沈腾,http://cfss.cc/cdn/hy/11601968.flv
-电影-黄渤,http://cfss.cc/cdn/hy/11352876.flv
-电影-强森,http://cfss.cc/cdn/hy/21059581.flv
-电影-漫威,http://cfss.cc/cdn/hy/11602034.flv
-许冠英,http://cfss.cc/cdn/hy/11601972.flv
-五福星,http://cfss.cc/cdn/hy/11282233.flv
-邱淑贞,http://cfss.cc/cdn/hy/11352949.flv
-古天乐,http://cfss.cc/cdn/hy/11602041.flv
-徐克,http://cfss.cc/cdn/hy/11352909.flv
-冯小刚,http://cfss.cc/cdn/hy/11352906.flv
-甄子丹,http://cfss.cc/cdn/hy/11352935.flv
-电影-周星星,http://cfss.cc/cdn/hy/11336587.flv
-电影-李连杰,http://cfss.cc/cdn/hy/11342390.flv
-电影-洪金宝,http://cfss.cc/cdn/hy/11279251.flv
-电影-梁家辉,http://cfss.cc/cdn/hy/11342429.flv
-电影-刘德华,http://cfss.cc/cdn/hy/11342424.flv
-电影-曾江,http://cfss.cc/cdn/hy/11601981.flv
-电影-周海媚,http://cfss.cc/cdn/hy/11279247.flv
-电影-宇宙,http://cfss.cc/cdn/hy/11342428.flv
-电影-怪兽,http://cfss.cc/cdn/hy/21059577.flv
-电影-武侠,http://cfss.cc/cdn/hy/11342427.flv
-电影-警匪,http://cfss.cc/cdn/hy/11352886.flv
-电影-罪犯,http://cfss.cc/cdn/hy/11352962.flv
-电影-枪战,http://cfss.cc/cdn/hy/21059579.flv
-电影-海盗,http://cfss.cc/cdn/hy/21059595.flv
-电影-救援,http://cfss.cc/cdn/hy/21059594.flv
-电影-热血,http://cfss.cc/cdn/hy/11352934.flv
-电影-盗墓,http://cfss.cc/cdn/hy/21059552.flv
-电影-贺岁,http://cfss.cc/cdn/hy/11601971.flv
-电影-玄幻,http://cfss.cc/cdn/hy/11342414.flv
-电影-谍战,http://cfss.cc/cdn/hy/21059585.flv
-电影-战争,http://cfss.cc/cdn/hy/21059592.flv
-电影-喜剧,http://cfss.cc/cdn/hy/11352877.flv
-电影-港片,http://cfss.cc/cdn/hy/11602043.flv
-电影-国产,http://cfss.cc/cdn/hy/11352973.flv
-电影-八点档,http://cfss.cc/cdn/hy/880261.flv
-电影-超异能族,http://cfss.cc/cdn/hy/21059586.flv
-电影-古墓系列,http://cfss.cc/cdn/hy/11352913.flv
-电影-蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
-电影-贺岁片,http://cfss.cc/cdn/hy/11601986.flv
-电影-功夫片,http://cfss.cc/cdn/hy/11352941.flv
-电影-黑帮片,http://cfss.cc/cdn/hy/11336719.flv
-电影-丧尸片,http://cfss.cc/cdn/hy//21059578.flv
-电影-灾难片,http://cfss.cc/cdn/hy/11602075.flv
-电影-谍战片,http://cfss.cc/cdn/hy/21059587.flv
-电影-战争片,http://cfss.cc/cdn/hy/21059574.flv
-电影-犯罪片,http://cfss.cc/cdn/hy/11352974.flv
-电影-古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影-高分动作,http://cfss.cc/cdn/hy/11352884.flv
-电影-动作电影,http://cfss.cc/cdn/hy/11602077.flv
-电影-搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
-电影-喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
-电影-欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
-电影-不挤影院,http://cfss.cc/cdn/hy/11352897.flv
-电影-国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
-电影-快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-电影-黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
-电影-嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
-电影-许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
-电影-经典港片,http://cfss.cc/cdn/hy/11352965.flv
-电影-镖行天下,http://cfss.cc/cdn/hy/11352969.flv
-电影-喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
-电影-搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
-电影-死神来了,http://cfss.cc/cdn/hy/11352903.flv
-电影-变形金刚,http://cfss.cc/cdn/hy/21059596.flv
-电影-怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-电影-星爷,http://159.75.85.63:35455/huya/11342412
-电影-英叔,http://159.75.85.63:35455/huya/11342421
-电影-发哥,http://159.75.85.63:35455/huya/11342387
-电影-成龙,http://159.75.85.63:35455/huya/11342386
-电影-王晶,http://159.75.85.63:35455/huya/11602058
-电影-沈腾,http://159.75.85.63:35455/huya/11601968
-电影-黄渤,http://159.75.85.63:35455/huya/11352876
 电影-强森,http://159.75.85.63:35455/huya/21059581
 电影-漫威,http://159.75.85.63:35455/huya/11602034
 电影-宇宙,http://159.75.85.63:35455/huya/11342428
@@ -3870,52 +3147,6 @@ CHC家庭影院,http://111.178.99.38:9999/udp/239.69.1.243:11100
 电影-死神来了,http://159.75.85.63:35455/huya/11352903
 电影-变形金刚,http://159.75.85.63:35455/huya/21059596
 电影-怪兽系列,http://159.75.85.63:35455/huya/21059554
-电影-星爷,https://live.metshop.top/huya/11342412
-电影-英叔,https://live.metshop.top/huya/11342421
-电影-发哥,https://live.metshop.top/huya/11342387
-电影-成龙,https://live.metshop.top/huya/11342386
-电影-王晶,https://live.metshop.top/huya/11602058
-电影-沈腾,https://live.metshop.top/huya/11601968
-电影-黄渤,https://live.metshop.top/huya/11352876
-电影-强森,https://live.metshop.top/huya/21059581
-电影-漫威,https://live.metshop.top/huya/11602034
-电影-宇宙,https://live.metshop.top/huya/11342428
-电影-怪兽,https://live.metshop.top/huya/21059577
-电影-武侠,https://live.metshop.top/huya/11342427
-电影-警匪,https://live.metshop.top/huya/11352886
-电影-罪犯,https://live.metshop.top/huya/11352962
-电影-枪战,https://live.metshop.top/huya/21059579
-电影-海盗,https://live.metshop.top/huya/21059595
-电影-赛车,https://live.metshop.top/huya/11279247
-电影-推荐,https://live.metshop.top/huya/11602041
-电影-救援,https://live.metshop.top/huya/21059594
-电影-热血,https://live.metshop.top/huya/11352934
-电影-盗墓,https://live.metshop.top/huya/21059552
-电影-贺岁,https://live.metshop.top/huya/11601971
-电影-玄幻,https://live.metshop.top/huya/11342414
-电影-谍战,https://live.metshop.top/huya/21059585
-电影-战争,https://live.metshop.top/huya/21059592
-电影-喜剧,https://live.metshop.top/huya/11352877
-电影-港片,https://live.metshop.top/huya/11602043
-电影-国产,https://live.metshop.top/huya/11352973
-电影-周星星,https://live.metshop.top/huya/11336587
-电影-李连杰,https://live.metshop.top/huya/11342390
-电影-洪金宝,https://live.metshop.top/huya/11279251
-电影-梁家辉,https://live.metshop.top/huya/11342429
-电影-刘德华,https://live.metshop.top/huya/11342424
-电影-斯坦森,https://live.metshop.top/huya/21059588
-电影-小鬼头,https://live.metshop.top/huya/11352963
-电影-八点档,https://live.metshop.top/huya/880261
-电影-蜘蛛侠,https://live.metshop.top/huya/21059599
-电影-贺岁片,https://live.metshop.top/huya/11601986
-电影-功夫片,https://live.metshop.top/huya/11352941
-电影-黑帮片,https://live.metshop.top/huya/11336719
-电影-丧尸片,https://live.metshop.top/huya/21059578
-电影-灾难片,https://live.metshop.top/huya/11602075
-电影-谍战片,https://live.metshop.top/huya/21059587
-电影-战争片,https://live.metshop.top/huya/21059574
-电影-犯罪片,https://live.metshop.top/huya/11352974
-电影-古装片,https://live.metshop.top/huya/11336590
 电影_星爷,http://ygbh.live/huya.php?id=11342412
 电影_英叔,http://ygbh.live/huya.php?id=11342421
 电影_发哥,http://ygbh.live/huya.php?id=11342387
@@ -4022,11 +3253,8 @@ CHC家庭影院,http://111.178.99.38:9999/udp/239.69.1.243:11100
 电影_超异能族,http://ygbh.live/huya.php?id=21059586
 电影_古墓系列,http://ygbh.live/huya.php?id=11352913
 东北戏曲,http://majian.ixiaobai.net:5540/udp/239.37.1.9:5540?$长春电信组播
-梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 梨园频道,http://125.82.171.210:8888/udp/235.254.199.163:7980/index.m3u8
 梨园频道,http://125.82.171.210:8888/udp/235.254.199.163:7980
-梨园频道,http://mail.petzhu.top:7000/rtp/239.254.201.231:7228
-梨园频道,http://60.4.9.246:8888/udp/239.254.201.231:7228
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 岭南戏曲,http://gmxw.7766.org:808/hls/16/index.m3u8
 🐍数字频道,#genre#
@@ -4038,7 +3266,6 @@ NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
@@ -4046,7 +3273,6 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
@@ -4057,9 +3283,7 @@ NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 NewTV古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 🎡港台频道,#genre#
 中天新闻,https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8
 中天新闻,http://194.87.101.118/live.m3u8?c=7
@@ -4067,15 +3291,8 @@ NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/
 三立新闻台,http://194.87.101.118/live.m3u8?c=12
 华视新闻台,http://194.87.101.118/live.m3u8?c=13
 东森财经台,http://194.87.101.118/live.m3u8?c=14
-中天新闻,http://zuozhus.site/live/Smartv.php?id=ctinews
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 🎡港台频道2,#genre#
 中天亚洲,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-asia
 非凡新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=unique-business-news
@@ -4158,11 +3375,7 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 83: 风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 86: 你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 87: 你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-88: 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-
 89: 降央卓玛：这几首歌曲太动听FHD[1860*1080],https://vdse.bdstatic.com//0ce1279c88ff9ab48f48d4e86860cd46.mp4
-162: 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4
-167: 一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-168: 《窗外》《同桌的你》《心太软》《心雨》《小芳》FHD[1920*1080],https://vdse.bdstatic.com//97183ae857df5213fcfaf0fabc18efc3.mp4
 169: 《天路》《驼铃》《鸿雁》《九儿》《绒花》《小芳》[1920*1080],https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
 170: 《驼铃》《卓玛》《天边》《鸿雁》《天路》草原歌曲[1920*1080],https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
 171: 毛宁《涛声依旧》《晚秋》《心雨》《春风吻上我的脸》《大中国》[1920*1080],https://vdse.bdstatic.com//21736d388636d7648510b2a36fc7cbfd.mp4
@@ -4172,7 +3385,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 175: 粤语和华语经典歌曲【完整版】,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
 176: 《给我一把爱情火》《无情风雨无情的你》《昨夜的我又梦到了你》HD,https://vdse.bdstatic.com//63a770491e7bae0ebe661452c27eaf33.mp4
 177: 经典粤语歌曲《上海滩》《铁血丹心》《神情神话》《沧海一声笑》HD,https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
-214: DJ音乐27,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 216: DJ音乐31,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
 219: DJ音乐37,https://vdse.bdstatic.com//fbbd25c517d1ba56b3ecbfb16c27d7e9.mp4
 221: DJ音乐39,https://vdse.bdstatic.com//cdc81b17fdaf07c73eb464fd55d52491.mp4
@@ -4180,7 +3392,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 229: DJ音乐52,https://vdse.bdstatic.com//195039d170345f5e627e4a58814cbf30.mp4
 243: DJ 洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
 263: 车载DJ舞曲,https://vdse.bdstatic.com//7002925e04c4c451cfa8aafc9b4190c7.mp4
-264: 七首DJ情歌,https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
 265: 2021最佳伤感情歌,https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
 266: 2021伤感洗脑神曲,https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
 267: 2021最好听情歌HD[1280*720],https://vdse.bdstatic.com//e668900af1d683c1f8762c1184d516d3.mp4
@@ -4188,7 +3399,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 277: 2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
 278: 2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
 279: 几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
-280: 经典老歌DJ版精选六首,https://vdse.bdstatic.com//f203048340fe15016fbec9a72905680d.mp4
 282: 串烧DJ,https://vdse.bdstatic.com//0da62389c4eb7668570f9d0c78eedfee.mp4
 289: 音乐520[1920*1080],https://vdse.bdstatic.com//7b2f1b020851df0037ed7b5013a8887d.mp4
 291: 超强车载重音乐[1280*720],https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
@@ -4200,7 +3410,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 335: 车载DJ《今夜为你醉...》,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
 336: 抖音热歌《大风吹+夜夜夜漫长》,https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
 338: 《爱难求情难断…》,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
-339: 【经典老歌】DJ《精选8首》,https://vdse.bdstatic.com//200ab148a9e867ad29f5fda4ac175305.mp4
 340: 【老歌DJ版】《精选8首》,https://vdse.bdstatic.com//525174705415c8773bd465ce4b88b18d.mp4
 341: 2021《精选5首酒吧DJ舞曲》,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
 342: 好歌分享《精选6首伤感DJ舞曲》HD[1280*720],https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
@@ -4221,7 +3430,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 387: 林翠萍麦搁來这套》HD,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
 388: 林翠萍经典老歌相会在梦里,https://vdse.bdstatic.com//00fb72cd0b27bec6d9c0cd915874b50e.mp4
 389: 林翠萍经典情歌相思豆,https://vdse.bdstatic.com//986498bb0ccd2114ba1274df22fae332.mp4
-390: 龙飘飘歌声恋情,https://vdse.bdstatic.com//552f15ac34dc97bdb3cc7725cd0a0aa4.mp4
 391: 龙飘飘往事,https://vdse.bdstatic.com//a28e362e15fa8c361219944bfb59b596.mp4
 392: 龙飘飘我没醉,https://vdse.bdstatic.com//3d48e45e47836cd75c202ec957260837.mp4
 394: 美酒加咖啡龙飘飘,https://vdse.bdstatic.com//816c73543ede254586a625cacc67ea0f.mp4
@@ -4236,7 +3444,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 六首伤感DJ舞曲《为爱受尽相思罪》《爱过了头心伤透》,https://vdse.bdstatic.com//f27d59d8b75915e122f53c173e27a32e.mp4
 张也《望星空/为了谁/人间第一情/红梅赞/高天上流云》,https://vdse.bdstatic.com//038c6250208e42b9427a885e0370e1a2.mp4
 【粤语老歌】《千千阙歌》《初恋情人》《漫步人生路》等,https://vdse.bdstatic.com//06c6164d2434f16bca0da3e4d37c06b5.mp4
-2021火爆女生版伤感DJ情歌,https://vdse.bdstatic.com//8fe197e92568201d4899dfd3d94585a7.mp4
 让人陶醉的几首DJ舞曲,https://vdse.bdstatic.com//0f464b2beaf5887f90ac36b68fcd342f.mp4
 车震一小时,http://gcw.bdcdn.shoujiduoduo.com/201805/0748-641.mp4
 2021爆红《6首女生版伤感DJ》,https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
@@ -4285,23 +3492,18 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等,https
 许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
 陈明真-念念不忘的情人,http://vodcdn.video.taobao.com/oss/ali-video/a4e5b03f0ce8a9b20cea95e6ff3ce25a/video.m3u8
 周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
-张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
 任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
 艾歌-一生中最爱的人,http://vodcdn.video.taobao.com/oss/ali-video/7506ddfc8f692a7cda1b2ef73531f78b/video.m3u8
 陈明真-为爱笑着流泪,http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
 光良-第一次,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
-光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
 梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
-周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
 周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
 李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
 王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
 陈明真-情债,http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
 王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
-龙梅子-泪满天,http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
 李圣杰-痴心绝对,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
 谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
-张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
 红尘惜痴,https://vd3.bdstatic.com/mda-jkgeu6zrmrm3aqut/mda-jkgeu6zrmrm3aqut.mp4
 假如有轮回,https://vd3.bdstatic.com/mda-kdtfii15axmmg63c/v1-cae/mda-kdtfii15axmmg63c.mp4
 李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
