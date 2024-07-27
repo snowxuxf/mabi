@@ -1684,7 +1684,7 @@
 { "key": "暴风影视","name":"🐝暴风影视","api": "https://bfzyapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 { "key": "飞速资源","name":"🐝飞速资源","api": "https://www.feisuzyapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 { "key": "911资源","name":"🐝911资源","api": "https://www.911ysw.top/tianyi.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
-
+{ "key": "heimuer资源","name":"🐝黑木耳资源","api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 { "key": "红牛资源","name":"🐝红牛资源","api": "https://www.hongniuzy2.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},     
 { "key": "老虎资源","name":"🐝老虎资源","api": "https://www.huyaapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"阿里影视","name":"🐝阿里影视","api": "http://aliys.cn:90/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
