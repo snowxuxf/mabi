@@ -213,8 +213,11 @@
 
 {"key":"腐剧视频","name": "📛腐剧┃影视","type":3,"api":"csp_WexFujutv","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
 {"key":"啾啾影视","name": "📛啾啾┃影视","type":3,"api":"csp_Wexjiohub","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;59342d3fa71b245484e9a5129e63de22","searchable":1,"changeable":1},
+{"key":"新番动漫","name":"📛新番┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"http://xinfan.cc/search.php?page={catePg}&searchtype=5&tid={cateId}","分类":"日漫$1#国漫$2#欧美$3#电影$4"}},//http://xinfan.cc/search.php?page=2&searchtype=5&tid=1
+
 {"key":"兄弟影视","name":"📛兄弟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
-"ext":{"分类url":"https://www.brovod.com/show/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$6#纪录片$5#今日更新$new"}},//https://lkvod.me/show/1--------2---2024.html
+"ext":{"分类url":"https://www.brovod.com/show/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$6#纪录片$5#今日更新$new"}},
 //https://www.brovod.com/show/1--------2---2024/
 {"key":"大师兄","name":"📛大师兄","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.ruiding3bu.com/ruvodshow/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"}},
@@ -222,8 +225,24 @@
 {"key":"大师兄2","name":"📛大师兄2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
 "ext":{"分类url":"https://www.dshxtv.com/dsxdp/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 //https://www.dshxtv.com/dsxdp/2/page/2/year/2024.html
-
-
+{"key":"365影视","name":"📛365┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.365juzi.com/365ys/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"}},
+//https://www.365juzi.com/365ys/1/page/2/year/2024.html
+{"key":"3456影视","name":"📛3456┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"http://www.3456yy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#海外剧$33"}},
+//http://www.3456yy.com/index.php/vod/show/id/1/page/2.html
+{"key":"影视大全","name":"📛影视大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.daquan9.cc/dqshow/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20#今日更新$new"}},
+//https://www.daquan9.cc/dqshow/1--------2---2024.html
+{"key":"大海影视","name":"📛大海┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://m.yfysit.com/dahaisw/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"}},
+//https://m.yfysit.com/dahaisw/1--------2---2024.html
+{"key":"人人影视","name":"📛人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://rrys.pro/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"}},
+//https://rrys.pro/search.php?page=2&searchtype=5&tid=1&year=2024
+{"key":"免费影视","name":"📛免费┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+"ext":{"分类url":"https://www.eyouhao.com/vodshow/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"}},
+//https://www.eyouhao.com/vodshow/2--------2---2023.html
 
 {"key":"厂长资源","name":"🏭️厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719296591424/ouge240625.jar;md5;774a1d1c41442a76bf8d25593d35df1c","filterable":1,"ext":"https://www.czys.pro/"},
 {"key":"看看影视","name":"📛看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
