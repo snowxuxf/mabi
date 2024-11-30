@@ -2,7 +2,7 @@
 
 {
     "urls": [
- {"name": "🎯 自用MB线路 🎯","url": "https://bitbucket.org/chaoni/zbs/raw/master/xczg.json"},
+ {"name": "🎯 自用MB线路 🎯","url": "https://bitbucket.org/chaonii/zbs/raw/master/xczg.json"},
  {"name": "🎯 南风主力线路 🎯","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
  {"name": "🎯 影视车主线路 🎯","url": "https://weixine.net/ysc.json"},
  {"name": "🌈 月光宝盒线路 🌈","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
@@ -11,13 +11,21 @@
             "name": "🍚饭太硬线路"
         },                      
         {
-            "url": "http://xn--yety82d.love/",
+            "url": "http://肥猫.com",
             "name": "🐼肥猫线路"
         },
     {
       "url": "http://tv.nxog.top/m/",
       "name": "📛讴歌专线"
-    },                                                                               
+    },
+        {
+      "url": "https://d.kstore.dev/download/7337/tw/自用勿传.txt",
+      "name": "🚀天微ViP线"
+        },
+        {
+      "url": "https://d.kstore.dev/download/11256/api.json",
+      "name": "🚀七星影仓"
+        },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
