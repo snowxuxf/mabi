@@ -17,6 +17,12 @@
  {"name": "单仓 · 巧记","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/qiaoji.json"},
  {"name": "单仓 · 4K小盒子","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/4k.json"},
  {"name": "单仓 · 潇洒","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaosa.json"},              
+
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "🍚饭太硬"
+        },
+        
         {
             "url": "http://肥猫.com",
             "name": "🐼肥猫线路"
