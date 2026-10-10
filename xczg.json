@@ -30,8 +30,8 @@
 
 
 {"key":"csp_XBPQ_maicaiyy","name":"💠茶杯狐(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/726fd396d0cacbaeed91b2d08acbd0c3a7db8d17/jar/hx.jar",
-"ext":{"分类url":"https://www.cudb.cc/shaixuan/{catePg}/year/{year}/{catePg}","分类":"电影$1#电视剧$2#动漫$3#综艺$4#短剧$5#今日更新$new"}},
-//https://www.cudb.cc/shaixuan/1/year/2026/2
+"ext":{"分类url":"https://www.cudb.cc/shaixuan/{cateId}/year/{year}/{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4#短剧$5#今日更新$new"}},
+//https://www.cudb.cc/shaixuan/6/year/2026/2.html
 
 {"key":"csp_XBPQ_yiyiyy","name":"💠依依影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/726fd396d0cacbaeed91b2d08acbd0c3a7db8d17/jar/hx.jar",
 "ext":{"分类url":"https://m.gqmly.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$39#今日更新$new"}},
