@@ -235,13 +235,11 @@
 
 //======================================XBPQ网页直连例子==5=====================================
 
-{"key":"csp_XBPQ_ybys","name":"🍚野豹影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
+{"key":"csp_XBPQ_ybys","name":"🍚野豹影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/726fd396d0cacbaeed91b2d08acbd0c3a7db8d17/jar/hx.jar",
 //"ext":{"分类url":"https://www.yebaotv.cc/type/{cateId}------addtime.html","分类":"电影$1#电视剧$2#美剧$19#韩剧$20"}},
 "ext":{"分类url":"https://www.yebaotv.cc/list-select-id-{cateId}-type--area-{area}-year-{year}-star-{star}-state-{state}-order-addtime-p-{catePg}.html","分类":"电影$1#电视剧$2#美剧$19#韩剧$20"}},
 //第一页https://www.yebaotv.cc/type/1--内地-2024---addtime.html
 //第二页https://www.yebaotv.cc/list-select-id-1-type--area-内地-year-2024-star--state--order-addtime-p-2.html
-
-
 
 
 
@@ -337,8 +335,13 @@
      {"name": "Ecve","server": "https://pan.ecve.cn/"},
      {"name": "小雅","server": "http://alist.xiaoya.pro/"},
      {"name": "七米蓝","server": "https://al.chirmyram.com/"},
-   
-
+          {
+            "name": "🦆托盘",
+            "server": "https://pan.mediy.cn/"
+          }
+        ]
+      }
+    },
 
 
     {
