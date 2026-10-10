@@ -4,7 +4,7 @@
     "urls": [
  {"name": "🎯 自用MB线路 🎯","url": "https://gh-proxy.org/https://raw.githubusercontent.com/snowxuxf/mabi/refs/heads/master/xczg.json"},
  {"name": "🎯 南风主力线路 🎯","url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
- {"name": "🎯 影视车主线路 🎯","url": "https://weixine.net/ysc.json"},
+ {"url": "http://www.饭太硬.net/tv","name": "🍚饭太硬🍚"},
  {"name": "🌈 月光宝盒线路 🌈","url": "https://gh-proxy.org/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
  {"name": "单仓聚合","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/单仓聚合.json"},	
  {"name": "单仓 · 肥猫","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/feimao.json"},
@@ -18,10 +18,7 @@
  {"name": "单仓 · 4K小盒子","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/4k.json"},
  {"name": "单仓 · 潇洒","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaosa.json"},              
 
-        {
-            "url": "http://www.饭太硬.net/tv",
-            "name": "🍚饭太硬"
-        },
+
         
         {
             "url": "http://肥猫.com",
