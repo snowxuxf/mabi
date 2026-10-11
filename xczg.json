@@ -91,17 +91,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-		    {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
 
 {"key":"csp_XBPQ_xinshijuezhilian","name":"👓悟空┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
 "ext":{"分类url":"https://www.chinasumadang.com/sumadangVS/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$44"}},
