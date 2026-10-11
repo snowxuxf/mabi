@@ -6,7 +6,7 @@
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735139914944/fan241225.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
 
 "lives":[
-{"name":"live","type":0,"playerType":1,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt",
+{"name":"live","type":0,"playerType":1,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/优质源/output/ipv4/result.txt",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live2","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"live3","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
