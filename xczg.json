@@ -9,7 +9,8 @@
 {"name":"live","type":0,"playerType":1,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/snowxuxf/mabi/refs/heads/master/ALL.txt",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live2","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/snowxuxf/mabi/refs/heads/master/iptv4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"live3","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"live3","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{ "name": "虎牙一起看","type": 0,"url": "https://sub.ottiptv.cc/huyayqk.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"}
 
 ],
 	"sites":[
