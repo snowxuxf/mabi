@@ -439,7 +439,7 @@
       "key": "pansou",
       "api": "http://tvbox.zling.vip/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
 			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
-      "name": "盘搜|集合",
+      "name": "盘搜📺|集合",
       "type": 4
     },
     {
@@ -449,13 +449,7 @@
 			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
       "api": "csp_HB36DJCAT"
     },
-    {
-      "key": "luoxue",
-      "api": "csp_HBLuoXueCAT",
-      "name": "落雪📺|弹幕",
-			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
-      "type": 3
-    },
+
     {
       "key": "HBJuDao",
       "api": "csp_HBJuDaoCAT",
@@ -484,13 +478,7 @@
 			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
       "type": 3
     },
-    {
-      "key": "落雨",
-      "name": "落雨📺|弹幕",
-			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
-      "type": 3,
-      "api": "csp_HBXueluoCAT"
-    },
+
     {
       "key": "HBMaiTian",
       "api": "csp_HBMaiTianCAT",
@@ -526,13 +514,7 @@
       "type": 3,
       "api": "csp_HBDYYZCAT"
     },
-    {
-      "key": "HBPianKu8",
-      "name": "片库📺|弹幕",
-			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
-      "type": 3,
-      "api": "csp_HBPianKu8CAT"
-    },
+
     {
       "key": "HBXingKong4K",
       "name": "糖豆📺|舞蹈",
@@ -547,20 +529,8 @@
       "type": 3,
       "api": "csp_Dm84CAT"
     },
-    {
-      "key": "全网",
-      "name": "全网📺|短剧",
-			  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/duanju.php?type=dquark"
-    },
-    {
-      "key": "HBYiQi",
-      "api": "csp_HBYiQiCAT",
-      "name": "一起📺|弹幕",
-	  "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
-      "type": 3
-    },
+
+
 {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
