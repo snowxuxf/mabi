@@ -10,6 +10,7 @@
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live2","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"live3","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live4","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/d29ed1a2b66f864888e94bc81bcba97720b206bc/swtvlive","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 { "name": "虎牙一起看","type": 0,"url": "https://sub.ottiptv.cc/huyayqk.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"},
 { "name": "斗鱼一起看","type": 0,"url": "https://sub.ottiptv.cc/douyuyqk.m3u", "playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"},
 {"name": "YY轮播","type": 0,"url": "https://sub.ottiptv.cc/yylunbo.m3u", "playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"}
