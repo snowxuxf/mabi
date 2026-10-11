@@ -469,7 +469,8 @@
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     },
 {"key":"csp_XBPQ_dianyinggangcili","name":"🧲‍┃电影港磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
 "ext":{"分类url":"https://www.dygangs.org/e/action/ListInfo.php?page=2&classid={cateId}&tempid=1&orderby=newstime&line=30","分类":"电影$1#电视剧$20#综艺$31#动漫$30#短剧$32#纪录片$jilupian#国剧$21#日韩剧$23#欧美剧$24"}},
