@@ -91,6 +91,88 @@
       "quickSearch": 1,
       "changeable": 1
     },
+		    {
+      "key": "立播",
+      "name": "🌟立播┃不卡",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "http://www.饭太硬.net/tvfan/Cloud-drive.txt",
+        "siteUrl": "https://www.libvio.pw/"
+      }
+    },
+		    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+		    {
+      "key": "视界",
+      "name": "🌸茉莉┃多线",
+      "type": 3,
+      "api": "csp_App99Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.饭太硬.net/rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
+    },
+    {
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.饭太硬.net/rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+    },
+    {
+      "key": "荐片",
+      "name": "🥝荐片┃多线",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "MTV1",
+      "name": "🎙️易听┃音乐",
+      "type": 3,
+      "api": "csp_MusicGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
 
 
 {"key":"csp_XBPQ_xinshijuezhilian","name":"👓悟空┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
@@ -343,7 +425,16 @@
 {"key":"最大资源","name":"🐝最大资源","api": "https://api.zuidapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"🐝金鹰资源","api": "https://jyzyapi.com/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"🐝光速资源","api": "https://api.guangsuapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
-
+    {
+      "key": "光影",
+      "name": "🌞光影┃不卡",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.饭太硬.net/rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
+    },
     {
       "key": "奶酪",
       "name": "🧀奶酪┃秒播",
@@ -409,6 +500,17 @@
       }
     },
 
+    {
+      "key": "seed",
+      "name": "💡聚剧┃四盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "ext": "http://www.饭太硬.net/5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "indexs": 0
+    },
 
     {
       "key": "看球",
@@ -425,12 +527,122 @@
       }
     },
 
-//{"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js","ext":"https://gitee.com/okjack/okk/raw/master/js/jrs.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},{"key":"310js",
-//"name":"⚽310┃看球","type":3,"api":"https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js","ext":"https://gitee.com/okjack/okk/raw/master/js/310.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},
+   {
+      "key": "看球",
+      "name": "⚽八八┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "多多",
+      "name": "🏀多多┃回放",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "吃瓜",
+      "name": "🏐吃瓜┃看球",
+      "type": 3,
+      "api": "csp_LiveGzGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "alllive",
+      "name": "🎮一直播┃直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.饭太硬.net/uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
+    },
+    {
+      "key": "MTV",
+      "name": "🎶明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+      }
+    },
+    {
+      "key": "有声小说",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "csp_Tingshu275Guard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAidGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
 
-{"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://bitbucket.org/chaonii/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaonii/zbs/raw/master/js/jrs.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},{"key":"310js",
-"name":"⚽310┃看球","type":3,"api":"https://bitbucket.org/chaonii/zbs/raw/master/js/drpy2kanqiu.min.js","ext":"https://bitbucket.org/chaonii/zbs/raw/master/js/310.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"timeout":10},
-{"key":"Wexwuxiang","name":"🌐格斗┃体育","type":3,"api":"csp_Wexwuxiang","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719327526328/spider.jar;md5;abd7de963094093f674c391183001b3a","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
+    {
+      "key": "咕咕",
+      "name": "🦉咕咕┃动漫",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.饭太硬.net/rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+    },
+    {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/master/libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
@@ -496,19 +708,116 @@
 
 
 
-
-{"key": "合集","name": "🅱️合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/合集.json"}, 
-{"key":"csp_BBB","name":"🅱️合集1┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.nxog.top/m/Bilibili/哔哩套餐1.json"},
-{"key": "Bili","name": "🅱️合集2┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/哔哩套餐2.json"},
-{"key": "csp_Bili_zyy","name": "🅱️┃中医┃药区","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719140869902/HCCX.jar","ext": "https://sourcegraph.com/github.com/liu673cn/box/-/raw/libs/hccx/中医.json"},
-{"key": "美食","name": "🅱️美食┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/美食.json"},
-{"key":"csp_Bili","name":"🅱️哔哩哔哩｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/AndroidSoftwares/box/master/json/Bili.json"},
-{"key":"相声小品","name":"🅱️相声小品｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/AndroidSoftwares/box/master/json/Blixs.json"},
-{"key":"戏曲","name":"🅱️戏曲节目｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/AndroidSoftwares/box/master/json/Blixq.json"},
-{"key":"少儿","name":"🅱️少儿节目｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://sourcegraph.com/github.com/liu673cn/box/-/raw/libs/少儿教育.json"},
-{"key":"小学","name":"🅱️小学教育｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://sourcegraph.com/github.com/liu673cn/box/-/raw/libs/小学.json"},
-{"key":"初中","name":"🅱️初中教育｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://sourcegraph.com/github.com/liu673cn/box/-/raw/libs/初中.json"},
-{"key":"高中","name":"🅱️高中教育｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://sourcegraph.com/github.com/liu673cn/box/-/raw/libs/高中.json"}
+    {
+      "key": "Bili",
+      "name": "🅱️哔哔合集┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+      }
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱️哔哔演唱会┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+      }
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
+      }
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+      }
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
+      }
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
+      }
+    }
 ],
 
 
