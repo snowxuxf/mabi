@@ -22,7 +22,21 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
+        {
+            "key": "MDrive",
+            "name": "🗂我的云盘┃我配置",
+            "type": 3,
+            "api": "csp_MyDriveGuard",
+            "changeable": 0,
+            "indexs": 0,
+            "searchable": 1,
+            "style": {
+                "type": "oval"
+            },
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
 
 {"key":"csp_XBPQ_mahuays","name":"💠麻花影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
 "ext":{"分类url":"https://mh-ys.cc/mh-ys/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5#今日更新$new"}},
@@ -56,7 +70,37 @@
 "ext":{"分类url":"https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#更新$new"}},
 //https://zjuba.vip/index.php/vod/show/id/1/page/2.html
 
-
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃多线",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+		    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+		    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 {"key":"csp_XBPQ_xinshijuezhilian","name":"👓悟空┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
 "ext":{"分类url":"https://www.chinasumadang.com/sumadangVS/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$44"}},
@@ -309,7 +353,38 @@
 {"key":"金鹰资源","name":"🐝金鹰资源","api": "https://jyzyapi.com/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"🐝光速资源","api": "https://api.guangsuapi.com/api.php/provide/vod/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 
-
+    {
+      "key": "奶酪",
+      "name": "🧀奶酪┃秒播",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+            "key": "玩偶",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGGGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixVGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 {"key":"csp_XBPQ_dianyinggangcili","name":"🧲‍┃电影港磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
 "ext":{"分类url":"https://www.dygangs.org/e/action/ListInfo.php?page=2&classid={cateId}&tempid=1&orderby=newstime&line=30","分类":"电影$1#电视剧$20#综艺$31#动漫$30#短剧$32#纪录片$jilupian#国剧$21#日韩剧$23#欧美剧$24"}},
 //https://www.dygangs.org/e/action/ListInfo.php?page={catePg}&classid=1&tempid=1&orderby=newstime&line=30
@@ -460,6 +535,9 @@
 
 {"name":"米饭","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/4.1.0"}}
                 },
+	{"name": "巧技主解", "type": 1, "url": "https://zy.qiaoji8.com/neibu.php?url="},
+    {"name": "巧技二", "type": 1, "url": "https://zy.qiaoji8.com/gouzi.php?url="},
+    {"name": "聚合解析", "type": 3, "url": "Demo"},
 
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["优酷视频","youku","YouKu","优酷","优酷","优酷视频","qq",QQ,"腾讯","企鹅","腾讯","douyin","抖音","抖音视频","iqiyi","IQiYi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","LeShi","乐视","乐视","sohu","SoHu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","MangGuo","芒果","imgo","SMD","YuMi","luanzi","AliS","dxzy","QEYSS","SLYS4k","BYGA","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩","wasu"]}},
 
