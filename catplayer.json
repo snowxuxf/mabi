@@ -1,6 +1,85 @@
 [
-           {
+                                                                                        {
+    "id": "gszy",
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://api.guangsuapi.com/template/gszy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+        
+                                                                             {
+    "id": "jyzy",
+    "name": "金鹰资源",
+    "api": "https://jyzyapi.com/provide/vod",
+    "nsfw": false,
+    "logo": "hhttps://jyzyapi.com/template/jyzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+                                                                  {
+    "id": "zdzy",
+    "name": "最大资源",
+    "api": "https://api.zuidapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://api.zuidapi.com/template/zdzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+                                                       {
+    "id": "hyzy",
+    "name": "老虎资源",
+    "api": "https://www.huyaapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://www.huyaapi.com/template/hyzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+
+                                            {
+    "id": "bfzy",
+    "name": "暴风资源",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://bfzyapi.com/template/bfzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+                                 {
     "id": "wjzy",
+    "name": "无尽资源",
+    "api": "https://api.wujinapi.me/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://api.wujinapi.me/template/wjzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+                      {
+    "id": "lzzy",
+    "name": "量子资源",
+    "api": "http://cj.lziapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "http://cj.lziapi.com/template/lzzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+           {
+    "id": "sbcj",
     "name": "速博采集",
     "api": "https://subocaiji.com/api.php/provide/vod",
     "nsfw": false,
