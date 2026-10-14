@@ -163,7 +163,7 @@
     "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
     "nsfw": false,
     "type": 0,
-{
+ "extra":{
       "gfw": false,
       "searchLimit": 12,
       "js": {
