@@ -163,8 +163,90 @@
     "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
     "nsfw": false,
     "type": 0,
-    "extra": {
-      "gfw": false
-    }
+{
+      "gfw": false,
+      "searchLimit": 12,
+      "js": {
+        "category": [
+          {
+            "text": "首页",
+            "id": "/"
+          },
+          {
+            "text": "电影",
+            "id": "1"
+          },
+          {
+            "text": "电视剧",
+            "id": "2"
+          },
+          {
+            "text": "综艺",
+            "id": "3"
+          },
+          {
+            "text": "动漫",
+            "id": "4"
+          },
+          {
+            "text": "短剧",
+            "id": "57"
+          },
+          {
+            "text": "动作片",
+            "id": "6"
+          },
+          {
+            "text": "喜剧片",
+            "id": "7"
+          },
+          {
+            "text": "爱情片",
+            "id": "8"
+          },
+          {
+            "text": "科幻片",
+            "id": "9"
+          },
+          {
+            "text": "恐怖片",
+            "id": "10"
+          },
+          {
+            "text": "剧情片",
+            "id": "11"
+          },
+          {
+            "text": "奇幻片",
+            "id": "30"
+          },
+          {
+            "text": "战争片",
+            "id": "12"
+          },
+          {
+            "text": "犯罪片",
+            "id": "54"
+          },
+          {
+            "text": "动漫电影",
+            "id": "55"
+          },
+          {
+            "text": "伦理片",
+            "id": "34"
+          },
+          {
+            "text": "国产剧",
+            "id": "13"
+          },
+          {
+            "text": "港台剧",
+            "id": "14"
+          },
+          {
+            "text": "日韩剧",
+            "id": "15"
+          }
   }
 ]
