@@ -59,9 +59,7 @@
 "ext":{"分类url":"https://www.dytt001.cc/video/{cateId}/page/{catePg}/year/{year}/","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$shuangwenduanju#今日更新$new"}},
 //https://www.dytt001.cc/video/dianying/page/2/year/2024/
 
-{"key":"csp_XBPQ_dianytiant","name":"💠苍穹电影(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
-"ext":{"分类url":"https://www.motiongoo.com/tv/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$5#短剧$3#今日更新$new"}},
-//https://www.motiongoo.com/tv/1/page/2/year/2026.html
+
 
 
 {"key":"diduanys","name":"🦆低端影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://bitbucket.org/chaonii/zbs/raw/master/jar/hx.jar",
@@ -372,7 +370,7 @@
 
 {"key":"豪华资源","name":"🥬豪华2K","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","韩剧","日剧","马泰剧","台湾剧","动画片","中国动漫","日本动漫","欧美动漫","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","伦理片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 
-
+{ "key": "suojizy","name":"🐝索尼资源","api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","type":1,"playUrl":"","searchable":1,"quickSearch":1},
 {"key":"jszy","name":"🐝极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 {"key":"360","name":"🐝360采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
