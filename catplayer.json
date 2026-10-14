@@ -166,7 +166,20 @@
     "extra": {
       "gfw": false
     }
-  },  {
+  }, 
+    {
+    "id": "91ziyuan",
+    "name": "91资源",
+    "api": "https://91av.cyou/api.php/provide/vod/",
+    "logo": "https://91av.cyou/template/91av/static/picture/logo.png",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }, 
+  
+  {
     "id": "dm91-aimanju",
     "name": "91动漫·AI漫剧",
     "api": "https://91dongman.net",
