@@ -1,4 +1,59 @@
 [
+           {
+    "id": "wjzy",
+    "name": "速博采集",
+    "api": "https://subocaiji.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://subocaiji.com/template/sbcj/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+         {
+    "id": "wjzy",
+    "name": "无尽采集",
+    "api": "https://api.wujinapi.me/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://api.wujinapi.me/template/wjnp/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+       {
+    "id": "hnzy",
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://www.hongniuzy2.com/template/hnzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+     {
+    "id": "jisu2k",
+    "name": "豪华2K",
+    "api": "https://hhzyapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://hhzyapi.com/template/js2k/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+       {
+    "id": "360cj",
+    "name": "360采集",
+    "api": "https://360zy.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "https://360zy.com/api.php/template/360cj/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
   {
     "id": "niuniuziyuan",
     "name": "牛牛视频",
@@ -21,6 +76,7 @@
       "gfw": false
     }
   },
+  
   {
     "id": "feifanziyuan",
     "name": "非凡资源",
