@@ -40,6 +40,47 @@
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Jian_douban2.txt",
     "type": 101
   },
+    {
+    "name": "[直] 在线",
+    "version": 4,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.zxzjhd.com",
+    "codeID": "xgFE0TUb8SZsOIlZzcUkxRtewYrSozoC",
+    "order": "B",
+    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_zxzj.txt",
+    "type": 101
+  },
+    {
+    "name": "[直] 豆哔",
+    "version": 9,
+    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
+    "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
+    "webSite": "doubi",
+    "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
+    "order": "B",
+    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_doubi.txt",
+    "type": 101
+  },
+    {
+    "name": "[直] 瓜子",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://api.w32z7vtd.com",
+    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
+    "order": "B",
+    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_guazi.txt",
+    "type": 101
+  },
+    {
+    "name": "[直] 河马短剧",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.kuaikaw.cn",
+    "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
+    "order": "B",
+    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_hmdj.txt",
+    "type": 101
+  },
   {
     "name": "乌云影视",
     "version": 3,
@@ -55,16 +96,6 @@
     "webSite": "https://xl01.com.de",
     "order": "B",
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_biliys.js",
-    "type": 101
-  },
-  {
-    "name": "[直] 在线",
-    "version": 4,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://www.zxzjhd.com",
-    "codeID": "xgFE0TUb8SZsOIlZzcUkxRtewYrSozoC",
-    "order": "B",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_zxzj.txt",
     "type": 101
   },
   {
@@ -85,16 +116,6 @@
     "type": 100
   },
   {
-    "name": "[直] 瓜子",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://api.w32z7vtd.com",
-    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
-    "order": "B",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_guazi.txt",
-    "type": 101
-  },
-  {
     "name": "[直] 荐片",
     "version": 2,
     "remark": "🍃豆儿出品，不属精品！",
@@ -102,17 +123,6 @@
     "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
     "order": "B",
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_jianpian.txt",
-    "type": 101
-  },
-  {
-    "name": "[直] 豆哔",
-    "version": 9,
-    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
-    "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
-    "webSite": "doubi",
-    "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
-    "order": "B",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_doubi.txt",
     "type": 101
   },
   {
@@ -171,16 +181,6 @@
     "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
     "order": "B",
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_symx.txt",
-    "type": 101
-  },
-  {
-    "name": "[直] 河马短剧",
-    "version": 1,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://www.kuaikaw.cn",
-    "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
-    "order": "B",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_hmdj.txt",
     "type": 101
   },
   {
