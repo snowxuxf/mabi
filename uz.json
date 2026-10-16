@@ -52,17 +52,41 @@
     "type": 10,
     "remark": "来自 live.zbds.top"
   },
-  {
-    "name": "🎥网络直播",
-    "api": "https://m.iill.top/Live.m3u",
+    {
+    "name": "📺电视365",
+    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.txt",
     "type": 10,
-    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    "remark": "https://github.com/kimwang1978/collect-txt"
   },
   {
-    "name": "🚴‍♂️体育直播",
-    "api": "https://tv.iill.top/m3u/Sport",
+    "name": "📺电视365",
+    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u",
     "type": 10,
-    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    "remark": "https://github.com/alantang1977/JunTV"
+  },
+  {
+    "name": "🎥网络直播",
+    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt",
+    "type": 10,
+    "remark": "来自 https://github.com/adminouyang/231006"
+  },
+  {
+    "name": "📡范明明IPv6",
+    "api": "https://cdn.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u",
+    "type": 10,
+    "remark": "来自 范明明 大佬 https://github.com/fanmingming"
+  },
+  {
+    "name": "🛰️Govin",
+    "api": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+    "type": 10,
+    "remark": "来自 Guovin 大佬 https://github.com/Guovin"
+  },
+   {
+    "name": "📡华人TV",
+    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/master/swtvlive",
+    "type": 10,
+    "remark": "来自 https://github.com/swhtv/1"
   },
   {
     "name": "🐯虎牙一起看",
@@ -87,18 +111,6 @@
     "api": "https://sub.ottiptv.cc/bililive.m3u",
     "type": 10,
     "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
-  },
-  {
-    "name": "📡范明明IPv6",
-    "api": "https://cdn.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u",
-    "type": 10,
-    "remark": "来自 范明明 大佬 https://github.com/fanmingming"
-  },
-  {
-    "name": "🛰️Govin",
-    "api": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-    "type": 10,
-    "remark": "来自 Guovin 大佬 https://github.com/Guovin"
   },
   {
     "name": "[荐] 豆瓣",
