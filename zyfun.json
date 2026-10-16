@@ -1,5 +1,5 @@
 {
-  "analyze": [
+    "analyze": [
     {
       "id": 1,
       "name": "纯净",
@@ -193,7 +193,6 @@
       "isActive": true
     }
   ],
-{
   "iptv": [
   {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
