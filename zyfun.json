@@ -193,48 +193,56 @@
       "isActive": true
     }
   ],
+{
   "iptv": [
-    {
+  {
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "name": "TVLIVE",
+      "type": 0,
+      "url": "https://bitbucket.org/chaonii/zbs/raw/master/ALL.txt"
+    },
+  {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "name": "IPTV",
       "type": 0,
-      "url": "https://iptv.445569.xyz/live.m3u"
+      "url": "https://live.zbds.top/tv/iptv4.txt"
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "name": "IPTV4",
       "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u"
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt"
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "name": "LIVE",
       "type": 0,
-      "url": "https://cdn.qd.je/live.m3u"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt"
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "name": "LIVE2",
       "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u"
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt"
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "name": "TEST",
       "type": 0,
-      "url": "https://epg.pw/test_channels.m3u"
+      "url": "https://epg.pw/test_channels.txt"
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "name": "Sex",
       "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/Sex.m3u"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cnnbgo/tvbox/master/zh/TV/18TV.txt"
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
