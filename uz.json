@@ -40,243 +40,6 @@
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Jian_douban2.txt",
     "type": 101
   },
-     {
-    "name": "[盘] 欧歌",
-    "version": 3,
-    "webSite": "https://woog.nxog.eu.org",
-    "order": "A08",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_ouge.js",
-    "type": 101
-  },
-    {
-    "name": "[备] 装歌",
-    "version": 3,
-    "webSite": "https://ogkk.nxog.eu.org",
-    "order": "A08",
-    "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_ouge.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 玩偶",
-    "version": 3,
-    "webSite": "http://wogg.xxooo.cf",
-    "order": "A01",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_wogg.js",
-    "type": 101,
-    "logo": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/logo/wanou.png"
-  },
-  {
-    "name": "[盘] 木偶",
-    "version": 6,
-    "webSite": "https://666.666291.xyz",
-    "order": "A02",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_mogg.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 蜡笔",
-    "version": 5,
-    "webSite": "http://feimao888.fun",
-    "order": "A03",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_labipan.js",
-    "type": 101,
-    "logo": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/logo/labi.png"
-  },
-  {
-    "name": "[盘] 多多",
-    "version": 3,
-    "webSite": "https://tv.yydsys.top",
-    "order": "A04",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 闪电",
-    "version": 1,
-    "webSite": "https://sd.sduc.site",
-    "order": "A04",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_shandian.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 4KTop",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "https://4ktop.com",
-    "order": "A04",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_4KTop.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] LibVio",
-    "version": 4,
-    "webSite": "https://libvio.mov/",
-    "order": "A04",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_libvio.js",
-    "type": 101
-  },
-
-  {
-    "name": "[盘] 二小",
-    "version": 2,
-    "webSite": "http://2xiaopan.fun",
-    "order": "A06",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_erxiao.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 至臻",
-    "version": 4,
-    "webSite": "http://www.miqk.cc",
-    "order": "A07",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_zhizhen.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 虎斑",
-    "version": 1,
-    "webSite": "http://103.45.162.207:20720",
-    "order": "A08",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_huban.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 小斑",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！玩偶模板站通用自适应，更换域名即可，默认小斑占位",
-    "webSite": "http://xsayang.fun:12512",
-    "codeID": "o1yPDSn0NzqTIM7iqs1EcTbsIU4TVDdI",
-    "order": "A09",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_zishiying.txt",
-    "type": 101
-  },
-  {
-    "name": "[盘] 盘Ta",
-    "version": 1,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://www.91panta.cn/",
-    "codeID": "fYX7prspKVl5o8VMImJQllzG3NHeBdpp",
-    "order": "A12",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_panta.txt",
-    "type": 101
-  },
-  {
-    "name": "[盘] 雷鲸",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://www.leijing.xyz/",
-    "codeID": "uhSLOEbw9TJY0Zqelm0DK3eauG5UxFf8",
-    "order": "A13",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_leijing.txt",
-    "type": 101
-  },
-  {
-    "name": "[盘] 南风",
-    "version": 1,
-    "webSite": "https://www.nanf.cc",
-    "order": "A14",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_nanfdj.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 趣盘",
-    "version": 3,
-    "remark": "来自proversion2024，仅搜索",
-    "webSite": "https://pan.funletu.com",
-    "codeID": "LO5aQSJYBZLrRD1g",
-    "instance": "funletu20241124",
-    "order": "A15",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_funletu.txt",
-    "type": 100
-  },
-  {
-    "name": "[盘] 音海",
-    "version": 1,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://sou.makifx.com",
-    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
-    "order": "A16",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_yinhai.txt",
-    "type": 101
-  },
-  {
-    "name": "[盘] TG搜",
-    "version": 11,
-    "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-    "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
-    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
-    "order": "A17",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_tgs.js",
-    "type": 101,
-    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/tg.png"
-  },
-  {
-    "name": "[盘] TG搜²",
-    "version": 9,
-    "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
-    "env": "TG搜API地址##https://tgsou.252035.xyz",
-    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
-    "order": "A18",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_tgs_api.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] PanSou",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://so.252035.xyz",
-    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
-    "order": "A19",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_pansou.txt",
-    "type": 101
-  },
-  {
-    "name": "[盘] 奕搜",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "https://ysso.cc",
-    "order": "A20",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_yishou.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 123社区",
-    "version": 1,
-    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
-    "env": "123资源社区_Cookie##访问网站需要的Cookie，格式：bbs_token=xxx",
-    "webSite": "https://pan1.me",
-    "codeID": "26QUSjb30vJWr1ejaey2KGkx3Aq0pRIv",
-    "order": "A20",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_123ypzysq.txt",
-    "type": 101
-  },
-  {
-    "name": "[盘] 清影",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "http://www.revohd.com",
-    "order": "A21",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_qingying.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 319影社",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "https://www.319312.com",
-    "order": "A23",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_319yingshe.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 人人电影网",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "https://www.rrdynb.com",
-    "order": "A24",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_renren.js",
-    "type": 101
-  },
   {
     "name": "乌云影视",
     "version": 3,
@@ -590,7 +353,34 @@
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Cai_cmsUser.js",
     "type": 101
   },
-    {
+
+{"name":"[盘]欧歌","version":3,"webSite":"https://woog.nxog.eu.org","order":"A08","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_ouge.js","type":101},{"name":"[备]装歌","version":3,"webSite":"https://ogkk.nxog.eu.org","order":"A08","api":"https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_ouge.js","type":101},
+{"name":"[盘]玩偶","version":3,"webSite":"http://wogg.xxooo.cf","order":"A01","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_wogg.js","type":101,"logo":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/logo/wanou.png"},
+{"name":"[盘]木偶","version":6,"webSite":"https://666.666291.xyz","order":"A02","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_mogg.js","type":101},
+{"name":"[盘]蜡笔","version":5,"webSite":"http://feimao888.fun","order":"A03","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_labipan.js","type":101,"logo":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/logo/labi.png"},
+{"name":"[盘]多多","version":3,"webSite":"https://tv.yydsys.top","order":"A04","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_duoduo.js","type":101},
+{"name":"[盘]闪电","version":1,"webSite":"https://sd.sduc.site","order":"A04","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_shandian.js","type":101},
+{"name":"[盘]4KTop","version":3,"remark":"🙀是白猫呀！！！","webSite":"https://4ktop.com","order":"A04","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_4KTop.js","type":101},
+{"name":"[盘]LibVio","version":4,"webSite":"https://libvio.mov/","order":"A04","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_libvio.js","type":101},
+{"name":"[盘]二小","version":2,"webSite":"http://2xiaopan.fun","order":"A06","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_erxiao.js","type":101},
+{"name":"[盘]至臻","version":4,"webSite":"http://www.miqk.cc","order":"A07","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_zhizhen.js","type":101},
+{"name":"[盘]虎斑","version":1,"webSite":"http://103.45.162.207:20720","order":"A08","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_huban.js","type":101},
+{"name":"[盘]小斑","version":2,"remark":"🍃豆儿出品，不属精品！玩偶模板站通用自适应，更换域名即可，默认小斑占位","webSite":"http://xsayang.fun:12512","codeID":"o1yPDSn0NzqTIM7iqs1EcTbsIU4TVDdI","order":"A09","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_zishiying.txt","type":101},
+{"name":"[盘]盘Ta","version":1,"remark":"🍃豆儿出品，不属精品！","webSite":"https://www.91panta.cn/","codeID":"fYX7prspKVl5o8VMImJQllzG3NHeBdpp","order":"A12","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_panta.txt","type":101},
+{"name":"[盘]雷鲸","version":2,"remark":"🍃豆儿出品，不属精品！","webSite":"https://www.leijing.xyz/","codeID":"uhSLOEbw9TJY0Zqelm0DK3eauG5UxFf8","order":"A13","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_leijing.txt","type":101},
+{"name":"[盘]南风","version":1,"webSite":"https://www.nanf.cc","order":"A14","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_nanfdj.js","type":101},
+{"name":"[盘]趣盘","version":3,"remark":"来自proversion2024，仅搜索","webSite":"https://pan.funletu.com","codeID":"LO5aQSJYBZLrRD1g","instance":"funletu20241124","order":"A15","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_funletu.txt","type":100},
+{"name":"[盘]音海","version":1,"remark":"🍃豆儿出品，不属精品！","webSite":"https://sou.makifx.com","codeID":"KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX","order":"A16","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_yinhai.txt","type":101},
+{"name":"[盘]TG搜","version":11,"remark":"格式频道名称1@频道id1&频道名称2@频道id2","env":"TG搜代理地址##默认直接访问https://t.me/s/有自己的代理服务填入即可，没有不用改动。","webSite":"豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman","order":"A17","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_tgs.js","type":101,"logo":"https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/tg.png"},
+{"name":"[盘]TG搜²","version":9,"remark":"🍃豆儿出品，不属精品！免代理纯搜索，格式频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个","env":"TG搜API地址##https://tgsou.252035.xyz","webSite":"豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman","order":"A18","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_tgs_api.js","type":101},
+{"name":"[盘]PanSou","version":2,"remark":"🍃豆儿出品，不属精品！","webSite":"https://so.252035.xyz","codeID":"KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX","order":"A19","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_pansou.txt","type":101},
+{"name":"[盘]奕搜","version":3,"remark":"🙀是白猫呀！！！","webSite":"https://ysso.cc","order":"A20","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_yishou.js","type":101},
+{"name":"[盘]123社区","version":1,"remark":"🍃豆儿出品，不属精品！内容来自网络仅供学习测试！","env":"123资源社区_Cookie##访问网站需要的Cookie，格式：bbs_token=xxx","webSite":"https://pan1.me","codeID":"26QUSjb30vJWr1ejaey2KGkx3Aq0pRIv","order":"A20","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_123ypzysq.txt","type":101},
+{"name":"[盘]清影","version":3,"remark":"🙀是白猫呀！！！","webSite":"http://www.revohd.com","order":"A21","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_qingying.js","type":101},
+{"name":"[盘]319影社","version":3,"remark":"🙀是白猫呀！！！","webSite":"https://www.319312.com","order":"A23","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_319yingshe.js","type":101},
+{"name":"[盘]人人电影网","version":3,"remark":"🙀是白猫呀！！！","webSite":"https://www.rrdynb.com","order":"A24","api":"https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_renren.js","type":101},
+   
+ {
     "name": "夸克|UC|阿里|天翼|123|百度|移动|pikpak|115|解析",
     "version": 41,
     "remark": "iOS 15 及以上版本可用",
