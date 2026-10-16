@@ -48,9 +48,9 @@
   },
   {
     "name": "📺电视直播",
-    "api": "https://tv.iill.top/m3u/Gather",
+    "api": "https://live.zbds.top/tv/iptv4.txt",
     "type": 10,
-    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    "remark": "来自 live.zbds.top"
   },
   {
     "name": "🎥网络直播",
