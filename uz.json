@@ -111,6 +111,12 @@
     "type": 101,
     "logo": "https://img.geekie.site/i/2026/02/23/220741.png"
   },
+   {
+        "name": "[直] 两个BT",
+        "api": "https://cdn.jsdelivr.net/gh/yswag/uzVideo@main/js/spider/bttwo.js",
+        "instance": "bttwo20240628",
+        "webSite": "https://www.bttwoo.com",
+        "remark": "✈️TG频道@iOSAWJ"},
   {
     "name": "[直] 荐片",
     "version": 2,
