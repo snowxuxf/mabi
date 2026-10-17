@@ -17,7 +17,6 @@
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/recommend/js/douban.txt",
     "type": 200
   },
-"live": [
 {"name":"📺电视直播","api":"https://live.zbds.top/tv/iptv4.txt","type":10,"remark":"来自live.zbds.top"},
 {"name":"📺电视365","api":"https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.txt","type":10,"remark":"https://github.com/kimwang1978/collect-txt"},
 {"name":"📺电视365","api":"https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","type":10,"remark":"https://github.com/alantang1977/JunTV"},
@@ -28,7 +27,7 @@
 {"name":"🐯虎牙一起看","api":"https://sub.ottiptv.cc/huyayqk.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
 {"name":"🐟斗鱼一起看","api":"https://sub.ottiptv.cc/douyuyqk.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
 {"name":"🔄YY轮播","api":"https://sub.ottiptv.cc/yylunbo.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
-{"name":"📺哔哩直播","api":"https://sub.ottiptv.cc/bililive.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"}],
+{"name":"📺哔哩直播","api":"https://sub.ottiptv.cc/bililive.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
 
   {
     "name": "[荐] 豆瓣",
