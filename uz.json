@@ -17,7 +17,7 @@
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/recommend/js/douban.txt",
     "type": 200
   },
-
+"live": [
 {"name":"📺电视直播","api":"https://live.zbds.top/tv/iptv4.txt","type":10,"remark":"来自live.zbds.top"},
 {"name":"📺电视365","api":"https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.txt","type":10,"remark":"https://github.com/kimwang1978/collect-txt"},
 {"name":"📺电视365","api":"https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","type":10,"remark":"https://github.com/alantang1977/JunTV"},
@@ -28,7 +28,7 @@
 {"name":"🐯虎牙一起看","api":"https://sub.ottiptv.cc/huyayqk.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
 {"name":"🐟斗鱼一起看","api":"https://sub.ottiptv.cc/douyuyqk.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
 {"name":"🔄YY轮播","api":"https://sub.ottiptv.cc/yylunbo.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
-{"name":"📺哔哩直播","api":"https://sub.ottiptv.cc/bililive.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"},
+{"name":"📺哔哩直播","api":"https://sub.ottiptv.cc/bililive.m3u","type":10,"remark":"来自Mursor大佬https://github.com/mursor1985"}],
 
   {
     "name": "[荐] 豆瓣",
@@ -59,16 +59,6 @@
     "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
     "order": "B",
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_doubi.txt",
-    "type": 101
-  },
-    {
-    "name": "[直] 瓜子",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://api.w32z7vtd.com",
-    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
-    "order": "B",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_guazi.txt",
     "type": 101
   },
     {
@@ -163,6 +153,16 @@
     "codeID": "a2buZX6jr7AcTQppx1MTcXMQOGNZFAAF",
     "order": "B",
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_rrsp.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 瓜子",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://api.w32z7vtd.com",
+    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
+    "order": "B",
+    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_guazi.txt",
     "type": 101
   },
   {
