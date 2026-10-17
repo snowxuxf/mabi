@@ -180,7 +180,6 @@
           {"name": "电影天堂","remark":"✈️TG频道@iOSAWJ","url": "http://dyttzyw.com/api.php/provide/vod/?ac=list"},
           {"name": "豆瓣","remark":"✈️TG频道@iOSAWJ","url": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn"},
         {"name": "茅台","remark":"✈️TG频道@iOSAWJ","url": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn"},
-        {"name": "如意","remark":"✈️TG频道@iOSAWJ","url": "http://cj.rycjapi.com/api.php/provide/vod/?ac=list"},
         {"name": "量子","remark":"✈️TG频道@iOSAWJ","url": "https://cj.lziapi.com/api.php/provide/vod/?ac=list"},
         {"name": "暴风","remark":"✈️TG频道@iOSAWJ","url": "http://by.bfzyapi.com/api.php/provide/vod"},
         {"name": "极速","remark":"✈️TG频道@iOSAWJ","url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json"},
