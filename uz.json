@@ -71,15 +71,6 @@
     "type": 101
   },
   {
-    "name": "乌云影视",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "https://wooyun.tv",
-    "order": "B",
-    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_wooyun.js",
-    "type": 101
-  },
-  {
     "name": "[直] 修罗",
     "version": 2,
     "webSite": "https://xl01.com.de",
@@ -180,6 +171,15 @@
     "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
     "order": "B",
     "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_symx.txt",
+    "type": 101
+  },
+    {
+    "name": "乌云影视",
+    "version": 3,
+    "remark": "🙀是白猫呀！！！",
+    "webSite": "https://wooyun.tv",
+    "order": "B",
+    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Zhi_wooyun.js",
     "type": 101
   },
   {
